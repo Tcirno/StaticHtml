@@ -1,0 +1,20 @@
+[
+  {
+    "message": "sccess",
+    "code": 0,
+    "data": {
+      "gender": {
+        "gender_type": "0",
+        "male": "0.4501",
+        "female": "0.5499"
+      },
+      "age": {
+        "middle": "0.1186",
+        "old": "0.1113",
+        "age_type": "1",
+        "child": "0.7701"
+      }
+    },
+    "sid": "igr00086c95@dx16e11a37922a11d902"
+  }
+]

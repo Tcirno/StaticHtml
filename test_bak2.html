@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>echarts.js案例一</title>
+    <script src="https://cdn.bootcss.com/echarts/4.4.0-rc.1/echarts-en.common.js"></script>
+    <script src="https://cdn.staticfile.org/jquery/3.2.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/4.3.1/css/bootstrap.min.css">
+    <script src="https://cdn.staticfile.org/twitter-bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <script src="https://cdn.bootcss.com/masonry/4.2.2/masonry.pkgd.js"></script><!--    动画库-->
+    <script src="https://cdn.bootcss.com/particles.js/2.0.0/particles.js"></script><!--    酷炫背景库-->
+
+    <script>
+        $(function () { //动态变换·使用content的class进行定位
+
+            // init Masonry
+            var $grid = $('.content').masonry({
+                columnWidth: '.template',
+                itemSelector: '.template'
+            });
+            $grid.masonry();
+        })
+    </script>
+
+    <style>
+        body {
+            background-image: linear-gradient(to top, rgba(255, 0, 0, 0), rgba(0, 155, 199, 1));
+        }
+
+        .template {
+            /*background-color: gray;*/
+            border: 1px solid #b6ff00;
+        }
+
+        .div1 {
+            height: 250px;
+        }
+
+        .div2 {
+            height: 125px;
+
+        }
+
+        .div3 {
+            height: 500px;
+            /*width: 400px;*/
+        }
+    </style>
+</head>
+<body>
+
+
+<div class="container-fluid">
+    <div class="row content" style="height:200px; width: 100%;">
+        <div class="template col-xs-12 col-sm-6 col-md-3 col-lg-4 div1"></div>
+        <div class="template col-xs-12 col-sm-6 col-md-3 col-lg-4 div3" id="a"></div>
+        <!--        </div>-->
+
+        <!--        <div class="row content" style="height:500px; width: 100%;">-->
+        <div class="template col-xs-12 col-sm-6 col-md-3 col-lg-4 div3" id="c"></div>
+        <div class="template col-xs-12 col-sm-6 col-md-3 col-lg-4 div3" id="b"></div>
+        <div class="template col-xs-12 col-sm-6 col-md-3 col-lg-4 div1"></div>
+        <div class="template col-xs-12 col-sm-6 col-md-3 col-lg-4 div2"></div>
+        <div class="template col-xs-12 col-sm-6 col-md-3 col-lg-4 div3"></div>
+        <div class="template col-xs-12 col-sm-6 col-md-3 col-lg-4 div3"></div>
+        <div class="template col-xs-12 col-sm-6 col-md-3 col-lg-4 div2"></div>
+        <div class="template col-xs-12 col-sm-6 col-md-3 col-lg-4 div1"></div>
+
+    </div>
+</div>
+<script>
+    var worldMapContainera = document.getElementById('a');
+    var worldMapContainerb = document.getElementById('b');
+    var worldMapContainerc = document.getElementById('c');
+
+    var resizeWorldMapContainer_a = function () {
+        worldMapContainera.style.width = document.getElementById("a").offsetWidth + 'px';
+    };
+    var resizeWorldMapContainer_b = function () {
+        worldMapContainerb.style.width = document.getElementById("b").offsetWidth + 'px';
+    };
+    var resizeWorldMapContainer_c = function () {
+        worldMapContainerc.style.width = document.getElementById("c").offsetWidth + 'px';
+    };
+
+    resizeWorldMapContainer_a();
+    resizeWorldMapContainer_b();
+    resizeWorldMapContainer_c();
+
+    var myChartOne = echarts.init(worldMapContainera);
+    var myChartTwo = echarts.init(worldMapContainerb);
+    var myChartThr = echarts.init(worldMapContainerc);
+
+    var listx = [];
+    var listy = [];
+
+    var num = 200;
+    $.get('src/out.json', function (data) {
+        for (var i = 0; i <= num - 1; i++) {
+            listx.push(data[i].id);
+            listy.push(data[i].price);
+        }
+        // });//原function末尾
+        var option1 = {
+            // backgroundColor: '',
+            backgroundColor: 'rgba(255, 255, 255, 0)',
+            title: {
+                text: 'ECharts 入门示例'
+            },
+            tooltip: {},
+            legend: {
+                data: ['销量'],
+                width: worldMapContainera.style.width
+            },
+            xAxis: {
+                data: ["衬衫", "羊毛衫", "雪纺衫", "裤子", "高跟鞋", "袜子"]
+            },
+            yAxis: {},
+            series: [{
+                name: '销量',
+                type: 'bar',
+                data: [5, 20, 36, 10, 10, 2]
+            }]
+        };
+
+        var option2 = {
+            backgroundColor: '',
+            title: {
+                text: 'ECharts 入门示例'
+            },
+            tooltip: {},
+            legend: {
+                data: ['销量'],
+                width: worldMapContainerb.style.width
+            },
+            xAxis: {
+                data: ["衬衫", "羊毛衫", "雪纺衫", "裤子", "高跟鞋", "袜子"]
+            },
+            yAxis: {},
+            series: [{
+                name: '销量',
+                type: 'bar',
+                data: [5, 20, 36, 10, 10, 25]
+            }]
+        };
+
+        var option3 = {
+            backgroundColor: '',
+            tooltip: {
+                trigger: 'axis'
+            },
+            legend: {
+                // data: ['充值', '消费'],
+                data: ['商品'],
+                width: worldMapContainerc.style.width
+            },
+            calculable: true,
+
+            xAxis: [
+                {
+                    axisLabel: {
+                        rotate: 30,
+                        interval: 0
+                    },
+                    axisLine: {
+                        lineStyle: {
+                            color: '#CECECE'
+                        }
+                    },
+                    type: 'category',
+                    boundaryGap: false,
+                    show: false,
+                    data: listx
+                }
+            ],
+            yAxis: [
+                {
+
+                    type: 'value',
+                    axisLine: {
+                        lineStyle: {
+                            color: '#CECECE'
+                        }
+                    }
+                }
+            ],
+            series: [
+                {
+                    name: '商品',
+                    type: 'line',
+                    symbol: 'none',
+                    smooth: 0.2,
+                    // color: ['#66AEDE'],
+                    color: '#000',
+                    show: false,
+                    data: listy
+                },
+                {
+                    name: '消费',
+                    type: 'line',
+                    symbol: 'none',
+                    smooth: 0.2,
+                    color: ['#90EC7D'],
+                    // data: [600, 300, 400, 200, 300, 300, 200, 400]
+                }
+            ]
+        };
+        myChartOne.setOption(option1);
+        myChartTwo.setOption(option2);
+        myChartThr.setOption(option3);
+        window.onresize = function () {
+            //重置容器高宽
+            resizeWorldMapContainer_a();
+            resizeWorldMapContainer_b();
+            resizeWorldMapContainer_c();
+            myChartOne.resize();
+            myChartTwo.resize();
+            myChartThr.resize();
+        };
+    });
+</script>
+</body>
+</html>
