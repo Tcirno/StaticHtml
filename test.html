@@ -14,8 +14,8 @@
 
     <style>
         body {
-            background-color: #010230;
-            /*background-color: lightblue;*/
+            /*background-color: #010230;*/
+            background-color: lightblue;
             /*background-color: rgba(123, 123, 123, 0.5);*/
             margin: 0px;
             overflow: hidden;
@@ -62,13 +62,14 @@
     <!--    </script>-->
 </head>
 <body>
-<div id="test" style="height: 100%;width:100%; z-index: 80">
+<div id="test" style=" z-index: 80">
+<!--    <div id="test" style="height: 100%;width:100%; z-index: 80">-->
     <script type="text/javascript" src="js/three.min.js"></script>
     <script src="js/data.js"></script>
     <div class="container-fluid" id="allin" style="z-index: 100">
-        <div class="row content" style="height:200px; width: 100%;">
+        <div class="row content" style=" width: 100%;">
             <div class="template col-xs-12 col-sm-6 col-md-4 col-lg-3 div1"></div>
-            <div class="template col-xs-12 col-sm-6 col-md-4 col-lg-3 div3" id="a"></div>
+            <div class="template col-xs-12 col-sm-6 col-md-4 col-lg-12 div3" id="a"></div>
             <div class="template col-xs-12 col-sm-6 col-md-4 col-lg-3 div3" id="b"></div>
             <div class="template col-xs-12 col-sm-6 col-md-4 col-lg-3 div1"></div>
             <div class="template col-xs-12 col-sm-6 col-md-4 col-lg-3 div3" id="c"></div>
@@ -113,7 +114,6 @@
                             width: worldMapContainera.style.width
                         },
                         calculable: true,
-
                         xAxis: [
                             {
                                 show: false,
@@ -123,7 +123,8 @@
                                 },
                                 axisLine: {
                                     lineStyle: {
-                                        color: '#CECECE'
+                                        // color: '#CECECE'
+                                        color: '#FFF999'
                                     }
                                 },
                                 type: 'category',
@@ -133,21 +134,22 @@
                         ],
                         yAxis: [
                             {
-                                show: true,
+                                show: false,
                                 type: 'value',
                                 axisLine: {
                                     lineStyle: {
                                         width: 2,
                                         color: '#FFFFFF'
                                     }
-                                }
+                                },
                             }
                         ],
                         series: [
                             {
+                                showSymbol: true,
                                 name: '商品',
                                 type: 'line',
-                                symbol: 'none',
+                                // symbol: 'none',
                                 smooth: 0.2,
                                 // color: ['#66AEDE'],
                                 color: '#FFF',
