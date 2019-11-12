@@ -14,8 +14,8 @@
 
     <style>
         body {
-            /*background-color: #010230;*/
-            background-color: lightblue;
+            background-color: #010230;
+            /*background-color: lightblue;*/
             /*background-color: rgba(123, 123, 123, 0.5);*/
             margin: 0px;
             overflow: hidden;
@@ -49,17 +49,17 @@
         }
 
     </style>
-<!--    <script>-->
-<!--        $(function () { //动态变换·使用content的class进行定位-->
+    <!--    <script>-->
+    <!--        $(function () { //动态变换·使用content的class进行定位-->
 
-<!--            // init Masonry-->
-<!--            var $grid = $('.content').masonry({-->
-<!--                columnWidth: '.template',-->
-<!--                itemSelector: '.template'-->
-<!--            });-->
-<!--            $grid.masonry();-->
-<!--        })-->
-<!--    </script>-->
+    <!--            // init Masonry-->
+    <!--            var $grid = $('.content').masonry({-->
+    <!--                columnWidth: '.template',-->
+    <!--                itemSelector: '.template'-->
+    <!--            });-->
+    <!--            $grid.masonry();-->
+    <!--        })-->
+    <!--    </script>-->
 </head>
 <body>
 <div id="test" style="height: 100%;width:100%; z-index: 80">
@@ -78,6 +78,7 @@
             <div class="template col-xs-12 col-sm-6 col-md-4 col-lg-3 div3" id="e"></div>
             <div class="template col-xs-12 col-sm-6 col-md-4 col-lg-3 div2"></div>
             <div class="template col-xs-12 col-sm-6 col-md-4 col-lg-3 div1"></div>
+
             <script>
                 // id=a使用的js
                 var worldMapContainera = document.getElementById('a');
@@ -89,7 +90,7 @@
 
                 var listx = [];
                 var listy = [];
-                var num = 200;
+                var num = 150;
 
                 resizeWorldMapContainer_a();
                 $.get('src/out1.json', function (data) {
@@ -115,6 +116,7 @@
 
                         xAxis: [
                             {
+                                show: false,
                                 axisLabel: {
                                     rotate: 30,
                                     interval: 0
@@ -126,17 +128,17 @@
                                 },
                                 type: 'category',
                                 boundaryGap: false,
-                                show: false,
                                 data: listx
                             }
                         ],
                         yAxis: [
                             {
-
+                                show: true,
                                 type: 'value',
                                 axisLine: {
                                     lineStyle: {
-                                        color: '#CECECE'
+                                        width: 2,
+                                        color: '#FFFFFF'
                                     }
                                 }
                             }
@@ -148,8 +150,7 @@
                                 symbol: 'none',
                                 smooth: 0.2,
                                 // color: ['#66AEDE'],
-                                color: '#888F00',
-                                show: false,
+                                color: '#FFF',
                                 data: listy
                             }
                         ]
