@@ -14,11 +14,12 @@
 
     <style>
         body {
-            /*background-color: #010230;*/
-            background-color: lightblue;
+            background-color: #010230;
+            /*background-color: lightblue;*/
             /*background-color: rgba(123, 123, 123, 0.5);*/
             margin: 0px;
             overflow: hidden;
+            /*锁定页面滚动 由于波浪背景属于固定屏幕大小而生成的*/
             text-align: center;
             margin: 0px;
         }
@@ -62,10 +63,12 @@
     <!--    </script>-->
 </head>
 <body>
-<div id="test" style=" z-index: 80">
-<!--    <div id="test" style="height: 100%;width:100%; z-index: 80">-->
+<!--<div id="test">-->
+<!--<div id="test" style=" z-index: 80">-->
+<div id="test" style="height: 100%;width:100%; z-index: 80">
     <script type="text/javascript" src="js/three.min.js"></script>
     <script src="js/data.js"></script>
+    <!--    <div class="container-fluid" id="allin">-->
     <div class="container-fluid" id="allin" style="z-index: 100">
         <div class="row content" style=" width: 100%;">
             <div class="template col-xs-12 col-sm-6 col-md-4 col-lg-3 div1"></div>
@@ -91,16 +94,20 @@
 
                 var listx = [];
                 var listy = [];
-                var num = 150;
+                var listz = [];
+                var num = 2333;
 
                 resizeWorldMapContainer_a();
                 $.get('src/out1.json', function (data) {
 
                     listx = [];
                     listy = [];
+                    listz = [];
+                    num = 233;
                     for (var i = 0; i <= num - 1; i++) {
                         listx.push(data[i].id);
                         listy.push(data[i].price);
+                        listz.push(data[i].number);
                     }
 
                     var option1 = {
@@ -110,7 +117,29 @@
                         },
                         legend: {
                             // data: ['充值', '消费'],
-                            data: ['商品'],
+                            data: ['商品', '22'],
+
+                            orient: 'horizontal',      // 布局方式，默认为水平布局，可选为：
+                            // 'horizontal' ¦ 'vertical'
+                            x: 'center',               // 水平安放位置，默认为全图居中，可选为：
+                                                       // 'center' ¦ 'left' ¦ 'right'
+                                                       // ¦ {number}（x坐标，单位px）
+                            y: 'top',                  // 垂直安放位置，默认为全图顶端，可选为：
+                                                       // 'top' ¦ 'bottom' ¦ 'center'
+                                                       // ¦ {number}（y坐标，单位px）
+                            backgroundColor: 'rgba(122,122,255,0.8)',
+                            borderColor: '#FFF',       // 图例边框颜色
+                            borderWidth: 1,            // 图例边框线宽，单位px，默认为0（无边框）
+                            padding: 5,                // 图例内边距，单位px，默认各方向内边距为5，
+                                                       // 接受数组分别设定上右下左边距，同css
+                            itemGap: 50,               // 各个item之间的间隔，单位px，默认为10，
+                                                       // 横向布局时为水平间隔，纵向布局时为纵向间隔
+                            itemWidth: 20,             // 图例图形宽度
+                            itemHeight: 14,            // 图例图形高度
+                            textStyle: {
+                                color: '#333'          // 图例文字颜色
+                            },
+
                             width: worldMapContainera.style.width
                         },
                         calculable: true,
@@ -134,7 +163,7 @@
                         ],
                         yAxis: [
                             {
-                                show: false,
+                                show: true,
                                 type: 'value',
                                 axisLine: {
                                     lineStyle: {
@@ -154,15 +183,31 @@
                                 // color: ['#66AEDE'],
                                 color: '#FFF',
                                 data: listy
+                            },
+                            {
+                                showSymbol: true,
+                                name: '22',
+                                type: 'line',
+                                // symbol: 'none',
+                                smooth: 0.2,
+                                // color: ['#66AEDE'],
+                                color: '#00FF99',
+                                data: listz
                             }
                         ]
                     };
+                    setInterval(function () {
+                        //window.alert('1')
+
+                    }, 0);
+
                     myChartOne.setOption(option1);
                     window.onresize = function () {
                         //重置容器高宽
                         resizeWorldMapContainer_a();
                         myChartOne.resize();
                     };
+
                 })
             </script>
             <script>
