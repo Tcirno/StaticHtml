@@ -14,11 +14,11 @@
 
     <style>
         body {
-            background-color: #010230;
-            /*background-color: lightblue;*/
+            /*background-color: #010230;*/
+            background-color: lightblue;
             /*background-color: rgba(123, 123, 123, 0.5);*/
             margin: 0px;
-            overflow: hidden;
+            /*overflow: hidden;*/
             /*锁定页面滚动 由于波浪背景属于固定屏幕大小而生成的*/
             text-align: center;
             margin: 0px;
@@ -71,8 +71,8 @@
     <!--    <div class="container-fluid" id="allin">-->
     <div class="container-fluid" id="allin" style="z-index: 100">
         <div class="row content" style=" width: 100%;">
-            <div class="template col-xs-12 col-sm-6 col-md-4 col-lg-3 div1"></div>
-            <div class="template col-xs-12 col-sm-6 col-md-4 col-lg-12 div3" id="a"></div>
+            <div class="template col-xs-12 col-sm-6 col-md-4 col-lg-12 div3" id="container"></div>
+            <div class="template col-xs-12 col-sm-6 col-md-4 col-lg-3 div3" id="a"></div>
             <div class="template col-xs-12 col-sm-6 col-md-4 col-lg-3 div3" id="b"></div>
             <div class="template col-xs-12 col-sm-6 col-md-4 col-lg-3 div1"></div>
             <div class="template col-xs-12 col-sm-6 col-md-4 col-lg-3 div3" id="c"></div>
@@ -82,6 +82,83 @@
             <div class="template col-xs-12 col-sm-6 col-md-4 col-lg-3 div3" id="e"></div>
             <div class="template col-xs-12 col-sm-6 col-md-4 col-lg-3 div2"></div>
             <div class="template col-xs-12 col-sm-6 col-md-4 col-lg-3 div1"></div>
+
+            <script type="text/javascript">
+                var dom = document.getElementById("container");
+                var myChart = echarts.init(dom);
+
+                option = null;
+                $.get('src/out6.json', function (dataa) {
+                    var n = 100;
+
+                    listx6 = [];
+                    listy6 = [];
+                    for (var i = 0; i < 120; i++) {
+                        listx6.push(dataa[i].id);
+                        listy6.push(dataa[i].price);
+                        n = i;
+                    }
+                    option = {
+                        title: {
+                            text: '动态读取json文件'
+                        },
+                        tooltip: {
+                            trigger: 'axis'
+                        },
+
+                        xAxis: [
+                            {
+                                show: false,
+                                axisLabel: {
+                                    rotate: 30,
+                                    interval: 0
+                                },
+                                axisLine: {
+                                    lineStyle: {
+                                        // color: '#CECECE'
+                                        color: '#FFF999'
+                                    }
+                                },
+                                type: 'category',
+                                boundaryGap: false,
+                                data: listx6
+                            }
+                        ],
+
+                        yAxis: {
+                            type: 'value',
+                            boundaryGap: [0, '100%'],
+                            splitLine: {
+                                show: true
+                            }
+                        },
+                        series: [{
+                            name: '模拟数据',
+                            type: 'line',
+                            showSymbol: false,
+                            hoverAnimation: false,
+                            data: listy6
+                        }]
+                    };
+
+                    setInterval(function () {
+
+                        for (var i = 0; i < 1; i++) {
+                            listx6.shift();
+                            listx6.push(dataa[n].id);
+                            listy6.shift();
+                            listy6.push(dataa[n].price);
+                            n++;
+                        }
+                        myChart.setOption({xAxis: [{data: listx6}], series: [{data: listy6}]});
+                    }, 1);
+
+
+                    if (option && typeof option === "object") {
+                        myChart.setOption(option, true);
+                    }
+                })
+            </script>
 
             <script>
                 // id=a使用的js
