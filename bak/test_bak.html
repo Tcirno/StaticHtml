@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="initial-scale=1,maximum-scale=1,minimum-scale=1">
+    <title>echarts.js案例一</title>
+    <script src="https://cdn.bootcss.com/echarts/4.4.0-rc.1/echarts-en.common.js"></script>
+    <script src="https://cdn.staticfile.org/jquery/3.2.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/4.3.1/css/bootstrap.min.css">
+    <script src="https://cdn.staticfile.org/twitter-bootstrap/4.3.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+<div class="row" style="height:200px; width: 100%;">
+    <div class="col" id="a" style="width: 100%; background-color: lightpink"></div>
+    <div class="col" id="b" style="width: 100%; background-color: lightblue"></div>
+</div>
+<div class="row" style="height:500px; width: 100%;">
+<!--    <div class="col" style="background-color: lightgreen"></div>-->
+    <div class="col" id="c" style="width: 100%; background-color: lightsalmon"></div>
+<!--    <div class="col" style="background-color: lightyellow"></div>-->
+</div>
+<script>
+    var worldMapContainera = document.getElementById('a');
+    var worldMapContainerb = document.getElementById('b');
+    var worldMapContainerc = document.getElementById('c');
+
+    var resizeWorldMapContainer_a = function () {
+        worldMapContainera.style.width = document.getElementById("a").offsetWidth - 1 + 'px';
+    };
+    var resizeWorldMapContainer_b = function () {
+        worldMapContainerb.style.width = document.getElementById("b").offsetWidth - 1 + 'px';
+    };
+    var resizeWorldMapContainer_c = function () {
+        worldMapContainerc.style.width = document.getElementById("c").offsetWidth - 1 + 'px';
+    };
+
+    resizeWorldMapContainer_a();
+    resizeWorldMapContainer_b();
+    resizeWorldMapContainer_c();
+
+    // var myChartOne = echarts.init(document.getElementById('a'));
+    // var myChartTwo = echarts.init(document.getElementById('b'));
+
+    var myChartOne = echarts.init(worldMapContainera);
+    var myChartTwo = echarts.init(worldMapContainerb);
+    var myChartThr = echarts.init(worldMapContainerc);
+
+    var listx = [];
+    var listy = [];
+
+    var num = 200;
+    $.get('src/out.json', function (data) {
+        for (var i = 0; i <= num-1; i++) {
+            listx.push(data[i].id);
+            listy.push(data[i].price);
+            // window.alert(data[i].id)
+            // window.alert(data[i].id);
+            // window.alert(data[i].price);
+        }
+        // });//原function末尾
+        var option1 = {
+            title: {
+                text: 'ECharts 入门示例'
+            },
+            tooltip: {},
+            legend: {
+                data: ['销量'],
+                width: worldMapContainera.style.width
+            },
+            xAxis: {
+                data: ["衬衫", "羊毛衫", "雪纺衫", "裤子", "高跟鞋", "袜子"]
+            },
+            yAxis: {},
+            series: [{
+                name: '销量',
+                type: 'bar',
+                data: [5, 20, 36, 10, 10, 2]
+            }]
+        };
+
+        var option2 = {
+            title: {
+                text: 'ECharts 入门示例'
+            },
+            tooltip: {},
+            legend: {
+                data: ['销量'],
+                width: worldMapContainerb.style.width
+            },
+            xAxis: {
+                data: ["衬衫", "羊毛衫", "雪纺衫", "裤子", "高跟鞋", "袜子"]
+            },
+            yAxis: {},
+            series: [{
+                name: '销量',
+                type: 'bar',
+                data: [5, 20, 36, 10, 10, 25]
+            }]
+        };
+
+        var option3 = {
+            backgroundColor: '#FBFBFB',
+            tooltip: {
+                trigger: 'axis'
+            },
+            legend: {
+                // data: ['充值', '消费'],
+                data: ['商品'],
+                width: worldMapContainerc.style.width
+            },
+
+            calculable: true,
+
+
+            xAxis: [
+                {
+                    axisLabel: {
+                        rotate: 30,
+                        interval: 0
+                    },
+                    axisLine: {
+                        lineStyle: {
+                            color: '#CECECE'
+                        }
+                    },
+                    type: 'category',
+                    boundaryGap: false,
+                    data: listx
+                    // data: function () {
+                    //     var list = [];
+                    //     for (var i = 10; i <= 18; i++) {
+                    //         if (i <= 12) {
+                    //             list.push('2016-' + i + '-01');
+                    //         } else {
+                    //             list.push('2017-' + (i - 12) + '-01');
+                    //         }
+                    //     }
+                    //     return list;
+                    // }()
+                }
+            ],
+            yAxis: [
+                {
+
+                    type: 'value',
+                    axisLine: {
+                        lineStyle: {
+                            color: '#CECECE'
+                        }
+                    }
+                }
+            ],
+            series: [
+                {
+                    name: '商品',
+                    type: 'line',
+                    symbol: 'none',
+                    smooth: 0.2,
+                    color: ['#66AEDE'],
+                    data: listy
+                    // data:[800, 300, 500, 800, 300, 600,500,600]
+                },
+                {
+                    name: '消费',
+                    type: 'line',
+                    symbol: 'none',
+                    smooth: 0.2,
+                    color: ['#90EC7D'],
+                    // data: [600, 300, 400, 200, 300, 300, 200, 400]
+                }
+            ]
+        };
+        myChartOne.setOption(option1);
+        myChartTwo.setOption(option2);
+        myChartThr.setOption(option3);
+        window.onresize = function () {
+            //重置容器高宽
+            resizeWorldMapContainer_a();
+            resizeWorldMapContainer_b();
+            myChartOne.resize();
+            myChartTwo.resize();
+            myChartThr.resize();
+        };
+    });
+</script>
+</body>
+</html>

@@ -1,0 +1,9002 @@
+[
+  {
+    "id": 1,
+    "data1": 97,
+    "data2": 37,
+    "data3": 4,
+    "data4": 98,
+    "price": 14,
+    "number": 443
+  },
+  {
+    "id": 2,
+    "data1": 51,
+    "data2": 86,
+    "data3": 88,
+    "data4": 45,
+    "price": 48,
+    "number": -717
+  },
+  {
+    "id": 3,
+    "data1": 36,
+    "data2": 13,
+    "data3": 10,
+    "data4": 21,
+    "price": 28,
+    "number": -273
+  },
+  {
+    "id": 4,
+    "data1": 35,
+    "data2": 91,
+    "data3": 7,
+    "data4": 72,
+    "price": 56,
+    "number": 399
+  },
+  {
+    "id": 5,
+    "data1": 57,
+    "data2": 11,
+    "data3": 35,
+    "data4": 52,
+    "price": 30,
+    "number": -819
+  },
+  {
+    "id": 6,
+    "data1": 101,
+    "data2": 33,
+    "data3": 62,
+    "data4": 85,
+    "price": 54,
+    "number": 61
+  },
+  {
+    "id": 7,
+    "data1": 32,
+    "data2": 41,
+    "data3": 88,
+    "data4": 12,
+    "price": 36,
+    "number": -707
+  },
+  {
+    "id": 8,
+    "data1": 19,
+    "data2": 89,
+    "data3": 49,
+    "data4": 44,
+    "price": 84,
+    "number": 254
+  },
+  {
+    "id": 9,
+    "data1": 59,
+    "data2": 28,
+    "data3": 80,
+    "data4": 103,
+    "price": 36,
+    "number": -626
+  },
+  {
+    "id": 10,
+    "data1": 25,
+    "data2": 90,
+    "data3": 24,
+    "data4": 77,
+    "price": 165,
+    "number": 124
+  },
+  {
+    "id": 11,
+    "data1": 43,
+    "data2": 34,
+    "data3": 110,
+    "data4": 76,
+    "price": 81,
+    "number": -541
+  },
+  {
+    "id": 12,
+    "data1": 93,
+    "data2": 105,
+    "data3": 80,
+    "data4": 59,
+    "price": 216,
+    "number": 812
+  },
+  {
+    "id": 13,
+    "data1": 86,
+    "data2": 35,
+    "data3": 53,
+    "data4": 73,
+    "price": 99,
+    "number": 1032
+  },
+  {
+    "id": 14,
+    "data1": 28,
+    "data2": 26,
+    "data3": 69,
+    "data4": 67,
+    "price": 225,
+    "number": 830
+  },
+  {
+    "id": 15,
+    "data1": 46,
+    "data2": 65,
+    "data3": 17,
+    "data4": 78,
+    "price": 261,
+    "number": -556
+  },
+  {
+    "id": 16,
+    "data1": 95,
+    "data2": 59,
+    "data3": 95,
+    "data4": 103,
+    "price": 108,
+    "number": -446
+  },
+  {
+    "id": 17,
+    "data1": 83,
+    "data2": 52,
+    "data3": 20,
+    "data4": 65,
+    "price": 330,
+    "number": 578
+  },
+  {
+    "id": 18,
+    "data1": 105,
+    "data2": 38,
+    "data3": 54,
+    "data4": 21,
+    "price": 378,
+    "number": 968
+  },
+  {
+    "id": 19,
+    "data1": 62,
+    "data2": 118,
+    "data3": 53,
+    "data4": 54,
+    "price": 360,
+    "number": 353
+  },
+  {
+    "id": 20,
+    "data1": 105,
+    "data2": 78,
+    "data3": 94,
+    "data4": 56,
+    "price": 136,
+    "number": 286
+  },
+  {
+    "id": 21,
+    "data1": 116,
+    "data2": 120,
+    "data3": 111,
+    "data4": 71,
+    "price": 71,
+    "number": -337
+  },
+  {
+    "id": 22,
+    "data1": 48,
+    "data2": 92,
+    "data3": 46,
+    "data4": 78,
+    "price": 109,
+    "number": 633
+  },
+  {
+    "id": 23,
+    "data1": 30,
+    "data2": 41,
+    "data3": 38,
+    "data4": 23,
+    "price": 485,
+    "number": 392
+  },
+  {
+    "id": 24,
+    "data1": 122,
+    "data2": 37,
+    "data3": 74,
+    "data4": 60,
+    "price": 143,
+    "number": 727
+  },
+  {
+    "id": 25,
+    "data1": 96,
+    "data2": 123,
+    "data3": 63,
+    "data4": 83,
+    "price": 459,
+    "number": 499
+  },
+  {
+    "id": 26,
+    "data1": 59,
+    "data2": 73,
+    "data3": 97,
+    "data4": 79,
+    "price": 352,
+    "number": 293
+  },
+  {
+    "id": 27,
+    "data1": 54,
+    "data2": 106,
+    "data3": 31,
+    "data4": 27,
+    "price": 172,
+    "number": 535
+  },
+  {
+    "id": 28,
+    "data1": 93,
+    "data2": 76,
+    "data3": 83,
+    "data4": 84,
+    "price": 334,
+    "number": -74
+  },
+  {
+    "id": 29,
+    "data1": 50,
+    "data2": 110,
+    "data3": 121,
+    "data4": 50,
+    "price": 612,
+    "number": 128
+  },
+  {
+    "id": 30,
+    "data1": 81,
+    "data2": 65,
+    "data3": 50,
+    "data4": 30,
+    "price": 348,
+    "number": 528
+  },
+  {
+    "id": 31,
+    "data1": 60,
+    "data2": 122,
+    "data3": 119,
+    "data4": 58,
+    "price": 217,
+    "number": -515
+  },
+  {
+    "id": 32,
+    "data1": 84,
+    "data2": 50,
+    "data3": 117,
+    "data4": 128,
+    "price": 145,
+    "number": 101
+  },
+  {
+    "id": 33,
+    "data1": 128,
+    "data2": 92,
+    "data3": 64,
+    "data4": 112,
+    "price": 446,
+    "number": 955
+  },
+  {
+    "id": 34,
+    "data1": 100,
+    "data2": 88,
+    "data3": 87,
+    "data4": 134,
+    "price": 344,
+    "number": 923
+  },
+  {
+    "id": 35,
+    "data1": 128,
+    "data2": 60,
+    "data3": 58,
+    "data4": 85,
+    "price": 648,
+    "number": 548
+  },
+  {
+    "id": 36,
+    "data1": 122,
+    "data2": 129,
+    "data3": 37,
+    "data4": 63,
+    "price": 73,
+    "number": -752
+  },
+  {
+    "id": 37,
+    "data1": 53,
+    "data2": 51,
+    "data3": 63,
+    "data4": 103,
+    "price": 500,
+    "number": 313
+  },
+  {
+    "id": 38,
+    "data1": 97,
+    "data2": 86,
+    "data3": 81,
+    "data4": 91,
+    "price": 115,
+    "number": -712
+  },
+  {
+    "id": 39,
+    "data1": 60,
+    "data2": 125,
+    "data3": 104,
+    "data4": 112,
+    "price": 256,
+    "number": 524
+  },
+  {
+    "id": 40,
+    "data1": 112,
+    "data2": 91,
+    "data3": 76,
+    "data4": 109,
+    "price": 579,
+    "number": 1068
+  },
+  {
+    "id": 41,
+    "data1": 47,
+    "data2": 44,
+    "data3": 80,
+    "data4": 86,
+    "price": 262,
+    "number": 1139
+  },
+  {
+    "id": 42,
+    "data1": 138,
+    "data2": 57,
+    "data3": 45,
+    "data4": 130,
+    "price": 296,
+    "number": -623
+  },
+  {
+    "id": 43,
+    "data1": 114,
+    "data2": 71,
+    "data3": 105,
+    "data4": 112,
+    "price": 212,
+    "number": -490
+  },
+  {
+    "id": 44,
+    "data1": 129,
+    "data2": 74,
+    "data3": 72,
+    "data4": 109,
+    "price": 400,
+    "number": 922
+  },
+  {
+    "id": 45,
+    "data1": 48,
+    "data2": 109,
+    "data3": 62,
+    "data4": 135,
+    "price": 480,
+    "number": 1
+  },
+  {
+    "id": 46,
+    "data1": 105,
+    "data2": 108,
+    "data3": 118,
+    "data4": 144,
+    "price": 657,
+    "number": 1441
+  },
+  {
+    "id": 47,
+    "data1": 136,
+    "data2": 97,
+    "data3": 51,
+    "data4": 132,
+    "price": 281,
+    "number": 1203
+  },
+  {
+    "id": 48,
+    "data1": 144,
+    "data2": 100,
+    "data3": 123,
+    "data4": 83,
+    "price": 134,
+    "number": -130
+  },
+  {
+    "id": 49,
+    "data1": 140,
+    "data2": 64,
+    "data3": 128,
+    "data4": 71,
+    "price": 148,
+    "number": 244
+  },
+  {
+    "id": 50,
+    "data1": 55,
+    "data2": 115,
+    "data3": 99,
+    "data4": 75,
+    "price": 185,
+    "number": 891
+  },
+  {
+    "id": 51,
+    "data1": 61,
+    "data2": 151,
+    "data3": 77,
+    "data4": 60,
+    "price": 322,
+    "number": -523
+  },
+  {
+    "id": 52,
+    "data1": 96,
+    "data2": 107,
+    "data3": 89,
+    "data4": 91,
+    "price": 530,
+    "number": 1342
+  },
+  {
+    "id": 53,
+    "data1": 85,
+    "data2": 84,
+    "data3": 71,
+    "data4": 92,
+    "price": 496,
+    "number": 1326
+  },
+  {
+    "id": 54,
+    "data1": 91,
+    "data2": 94,
+    "data3": 138,
+    "data4": 55,
+    "price": 1113,
+    "number": 852
+  },
+  {
+    "id": 55,
+    "data1": 62,
+    "data2": 151,
+    "data3": 80,
+    "data4": 146,
+    "price": 1332,
+    "number": 907
+  },
+  {
+    "id": 56,
+    "data1": 112,
+    "data2": 59,
+    "data3": 120,
+    "data4": 118,
+    "price": 624,
+    "number": -139
+  },
+  {
+    "id": 57,
+    "data1": 153,
+    "data2": 136,
+    "data3": 73,
+    "data4": 62,
+    "price": 418,
+    "number": -107
+  },
+  {
+    "id": 58,
+    "data1": 109,
+    "data2": 58,
+    "data3": 141,
+    "data4": 121,
+    "price": 466,
+    "number": 593
+  },
+  {
+    "id": 59,
+    "data1": 130,
+    "data2": 92,
+    "data3": 138,
+    "data4": 77,
+    "price": 1184,
+    "number": 448
+  },
+  {
+    "id": 60,
+    "data1": 123,
+    "data2": 140,
+    "data3": 160,
+    "data4": 65,
+    "price": 337,
+    "number": 265
+  },
+  {
+    "id": 61,
+    "data1": 107,
+    "data2": 160,
+    "data3": 78,
+    "data4": 142,
+    "price": 305,
+    "number": 1268
+  },
+  {
+    "id": 62,
+    "data1": 123,
+    "data2": 78,
+    "data3": 88,
+    "data4": 154,
+    "price": 242,
+    "number": 604
+  },
+  {
+    "id": 63,
+    "data1": 147,
+    "data2": 156,
+    "data3": 96,
+    "data4": 156,
+    "price": 612,
+    "number": 247
+  },
+  {
+    "id": 64,
+    "data1": 149,
+    "data2": 141,
+    "data3": 132,
+    "data4": 112,
+    "price": 861,
+    "number": 1824
+  },
+  {
+    "id": 65,
+    "data1": 121,
+    "data2": 147,
+    "data3": 84,
+    "data4": 142,
+    "price": 856,
+    "number": 286
+  },
+  {
+    "id": 66,
+    "data1": 82,
+    "data2": 75,
+    "data3": 86,
+    "data4": 121,
+    "price": 830,
+    "number": 901
+  },
+  {
+    "id": 67,
+    "data1": 140,
+    "data2": 135,
+    "data3": 148,
+    "data4": 133,
+    "price": 135,
+    "number": 456
+  },
+  {
+    "id": 68,
+    "data1": 145,
+    "data2": 146,
+    "data3": 71,
+    "data4": 148,
+    "price": 790,
+    "number": 1682
+  },
+  {
+    "id": 69,
+    "data1": 107,
+    "data2": 137,
+    "data3": 112,
+    "data4": 123,
+    "price": 918,
+    "number": 759
+  },
+  {
+    "id": 70,
+    "data1": 115,
+    "data2": 143,
+    "data3": 119,
+    "data4": 142,
+    "price": 724,
+    "number": 193
+  },
+  {
+    "id": 71,
+    "data1": 152,
+    "data2": 165,
+    "data3": 80,
+    "data4": 143,
+    "price": 332,
+    "number": 860
+  },
+  {
+    "id": 72,
+    "data1": 146,
+    "data2": 163,
+    "data3": 154,
+    "data4": 170,
+    "price": 318,
+    "number": -149
+  },
+  {
+    "id": 73,
+    "data1": 148,
+    "data2": 168,
+    "data3": 97,
+    "data4": 108,
+    "price": 882,
+    "number": 731
+  },
+  {
+    "id": 74,
+    "data1": 142,
+    "data2": 165,
+    "data3": 140,
+    "data4": 161,
+    "price": 546,
+    "number": 969
+  },
+  {
+    "id": 75,
+    "data1": 175,
+    "data2": 163,
+    "data3": 166,
+    "data4": 118,
+    "price": 348,
+    "number": 653
+  },
+  {
+    "id": 76,
+    "data1": 174,
+    "data2": 99,
+    "data3": 139,
+    "data4": 96,
+    "price": 486,
+    "number": 601
+  },
+  {
+    "id": 77,
+    "data1": 110,
+    "data2": 87,
+    "data3": 84,
+    "data4": 91,
+    "price": 181,
+    "number": -664
+  },
+  {
+    "id": 78,
+    "data1": 92,
+    "data2": 115,
+    "data3": 81,
+    "data4": 122,
+    "price": 515,
+    "number": -218
+  },
+  {
+    "id": 79,
+    "data1": 155,
+    "data2": 163,
+    "data3": 156,
+    "data4": 165,
+    "price": 537,
+    "number": 1301
+  },
+  {
+    "id": 80,
+    "data1": 179,
+    "data2": 102,
+    "data3": 163,
+    "data4": 97,
+    "price": 357,
+    "number": 150
+  },
+  {
+    "id": 81,
+    "data1": 177,
+    "data2": 155,
+    "data3": 151,
+    "data4": 131,
+    "price": 640,
+    "number": 987
+  },
+  {
+    "id": 82,
+    "data1": 93,
+    "data2": 97,
+    "data3": 179,
+    "data4": 133,
+    "price": 2970,
+    "number": 2178
+  },
+  {
+    "id": 83,
+    "data1": 134,
+    "data2": 103,
+    "data3": 165,
+    "data4": 136,
+    "price": 415,
+    "number": 941
+  },
+  {
+    "id": 84,
+    "data1": 143,
+    "data2": 140,
+    "data3": 136,
+    "data4": 169,
+    "price": 700,
+    "number": 337
+  },
+  {
+    "id": 85,
+    "data1": 132,
+    "data2": 166,
+    "data3": 145,
+    "data4": 138,
+    "price": 375,
+    "number": 353
+  },
+  {
+    "id": 86,
+    "data1": 145,
+    "data2": 101,
+    "data3": 183,
+    "data4": 106,
+    "price": 628,
+    "number": 892
+  },
+  {
+    "id": 87,
+    "data1": 94,
+    "data2": 111,
+    "data3": 139,
+    "data4": 167,
+    "price": 2152,
+    "number": 1963
+  },
+  {
+    "id": 88,
+    "data1": 148,
+    "data2": 106,
+    "data3": 106,
+    "data4": 169,
+    "price": 2790,
+    "number": 3143
+  },
+  {
+    "id": 89,
+    "data1": 138,
+    "data2": 164,
+    "data3": 149,
+    "data4": 123,
+    "price": 360,
+    "number": -530
+  },
+  {
+    "id": 90,
+    "data1": 174,
+    "data2": 156,
+    "data3": 118,
+    "data4": 93,
+    "price": 1665,
+    "number": 1895
+  },
+  {
+    "id": 91,
+    "data1": 120,
+    "data2": 92,
+    "data3": 118,
+    "data4": 101,
+    "price": 538,
+    "number": 196
+  },
+  {
+    "id": 92,
+    "data1": 142,
+    "data2": 170,
+    "data3": 169,
+    "data4": 114,
+    "price": 992,
+    "number": 167
+  },
+  {
+    "id": 93,
+    "data1": 127,
+    "data2": 120,
+    "data3": 96,
+    "data4": 147,
+    "price": 1504,
+    "number": 2385
+  },
+  {
+    "id": 94,
+    "data1": 137,
+    "data2": 180,
+    "data3": 102,
+    "data4": 136,
+    "price": 1209,
+    "number": 1527
+  },
+  {
+    "id": 95,
+    "data1": 161,
+    "data2": 147,
+    "data3": 161,
+    "data4": 113,
+    "price": 1827,
+    "number": 1803
+  },
+  {
+    "id": 96,
+    "data1": 161,
+    "data2": 116,
+    "data3": 96,
+    "data4": 123,
+    "price": 896,
+    "number": 1572
+  },
+  {
+    "id": 97,
+    "data1": 99,
+    "data2": 173,
+    "data3": 157,
+    "data4": 176,
+    "price": 984,
+    "number": 692
+  },
+  {
+    "id": 98,
+    "data1": 117,
+    "data2": 170,
+    "data3": 190,
+    "data4": 177,
+    "price": 281,
+    "number": 847
+  },
+  {
+    "id": 99,
+    "data1": 198,
+    "data2": 156,
+    "data3": 131,
+    "data4": 100,
+    "price": 570,
+    "number": 119
+  },
+  {
+    "id": 100,
+    "data1": 134,
+    "data2": 182,
+    "data3": 108,
+    "data4": 162,
+    "price": 2284,
+    "number": 2475
+  },
+  {
+    "id": 101,
+    "data1": 119,
+    "data2": 112,
+    "data3": 154,
+    "data4": 113,
+    "price": 720,
+    "number": 217
+  },
+  {
+    "id": 102,
+    "data1": 106,
+    "data2": 107,
+    "data3": 157,
+    "data4": 173,
+    "price": 1068,
+    "number": 373
+  },
+  {
+    "id": 103,
+    "data1": 104,
+    "data2": 125,
+    "data3": 134,
+    "data4": 118,
+    "price": 251,
+    "number": 97
+  },
+  {
+    "id": 104,
+    "data1": 197,
+    "data2": 170,
+    "data3": 116,
+    "data4": 112,
+    "price": 577,
+    "number": 24
+  },
+  {
+    "id": 105,
+    "data1": 117,
+    "data2": 133,
+    "data3": 193,
+    "data4": 148,
+    "price": 2728,
+    "number": 3607
+  },
+  {
+    "id": 106,
+    "data1": 164,
+    "data2": 143,
+    "data3": 159,
+    "data4": 123,
+    "price": 550,
+    "number": -407
+  },
+  {
+    "id": 107,
+    "data1": 154,
+    "data2": 123,
+    "data3": 188,
+    "data4": 182,
+    "price": 519,
+    "number": 423
+  },
+  {
+    "id": 108,
+    "data1": 123,
+    "data2": 176,
+    "data3": 162,
+    "data4": 190,
+    "price": 1094,
+    "number": 1994
+  },
+  {
+    "id": 109,
+    "data1": 143,
+    "data2": 145,
+    "data3": 164,
+    "data4": 162,
+    "price": 446,
+    "number": 355
+  },
+  {
+    "id": 110,
+    "data1": 124,
+    "data2": 183,
+    "data3": 199,
+    "data4": 163,
+    "price": 1070,
+    "number": 1147
+  },
+  {
+    "id": 111,
+    "data1": 143,
+    "data2": 155,
+    "data3": 147,
+    "data4": 180,
+    "price": 1680,
+    "number": 1055
+  },
+  {
+    "id": 112,
+    "data1": 115,
+    "data2": 142,
+    "data3": 128,
+    "data4": 176,
+    "price": 728,
+    "number": 1248
+  },
+  {
+    "id": 113,
+    "data1": 113,
+    "data2": 179,
+    "data3": 206,
+    "data4": 141,
+    "price": 1020,
+    "number": 127
+  },
+  {
+    "id": 114,
+    "data1": 163,
+    "data2": 207,
+    "data3": 153,
+    "data4": 155,
+    "price": 560,
+    "number": 814
+  },
+  {
+    "id": 115,
+    "data1": 195,
+    "data2": 129,
+    "data3": 122,
+    "data4": 135,
+    "price": 3315,
+    "number": 3749
+  },
+  {
+    "id": 116,
+    "data1": 159,
+    "data2": 216,
+    "data3": 123,
+    "data4": 187,
+    "price": 1240,
+    "number": 2178
+  },
+  {
+    "id": 117,
+    "data1": 195,
+    "data2": 160,
+    "data3": 159,
+    "data4": 202,
+    "price": 2457,
+    "number": 2847
+  },
+  {
+    "id": 118,
+    "data1": 174,
+    "data2": 190,
+    "data3": 130,
+    "data4": 209,
+    "price": 2235,
+    "number": 2745
+  },
+  {
+    "id": 119,
+    "data1": 145,
+    "data2": 171,
+    "data3": 129,
+    "data4": 183,
+    "price": 2970,
+    "number": 3689
+  },
+  {
+    "id": 120,
+    "data1": 167,
+    "data2": 156,
+    "data3": 201,
+    "data4": 168,
+    "price": 2892,
+    "number": 3453
+  },
+  {
+    "id": 121,
+    "data1": 122,
+    "data2": 200,
+    "data3": 132,
+    "data4": 206,
+    "price": 1530,
+    "number": 1143
+  },
+  {
+    "id": 122,
+    "data1": 158,
+    "data2": 198,
+    "data3": 133,
+    "data4": 218,
+    "price": 516,
+    "number": 1500
+  },
+  {
+    "id": 123,
+    "data1": 210,
+    "data2": 145,
+    "data3": 158,
+    "data4": 206,
+    "price": 774,
+    "number": 1540
+  },
+  {
+    "id": 124,
+    "data1": 147,
+    "data2": 179,
+    "data3": 169,
+    "data4": 199,
+    "price": 278,
+    "number": 36
+  },
+  {
+    "id": 125,
+    "data1": 156,
+    "data2": 176,
+    "data3": 164,
+    "data4": 173,
+    "price": 1202,
+    "number": 2097
+  },
+  {
+    "id": 126,
+    "data1": 136,
+    "data2": 221,
+    "data3": 196,
+    "data4": 175,
+    "price": 539,
+    "number": 1421
+  },
+  {
+    "id": 127,
+    "data1": 188,
+    "data2": 149,
+    "data3": 218,
+    "data4": 220,
+    "price": 1796,
+    "number": 1365
+  },
+  {
+    "id": 128,
+    "data1": 172,
+    "data2": 177,
+    "data3": 186,
+    "data4": 186,
+    "price": 1617,
+    "number": 1134
+  },
+  {
+    "id": 129,
+    "data1": 159,
+    "data2": 163,
+    "data3": 213,
+    "data4": 147,
+    "price": 764,
+    "number": 723
+  },
+  {
+    "id": 130,
+    "data1": 135,
+    "data2": 138,
+    "data3": 193,
+    "data4": 168,
+    "price": 1004,
+    "number": 1768
+  },
+  {
+    "id": 131,
+    "data1": 137,
+    "data2": 169,
+    "data3": 148,
+    "data4": 173,
+    "price": 3375,
+    "number": 3096
+  },
+  {
+    "id": 132,
+    "data1": 155,
+    "data2": 165,
+    "data3": 204,
+    "data4": 168,
+    "price": 538,
+    "number": 1125
+  },
+  {
+    "id": 133,
+    "data1": 186,
+    "data2": 142,
+    "data3": 193,
+    "data4": 143,
+    "price": 1677,
+    "number": 2187
+  },
+  {
+    "id": 134,
+    "data1": 233,
+    "data2": 188,
+    "data3": 197,
+    "data4": 209,
+    "price": 2672,
+    "number": 2768
+  },
+  {
+    "id": 135,
+    "data1": 179,
+    "data2": 187,
+    "data3": 206,
+    "data4": 209,
+    "price": 1578,
+    "number": 1156
+  },
+  {
+    "id": 136,
+    "data1": 182,
+    "data2": 159,
+    "data3": 210,
+    "data4": 150,
+    "price": 874,
+    "number": 629
+  },
+  {
+    "id": 137,
+    "data1": 228,
+    "data2": 165,
+    "data3": 230,
+    "data4": 194,
+    "price": 1208,
+    "number": 667
+  },
+  {
+    "id": 138,
+    "data1": 160,
+    "data2": 160,
+    "data3": 218,
+    "data4": 151,
+    "price": 636,
+    "number": 195
+  },
+  {
+    "id": 139,
+    "data1": 191,
+    "data2": 174,
+    "data3": 180,
+    "data4": 167,
+    "price": 1644,
+    "number": 1458
+  },
+  {
+    "id": 140,
+    "data1": 217,
+    "data2": 178,
+    "data3": 154,
+    "data4": 188,
+    "price": 2868,
+    "number": 2058
+  },
+  {
+    "id": 141,
+    "data1": 190,
+    "data2": 171,
+    "data3": 231,
+    "data4": 205,
+    "price": 1730,
+    "number": 1722
+  },
+  {
+    "id": 142,
+    "data1": 155,
+    "data2": 159,
+    "data3": 165,
+    "data4": 186,
+    "price": 443,
+    "number": 1231
+  },
+  {
+    "id": 143,
+    "data1": 238,
+    "data2": 234,
+    "data3": 224,
+    "data4": 188,
+    "price": 2905,
+    "number": 3207
+  },
+  {
+    "id": 144,
+    "data1": 184,
+    "data2": 156,
+    "data3": 161,
+    "data4": 160,
+    "price": 1874,
+    "number": 2093
+  },
+  {
+    "id": 145,
+    "data1": 154,
+    "data2": 229,
+    "data3": 178,
+    "data4": 214,
+    "price": 945,
+    "number": 1007
+  },
+  {
+    "id": 146,
+    "data1": 188,
+    "data2": 189,
+    "data3": 238,
+    "data4": 161,
+    "price": 710,
+    "number": 549
+  },
+  {
+    "id": 147,
+    "data1": 155,
+    "data2": 160,
+    "data3": 236,
+    "data4": 217,
+    "price": 1622,
+    "number": 1093
+  },
+  {
+    "id": 148,
+    "data1": 226,
+    "data2": 204,
+    "data3": 236,
+    "data4": 241,
+    "price": 966,
+    "number": 363
+  },
+  {
+    "id": 149,
+    "data1": 214,
+    "data2": 244,
+    "data3": 204,
+    "data4": 150,
+    "price": 1140,
+    "number": 555
+  },
+  {
+    "id": 150,
+    "data1": 213,
+    "data2": 150,
+    "data3": 206,
+    "data4": 190,
+    "price": 1866,
+    "number": 2413
+  },
+  {
+    "id": 151,
+    "data1": 169,
+    "data2": 159,
+    "data3": 232,
+    "data4": 171,
+    "price": 1332,
+    "number": 562
+  },
+  {
+    "id": 152,
+    "data1": 208,
+    "data2": 183,
+    "data3": 237,
+    "data4": 247,
+    "price": 1008,
+    "number": 982
+  },
+  {
+    "id": 153,
+    "data1": 252,
+    "data2": 237,
+    "data3": 211,
+    "data4": 253,
+    "price": 896,
+    "number": 1141
+  },
+  {
+    "id": 154,
+    "data1": 212,
+    "data2": 209,
+    "data3": 206,
+    "data4": 203,
+    "price": 1230,
+    "number": 2142
+  },
+  {
+    "id": 155,
+    "data1": 156,
+    "data2": 174,
+    "data3": 236,
+    "data4": 180,
+    "price": 670,
+    "number": 1616
+  },
+  {
+    "id": 156,
+    "data1": 159,
+    "data2": 213,
+    "data3": 242,
+    "data4": 217,
+    "price": 1732,
+    "number": 1789
+  },
+  {
+    "id": 157,
+    "data1": 172,
+    "data2": 169,
+    "data3": 189,
+    "data4": 241,
+    "price": 1512,
+    "number": 841
+  },
+  {
+    "id": 158,
+    "data1": 171,
+    "data2": 249,
+    "data3": 199,
+    "data4": 199,
+    "price": 983,
+    "number": 431
+  },
+  {
+    "id": 159,
+    "data1": 244,
+    "data2": 241,
+    "data3": 162,
+    "data4": 245,
+    "price": 1078,
+    "number": 450
+  },
+  {
+    "id": 160,
+    "data1": 259,
+    "data2": 257,
+    "data3": 244,
+    "data4": 203,
+    "price": 1524,
+    "number": 1159
+  },
+  {
+    "id": 161,
+    "data1": 200,
+    "data2": 186,
+    "data3": 255,
+    "data4": 176,
+    "price": 1104,
+    "number": 629
+  },
+  {
+    "id": 162,
+    "data1": 203,
+    "data2": 174,
+    "data3": 260,
+    "data4": 207,
+    "price": 2715,
+    "number": 2450
+  },
+  {
+    "id": 163,
+    "data1": 243,
+    "data2": 233,
+    "data3": 257,
+    "data4": 191,
+    "price": 653,
+    "number": -65
+  },
+  {
+    "id": 164,
+    "data1": 175,
+    "data2": 208,
+    "data3": 198,
+    "data4": 205,
+    "price": 4565,
+    "number": 4259
+  },
+  {
+    "id": 165,
+    "data1": 190,
+    "data2": 240,
+    "data3": 197,
+    "data4": 167,
+    "price": 776,
+    "number": 978
+  },
+  {
+    "id": 166,
+    "data1": 229,
+    "data2": 201,
+    "data3": 195,
+    "data4": 172,
+    "price": 722,
+    "number": 704
+  },
+  {
+    "id": 167,
+    "data1": 178,
+    "data2": 174,
+    "data3": 227,
+    "data4": 227,
+    "price": 5616,
+    "number": 6184
+  },
+  {
+    "id": 168,
+    "data1": 263,
+    "data2": 200,
+    "data3": 219,
+    "data4": 248,
+    "price": 1048,
+    "number": 1409
+  },
+  {
+    "id": 169,
+    "data1": 194,
+    "data2": 186,
+    "data3": 264,
+    "data4": 204,
+    "price": 450,
+    "number": -50
+  },
+  {
+    "id": 170,
+    "data1": 232,
+    "data2": 219,
+    "data3": 252,
+    "data4": 216,
+    "price": 1971,
+    "number": 2561
+  },
+  {
+    "id": 171,
+    "data1": 257,
+    "data2": 217,
+    "data3": 184,
+    "data4": 260,
+    "price": 1714,
+    "number": 1978
+  },
+  {
+    "id": 172,
+    "data1": 260,
+    "data2": 261,
+    "data3": 212,
+    "data4": 201,
+    "price": 2760,
+    "number": 1977
+  },
+  {
+    "id": 173,
+    "data1": 268,
+    "data2": 194,
+    "data3": 194,
+    "data4": 246,
+    "price": 995,
+    "number": 1673
+  },
+  {
+    "id": 174,
+    "data1": 266,
+    "data2": 184,
+    "data3": 181,
+    "data4": 231,
+    "price": 1335,
+    "number": 2086
+  },
+  {
+    "id": 175,
+    "data1": 235,
+    "data2": 264,
+    "data3": 194,
+    "data4": 260,
+    "price": 943,
+    "number": 520
+  },
+  {
+    "id": 176,
+    "data1": 239,
+    "data2": 228,
+    "data3": 217,
+    "data4": 226,
+    "price": 1191,
+    "number": 1275
+  },
+  {
+    "id": 177,
+    "data1": 274,
+    "data2": 178,
+    "data3": 227,
+    "data4": 177,
+    "price": 2456,
+    "number": 2882
+  },
+  {
+    "id": 178,
+    "data1": 203,
+    "data2": 221,
+    "data3": 254,
+    "data4": 186,
+    "price": 2496,
+    "number": 2074
+  },
+  {
+    "id": 179,
+    "data1": 261,
+    "data2": 193,
+    "data3": 179,
+    "data4": 235,
+    "price": 382,
+    "number": 1130
+  },
+  {
+    "id": 180,
+    "data1": 244,
+    "data2": 247,
+    "data3": 216,
+    "data4": 228,
+    "price": 5415,
+    "number": 5846
+  },
+  {
+    "id": 181,
+    "data1": 253,
+    "data2": 269,
+    "data3": 185,
+    "data4": 238,
+    "price": 1124,
+    "number": 1902
+  },
+  {
+    "id": 182,
+    "data1": 225,
+    "data2": 225,
+    "data3": 200,
+    "data4": 217,
+    "price": 1954,
+    "number": 1323
+  },
+  {
+    "id": 183,
+    "data1": 213,
+    "data2": 202,
+    "data3": 236,
+    "data4": 198,
+    "price": 799,
+    "number": 777
+  },
+  {
+    "id": 184,
+    "data1": 246,
+    "data2": 256,
+    "data3": 279,
+    "data4": 187,
+    "price": 1348,
+    "number": 1420
+  },
+  {
+    "id": 185,
+    "data1": 230,
+    "data2": 203,
+    "data3": 187,
+    "data4": 271,
+    "price": 1262,
+    "number": 316
+  },
+  {
+    "id": 186,
+    "data1": 203,
+    "data2": 275,
+    "data3": 270,
+    "data4": 197,
+    "price": 1061,
+    "number": 1996
+  },
+  {
+    "id": 187,
+    "data1": 209,
+    "data2": 250,
+    "data3": 187,
+    "data4": 227,
+    "price": 997,
+    "number": 1907
+  },
+  {
+    "id": 188,
+    "data1": 274,
+    "data2": 242,
+    "data3": 214,
+    "data4": 206,
+    "price": 3828,
+    "number": 4620
+  },
+  {
+    "id": 189,
+    "data1": 255,
+    "data2": 255,
+    "data3": 245,
+    "data4": 199,
+    "price": 2476,
+    "number": 2873
+  },
+  {
+    "id": 190,
+    "data1": 224,
+    "data2": 224,
+    "data3": 228,
+    "data4": 240,
+    "price": 382,
+    "number": -65
+  },
+  {
+    "id": 191,
+    "data1": 194,
+    "data2": 245,
+    "data3": 228,
+    "data4": 263,
+    "price": 2232,
+    "number": 1826
+  },
+  {
+    "id": 192,
+    "data1": 243,
+    "data2": 291,
+    "data3": 270,
+    "data4": 205,
+    "price": 2298,
+    "number": 1912
+  },
+  {
+    "id": 193,
+    "data1": 234,
+    "data2": 290,
+    "data3": 280,
+    "data4": 212,
+    "price": 1422,
+    "number": 1596
+  },
+  {
+    "id": 194,
+    "data1": 222,
+    "data2": 271,
+    "data3": 242,
+    "data4": 292,
+    "price": 1600,
+    "number": 1304
+  },
+  {
+    "id": 195,
+    "data1": 278,
+    "data2": 203,
+    "data3": 287,
+    "data4": 199,
+    "price": 6150,
+    "number": 6957
+  },
+  {
+    "id": 196,
+    "data1": 280,
+    "data2": 285,
+    "data3": 230,
+    "data4": 270,
+    "price": 1007,
+    "number": 547
+  },
+  {
+    "id": 197,
+    "data1": 201,
+    "data2": 267,
+    "data3": 257,
+    "data4": 257,
+    "price": 2356,
+    "number": 2827
+  },
+  {
+    "id": 198,
+    "data1": 202,
+    "data2": 288,
+    "data3": 255,
+    "data4": 244,
+    "price": 1281,
+    "number": 1387
+  },
+  {
+    "id": 199,
+    "data1": 224,
+    "data2": 226,
+    "data3": 286,
+    "data4": 215,
+    "price": 1188,
+    "number": 1857
+  },
+  {
+    "id": 200,
+    "data1": 254,
+    "data2": 213,
+    "data3": 295,
+    "data4": 278,
+    "price": 1050,
+    "number": 916
+  },
+  {
+    "id": 201,
+    "data1": 206,
+    "data2": 257,
+    "data3": 271,
+    "data4": 228,
+    "price": 892,
+    "number": 99
+  },
+  {
+    "id": 202,
+    "data1": 211,
+    "data2": 245,
+    "data3": 236,
+    "data4": 286,
+    "price": 2106,
+    "number": 2830
+  },
+  {
+    "id": 203,
+    "data1": 238,
+    "data2": 208,
+    "data3": 260,
+    "data4": 230,
+    "price": 1647,
+    "number": 2024
+  },
+  {
+    "id": 204,
+    "data1": 250,
+    "data2": 299,
+    "data3": 295,
+    "data4": 285,
+    "price": 3495,
+    "number": 3939
+  },
+  {
+    "id": 205,
+    "data1": 221,
+    "data2": 269,
+    "data3": 213,
+    "data4": 293,
+    "price": 1164,
+    "number": 862
+  },
+  {
+    "id": 206,
+    "data1": 232,
+    "data2": 270,
+    "data3": 260,
+    "data4": 292,
+    "price": 7115,
+    "number": 7495
+  },
+  {
+    "id": 207,
+    "data1": 271,
+    "data2": 252,
+    "data3": 221,
+    "data4": 265,
+    "price": 1214,
+    "number": 1806
+  },
+  {
+    "id": 208,
+    "data1": 221,
+    "data2": 253,
+    "data3": 229,
+    "data4": 284,
+    "price": 2170,
+    "number": 1969
+  },
+  {
+    "id": 209,
+    "data1": 294,
+    "data2": 304,
+    "data3": 230,
+    "data4": 212,
+    "price": 2457,
+    "number": 3315
+  },
+  {
+    "id": 210,
+    "data1": 276,
+    "data2": 258,
+    "data3": 250,
+    "data4": 288,
+    "price": 953,
+    "number": 639
+  },
+  {
+    "id": 211,
+    "data1": 237,
+    "data2": 293,
+    "data3": 265,
+    "data4": 285,
+    "price": 2529,
+    "number": 2307
+  },
+  {
+    "id": 212,
+    "data1": 238,
+    "data2": 227,
+    "data3": 261,
+    "data4": 283,
+    "price": 4353,
+    "number": 4278
+  },
+  {
+    "id": 213,
+    "data1": 260,
+    "data2": 219,
+    "data3": 294,
+    "data4": 214,
+    "price": 1207,
+    "number": 1253
+  },
+  {
+    "id": 214,
+    "data1": 222,
+    "data2": 307,
+    "data3": 255,
+    "data4": 251,
+    "price": 1334,
+    "number": 650
+  },
+  {
+    "id": 215,
+    "data1": 277,
+    "data2": 314,
+    "data3": 283,
+    "data4": 302,
+    "price": 3624,
+    "number": 3674
+  },
+  {
+    "id": 216,
+    "data1": 308,
+    "data2": 305,
+    "data3": 224,
+    "data4": 300,
+    "price": 3996,
+    "number": 3561
+  },
+  {
+    "id": 217,
+    "data1": 255,
+    "data2": 233,
+    "data3": 235,
+    "data4": 301,
+    "price": 2896,
+    "number": 3350
+  },
+  {
+    "id": 218,
+    "data1": 271,
+    "data2": 264,
+    "data3": 312,
+    "data4": 246,
+    "price": 1154,
+    "number": 1158
+  },
+  {
+    "id": 219,
+    "data1": 283,
+    "data2": 233,
+    "data3": 270,
+    "data4": 257,
+    "price": 2062,
+    "number": 2341
+  },
+  {
+    "id": 220,
+    "data1": 306,
+    "data2": 277,
+    "data3": 261,
+    "data4": 291,
+    "price": 904,
+    "number": 1361
+  },
+  {
+    "id": 221,
+    "data1": 301,
+    "data2": 245,
+    "data3": 270,
+    "data4": 310,
+    "price": 954,
+    "number": 1457
+  },
+  {
+    "id": 222,
+    "data1": 251,
+    "data2": 265,
+    "data3": 266,
+    "data4": 298,
+    "price": 950,
+    "number": 1798
+  },
+  {
+    "id": 223,
+    "data1": 309,
+    "data2": 262,
+    "data3": 319,
+    "data4": 302,
+    "price": 2414,
+    "number": 2443
+  },
+  {
+    "id": 224,
+    "data1": 271,
+    "data2": 230,
+    "data3": 292,
+    "data4": 304,
+    "price": 1956,
+    "number": 1929
+  },
+  {
+    "id": 225,
+    "data1": 241,
+    "data2": 294,
+    "data3": 262,
+    "data4": 230,
+    "price": 792,
+    "number": 555
+  },
+  {
+    "id": 226,
+    "data1": 267,
+    "data2": 247,
+    "data3": 293,
+    "data4": 231,
+    "price": 1220,
+    "number": 573
+  },
+  {
+    "id": 227,
+    "data1": 286,
+    "data2": 250,
+    "data3": 280,
+    "data4": 320,
+    "price": 2364,
+    "number": 3135
+  },
+  {
+    "id": 228,
+    "data1": 231,
+    "data2": 276,
+    "data3": 258,
+    "data4": 249,
+    "price": 1096,
+    "number": 441
+  },
+  {
+    "id": 229,
+    "data1": 231,
+    "data2": 311,
+    "data3": 272,
+    "data4": 301,
+    "price": 3932,
+    "number": 4331
+  },
+  {
+    "id": 230,
+    "data1": 303,
+    "data2": 306,
+    "data3": 245,
+    "data4": 304,
+    "price": 2168,
+    "number": 3126
+  },
+  {
+    "id": 231,
+    "data1": 288,
+    "data2": 259,
+    "data3": 270,
+    "data4": 285,
+    "price": 1700,
+    "number": 2529
+  },
+  {
+    "id": 232,
+    "data1": 304,
+    "data2": 293,
+    "data3": 260,
+    "data4": 323,
+    "price": 810,
+    "number": 1680
+  },
+  {
+    "id": 233,
+    "data1": 332,
+    "data2": 300,
+    "data3": 329,
+    "data4": 291,
+    "price": 2068,
+    "number": 2536
+  },
+  {
+    "id": 234,
+    "data1": 296,
+    "data2": 280,
+    "data3": 330,
+    "data4": 330,
+    "price": 3068,
+    "number": 3747
+  },
+  {
+    "id": 235,
+    "data1": 304,
+    "data2": 328,
+    "data3": 258,
+    "data4": 291,
+    "price": 2880,
+    "number": 3181
+  },
+  {
+    "id": 236,
+    "data1": 259,
+    "data2": 277,
+    "data3": 332,
+    "data4": 253,
+    "price": 1449,
+    "number": 1129
+  },
+  {
+    "id": 237,
+    "data1": 256,
+    "data2": 307,
+    "data3": 275,
+    "data4": 257,
+    "price": 7090,
+    "number": 7241
+  },
+  {
+    "id": 238,
+    "data1": 324,
+    "data2": 319,
+    "data3": 249,
+    "data4": 259,
+    "price": 3655,
+    "number": 4611
+  },
+  {
+    "id": 239,
+    "data1": 292,
+    "data2": 322,
+    "data3": 285,
+    "data4": 259,
+    "price": 2882,
+    "number": 2263
+  },
+  {
+    "id": 240,
+    "data1": 255,
+    "data2": 281,
+    "data3": 317,
+    "data4": 289,
+    "price": 1132,
+    "number": 1177
+  },
+  {
+    "id": 241,
+    "data1": 307,
+    "data2": 331,
+    "data3": 261,
+    "data4": 313,
+    "price": 2626,
+    "number": 2087
+  },
+  {
+    "id": 242,
+    "data1": 257,
+    "data2": 334,
+    "data3": 282,
+    "data4": 292,
+    "price": 5340,
+    "number": 5210
+  },
+  {
+    "id": 243,
+    "data1": 333,
+    "data2": 265,
+    "data3": 262,
+    "data4": 318,
+    "price": 2536,
+    "number": 2285
+  },
+  {
+    "id": 244,
+    "data1": 312,
+    "data2": 263,
+    "data3": 292,
+    "data4": 277,
+    "price": 2232,
+    "number": 2732
+  },
+  {
+    "id": 245,
+    "data1": 329,
+    "data2": 279,
+    "data3": 333,
+    "data4": 331,
+    "price": 1211,
+    "number": 1106
+  },
+  {
+    "id": 246,
+    "data1": 311,
+    "data2": 268,
+    "data3": 340,
+    "data4": 304,
+    "price": 1220,
+    "number": 1765
+  },
+  {
+    "id": 247,
+    "data1": 337,
+    "data2": 334,
+    "data3": 347,
+    "data4": 282,
+    "price": 1830,
+    "number": 2647
+  },
+  {
+    "id": 248,
+    "data1": 277,
+    "data2": 250,
+    "data3": 325,
+    "data4": 291,
+    "price": 3180,
+    "number": 2562
+  },
+  {
+    "id": 249,
+    "data1": 275,
+    "data2": 342,
+    "data3": 335,
+    "data4": 336,
+    "price": 4444,
+    "number": 3843
+  },
+  {
+    "id": 250,
+    "data1": 256,
+    "data2": 288,
+    "data3": 287,
+    "data4": 342,
+    "price": 757,
+    "number": 1609
+  },
+  {
+    "id": 251,
+    "data1": 263,
+    "data2": 343,
+    "data3": 258,
+    "data4": 335,
+    "price": 1444,
+    "number": 2161
+  },
+  {
+    "id": 252,
+    "data1": 276,
+    "data2": 331,
+    "data3": 290,
+    "data4": 298,
+    "price": 553,
+    "number": 354
+  },
+  {
+    "id": 253,
+    "data1": 269,
+    "data2": 263,
+    "data3": 281,
+    "data4": 335,
+    "price": 1422,
+    "number": 1148
+  },
+  {
+    "id": 254,
+    "data1": 300,
+    "data2": 300,
+    "data3": 306,
+    "data4": 300,
+    "price": 4797,
+    "number": 4749
+  },
+  {
+    "id": 255,
+    "data1": 293,
+    "data2": 267,
+    "data3": 318,
+    "data4": 327,
+    "price": 2379,
+    "number": 1991
+  },
+  {
+    "id": 256,
+    "data1": 256,
+    "data2": 305,
+    "data3": 260,
+    "data4": 299,
+    "price": 2102,
+    "number": 2279
+  },
+  {
+    "id": 257,
+    "data1": 277,
+    "data2": 308,
+    "data3": 316,
+    "data4": 299,
+    "price": 4992,
+    "number": 5679
+  },
+  {
+    "id": 258,
+    "data1": 282,
+    "data2": 327,
+    "data3": 336,
+    "data4": 351,
+    "price": 1149,
+    "number": 1062
+  },
+  {
+    "id": 259,
+    "data1": 302,
+    "data2": 265,
+    "data3": 285,
+    "data4": 300,
+    "price": 1544,
+    "number": 1849
+  },
+  {
+    "id": 260,
+    "data1": 334,
+    "data2": 324,
+    "data3": 264,
+    "data4": 316,
+    "price": 3008,
+    "number": 2664
+  },
+  {
+    "id": 261,
+    "data1": 333,
+    "data2": 359,
+    "data3": 287,
+    "data4": 297,
+    "price": 1645,
+    "number": 2184
+  },
+  {
+    "id": 262,
+    "data1": 298,
+    "data2": 351,
+    "data3": 301,
+    "data4": 295,
+    "price": 1902,
+    "number": 2751
+  },
+  {
+    "id": 263,
+    "data1": 321,
+    "data2": 312,
+    "data3": 298,
+    "data4": 299,
+    "price": 2840,
+    "number": 2701
+  },
+  {
+    "id": 264,
+    "data1": 361,
+    "data2": 328,
+    "data3": 308,
+    "data4": 364,
+    "price": 2530,
+    "number": 2243
+  },
+  {
+    "id": 265,
+    "data1": 327,
+    "data2": 266,
+    "data3": 330,
+    "data4": 277,
+    "price": 1498,
+    "number": 1949
+  },
+  {
+    "id": 266,
+    "data1": 298,
+    "data2": 290,
+    "data3": 308,
+    "data4": 361,
+    "price": 3252,
+    "number": 4049
+  },
+  {
+    "id": 267,
+    "data1": 304,
+    "data2": 335,
+    "data3": 335,
+    "data4": 357,
+    "price": 4300,
+    "number": 5151
+  },
+  {
+    "id": 268,
+    "data1": 295,
+    "data2": 337,
+    "data3": 289,
+    "data4": 285,
+    "price": 3000,
+    "number": 2096
+  },
+  {
+    "id": 269,
+    "data1": 309,
+    "data2": 333,
+    "data3": 310,
+    "data4": 307,
+    "price": 3492,
+    "number": 3164
+  },
+  {
+    "id": 270,
+    "data1": 288,
+    "data2": 285,
+    "data3": 276,
+    "data4": 343,
+    "price": 2040,
+    "number": 1505
+  },
+  {
+    "id": 271,
+    "data1": 354,
+    "data2": 359,
+    "data3": 347,
+    "data4": 362,
+    "price": 3282,
+    "number": 4017
+  },
+  {
+    "id": 272,
+    "data1": 312,
+    "data2": 335,
+    "data3": 324,
+    "data4": 274,
+    "price": 3210,
+    "number": 2636
+  },
+  {
+    "id": 273,
+    "data1": 328,
+    "data2": 346,
+    "data3": 356,
+    "data4": 296,
+    "price": 5544,
+    "number": 6186
+  },
+  {
+    "id": 274,
+    "data1": 355,
+    "data2": 282,
+    "data3": 324,
+    "data4": 364,
+    "price": 6930,
+    "number": 6835
+  },
+  {
+    "id": 275,
+    "data1": 301,
+    "data2": 290,
+    "data3": 286,
+    "data4": 319,
+    "price": 1844,
+    "number": 1148
+  },
+  {
+    "id": 276,
+    "data1": 289,
+    "data2": 375,
+    "data3": 296,
+    "data4": 301,
+    "price": 1527,
+    "number": 2340
+  },
+  {
+    "id": 277,
+    "data1": 295,
+    "data2": 346,
+    "data3": 330,
+    "data4": 310,
+    "price": 3933,
+    "number": 3837
+  },
+  {
+    "id": 278,
+    "data1": 301,
+    "data2": 359,
+    "data3": 317,
+    "data4": 287,
+    "price": 1771,
+    "number": 1900
+  },
+  {
+    "id": 279,
+    "data1": 320,
+    "data2": 367,
+    "data3": 337,
+    "data4": 333,
+    "price": 4485,
+    "number": 4238
+  },
+  {
+    "id": 280,
+    "data1": 369,
+    "data2": 348,
+    "data3": 372,
+    "data4": 331,
+    "price": 1630,
+    "number": 1070
+  },
+  {
+    "id": 281,
+    "data1": 381,
+    "data2": 365,
+    "data3": 287,
+    "data4": 370,
+    "price": 4928,
+    "number": 4985
+  },
+  {
+    "id": 282,
+    "data1": 363,
+    "data2": 297,
+    "data3": 352,
+    "data4": 377,
+    "price": 1319,
+    "number": 1974
+  },
+  {
+    "id": 283,
+    "data1": 295,
+    "data2": 377,
+    "data3": 299,
+    "data4": 346,
+    "price": 1428,
+    "number": 1044
+  },
+  {
+    "id": 284,
+    "data1": 337,
+    "data2": 292,
+    "data3": 355,
+    "data4": 293,
+    "price": 1807,
+    "number": 1685
+  },
+  {
+    "id": 285,
+    "data1": 365,
+    "data2": 344,
+    "data3": 366,
+    "data4": 286,
+    "price": 3252,
+    "number": 4231
+  },
+  {
+    "id": 286,
+    "data1": 304,
+    "data2": 339,
+    "data3": 353,
+    "data4": 375,
+    "price": 3564,
+    "number": 3500
+  },
+  {
+    "id": 287,
+    "data1": 347,
+    "data2": 359,
+    "data3": 323,
+    "data4": 377,
+    "price": 5469,
+    "number": 5137
+  },
+  {
+    "id": 288,
+    "data1": 319,
+    "data2": 354,
+    "data3": 293,
+    "data4": 381,
+    "price": 1737,
+    "number": 1967
+  },
+  {
+    "id": 289,
+    "data1": 352,
+    "data2": 351,
+    "data3": 344,
+    "data4": 302,
+    "price": 3114,
+    "number": 2259
+  },
+  {
+    "id": 290,
+    "data1": 329,
+    "data2": 299,
+    "data3": 295,
+    "data4": 345,
+    "price": 4996,
+    "number": 5937
+  },
+  {
+    "id": 291,
+    "data1": 317,
+    "data2": 349,
+    "data3": 365,
+    "data4": 376,
+    "price": 1916,
+    "number": 2123
+  },
+  {
+    "id": 292,
+    "data1": 332,
+    "data2": 382,
+    "data3": 307,
+    "data4": 302,
+    "price": 1940,
+    "number": 2089
+  },
+  {
+    "id": 293,
+    "data1": 362,
+    "data2": 308,
+    "data3": 324,
+    "data4": 365,
+    "price": 4984,
+    "number": 5678
+  },
+  {
+    "id": 294,
+    "data1": 373,
+    "data2": 361,
+    "data3": 315,
+    "data4": 345,
+    "price": 1797,
+    "number": 2785
+  },
+  {
+    "id": 295,
+    "data1": 361,
+    "data2": 341,
+    "data3": 330,
+    "data4": 342,
+    "price": 2330,
+    "number": 1811
+  },
+  {
+    "id": 296,
+    "data1": 352,
+    "data2": 368,
+    "data3": 334,
+    "data4": 333,
+    "price": 1695,
+    "number": 1220
+  },
+  {
+    "id": 297,
+    "data1": 365,
+    "data2": 356,
+    "data3": 305,
+    "data4": 304,
+    "price": 2067,
+    "number": 2902
+  },
+  {
+    "id": 298,
+    "data1": 384,
+    "data2": 361,
+    "data3": 343,
+    "data4": 312,
+    "price": 1246,
+    "number": 952
+  },
+  {
+    "id": 299,
+    "data1": 369,
+    "data2": 324,
+    "data3": 322,
+    "data4": 362,
+    "price": 2092,
+    "number": 1941
+  },
+  {
+    "id": 300,
+    "data1": 358,
+    "data2": 369,
+    "data3": 333,
+    "data4": 385,
+    "price": 841,
+    "number": 825
+  },
+  {
+    "id": 301,
+    "data1": 372,
+    "data2": 312,
+    "data3": 358,
+    "data4": 336,
+    "price": 3706,
+    "number": 3985
+  },
+  {
+    "id": 302,
+    "data1": 339,
+    "data2": 353,
+    "data3": 355,
+    "data4": 340,
+    "price": 1354,
+    "number": 1398
+  },
+  {
+    "id": 303,
+    "data1": 311,
+    "data2": 314,
+    "data3": 358,
+    "data4": 306,
+    "price": 1320,
+    "number": 486
+  },
+  {
+    "id": 304,
+    "data1": 399,
+    "data2": 326,
+    "data3": 316,
+    "data4": 377,
+    "price": 4959,
+    "number": 5339
+  },
+  {
+    "id": 305,
+    "data1": 358,
+    "data2": 323,
+    "data3": 398,
+    "data4": 337,
+    "price": 1336,
+    "number": 1169
+  },
+  {
+    "id": 306,
+    "data1": 405,
+    "data2": 363,
+    "data3": 389,
+    "data4": 333,
+    "price": 2017,
+    "number": 1881
+  },
+  {
+    "id": 307,
+    "data1": 374,
+    "data2": 393,
+    "data3": 355,
+    "data4": 317,
+    "price": 3986,
+    "number": 3568
+  },
+  {
+    "id": 308,
+    "data1": 385,
+    "data2": 368,
+    "data3": 360,
+    "data4": 389,
+    "price": 1079,
+    "number": 682
+  },
+  {
+    "id": 309,
+    "data1": 385,
+    "data2": 336,
+    "data3": 332,
+    "data4": 361,
+    "price": 1754,
+    "number": 1424
+  },
+  {
+    "id": 310,
+    "data1": 333,
+    "data2": 345,
+    "data3": 341,
+    "data4": 400,
+    "price": 1113,
+    "number": 1167
+  },
+  {
+    "id": 311,
+    "data1": 360,
+    "data2": 392,
+    "data3": 369,
+    "data4": 398,
+    "price": 635,
+    "number": 899
+  },
+  {
+    "id": 312,
+    "data1": 351,
+    "data2": 394,
+    "data3": 407,
+    "data4": 327,
+    "price": 3453,
+    "number": 3330
+  },
+  {
+    "id": 313,
+    "data1": 334,
+    "data2": 383,
+    "data3": 329,
+    "data4": 373,
+    "price": 2124,
+    "number": 2633
+  },
+  {
+    "id": 314,
+    "data1": 392,
+    "data2": 387,
+    "data3": 338,
+    "data4": 361,
+    "price": 3280,
+    "number": 4013
+  },
+  {
+    "id": 315,
+    "data1": 348,
+    "data2": 383,
+    "data3": 415,
+    "data4": 322,
+    "price": 4408,
+    "number": 3595
+  },
+  {
+    "id": 316,
+    "data1": 409,
+    "data2": 345,
+    "data3": 362,
+    "data4": 354,
+    "price": 3602,
+    "number": 3855
+  },
+  {
+    "id": 317,
+    "data1": 398,
+    "data2": 378,
+    "data3": 359,
+    "data4": 378,
+    "price": 1525,
+    "number": 2134
+  },
+  {
+    "id": 318,
+    "data1": 407,
+    "data2": 372,
+    "data3": 361,
+    "data4": 335,
+    "price": 12474,
+    "number": 11613
+  },
+  {
+    "id": 319,
+    "data1": 401,
+    "data2": 341,
+    "data3": 347,
+    "data4": 361,
+    "price": 1298,
+    "number": 1669
+  },
+  {
+    "id": 320,
+    "data1": 395,
+    "data2": 414,
+    "data3": 399,
+    "data4": 415,
+    "price": 5946,
+    "number": 6795
+  },
+  {
+    "id": 321,
+    "data1": 337,
+    "data2": 382,
+    "data3": 328,
+    "data4": 392,
+    "price": 4056,
+    "number": 4762
+  },
+  {
+    "id": 322,
+    "data1": 353,
+    "data2": 406,
+    "data3": 388,
+    "data4": 370,
+    "price": 3660,
+    "number": 3020
+  },
+  {
+    "id": 323,
+    "data1": 329,
+    "data2": 381,
+    "data3": 403,
+    "data4": 376,
+    "price": 5530,
+    "number": 4657
+  },
+  {
+    "id": 324,
+    "data1": 364,
+    "data2": 368,
+    "data3": 366,
+    "data4": 335,
+    "price": 1084,
+    "number": 1612
+  },
+  {
+    "id": 325,
+    "data1": 353,
+    "data2": 379,
+    "data3": 328,
+    "data4": 405,
+    "price": 1372,
+    "number": 2218
+  },
+  {
+    "id": 326,
+    "data1": 361,
+    "data2": 384,
+    "data3": 362,
+    "data4": 338,
+    "price": 4794,
+    "number": 4843
+  },
+  {
+    "id": 327,
+    "data1": 387,
+    "data2": 345,
+    "data3": 327,
+    "data4": 343,
+    "price": 1994,
+    "number": 2421
+  },
+  {
+    "id": 328,
+    "data1": 422,
+    "data2": 365,
+    "data3": 362,
+    "data4": 391,
+    "price": 4494,
+    "number": 4474
+  },
+  {
+    "id": 329,
+    "data1": 427,
+    "data2": 418,
+    "data3": 411,
+    "data4": 351,
+    "price": 1462,
+    "number": 466
+  },
+  {
+    "id": 330,
+    "data1": 418,
+    "data2": 366,
+    "data3": 400,
+    "data4": 394,
+    "price": 4900,
+    "number": 4045
+  },
+  {
+    "id": 331,
+    "data1": 351,
+    "data2": 368,
+    "data3": 335,
+    "data4": 417,
+    "price": 4422,
+    "number": 3724
+  },
+  {
+    "id": 332,
+    "data1": 332,
+    "data2": 398,
+    "data3": 338,
+    "data4": 418,
+    "price": 1728,
+    "number": 1996
+  },
+  {
+    "id": 333,
+    "data1": 363,
+    "data2": 398,
+    "data3": 429,
+    "data4": 379,
+    "price": 808,
+    "number": 300
+  },
+  {
+    "id": 334,
+    "data1": 433,
+    "data2": 389,
+    "data3": 364,
+    "data4": 418,
+    "price": 6635,
+    "number": 5774
+  },
+  {
+    "id": 335,
+    "data1": 380,
+    "data2": 369,
+    "data3": 425,
+    "data4": 366,
+    "price": 3676,
+    "number": 4198
+  },
+  {
+    "id": 336,
+    "data1": 364,
+    "data2": 420,
+    "data3": 353,
+    "data4": 418,
+    "price": 1670,
+    "number": 1123
+  },
+  {
+    "id": 337,
+    "data1": 407,
+    "data2": 341,
+    "data3": 350,
+    "data4": 396,
+    "price": 1504,
+    "number": 1385
+  },
+  {
+    "id": 338,
+    "data1": 362,
+    "data2": 378,
+    "data3": 427,
+    "data4": 403,
+    "price": 1627,
+    "number": 2238
+  },
+  {
+    "id": 339,
+    "data1": 352,
+    "data2": 424,
+    "data3": 406,
+    "data4": 438,
+    "price": 3935,
+    "number": 4051
+  },
+  {
+    "id": 340,
+    "data1": 402,
+    "data2": 420,
+    "data3": 436,
+    "data4": 350,
+    "price": 4605,
+    "number": 4468
+  },
+  {
+    "id": 341,
+    "data1": 427,
+    "data2": 382,
+    "data3": 344,
+    "data4": 378,
+    "price": 2484,
+    "number": 2324
+  },
+  {
+    "id": 342,
+    "data1": 371,
+    "data2": 357,
+    "data3": 412,
+    "data4": 395,
+    "price": 1987,
+    "number": 2172
+  },
+  {
+    "id": 343,
+    "data1": 433,
+    "data2": 380,
+    "data3": 346,
+    "data4": 443,
+    "price": 7200,
+    "number": 6348
+  },
+  {
+    "id": 344,
+    "data1": 418,
+    "data2": 421,
+    "data3": 441,
+    "data4": 387,
+    "price": 4008,
+    "number": 4439
+  },
+  {
+    "id": 345,
+    "data1": 394,
+    "data2": 439,
+    "data3": 406,
+    "data4": 391,
+    "price": 2170,
+    "number": 1245
+  },
+  {
+    "id": 346,
+    "data1": 376,
+    "data2": 432,
+    "data3": 363,
+    "data4": 372,
+    "price": 1610,
+    "number": 1964
+  },
+  {
+    "id": 347,
+    "data1": 404,
+    "data2": 428,
+    "data3": 443,
+    "data4": 355,
+    "price": 1854,
+    "number": 859
+  },
+  {
+    "id": 348,
+    "data1": 397,
+    "data2": 435,
+    "data3": 364,
+    "data4": 356,
+    "price": 3182,
+    "number": 3063
+  },
+  {
+    "id": 349,
+    "data1": 368,
+    "data2": 392,
+    "data3": 401,
+    "data4": 389,
+    "price": 2810,
+    "number": 2212
+  },
+  {
+    "id": 350,
+    "data1": 431,
+    "data2": 415,
+    "data3": 433,
+    "data4": 421,
+    "price": 1488,
+    "number": 1209
+  },
+  {
+    "id": 351,
+    "data1": 396,
+    "data2": 422,
+    "data3": 373,
+    "data4": 368,
+    "price": 5637,
+    "number": 5358
+  },
+  {
+    "id": 352,
+    "data1": 420,
+    "data2": 417,
+    "data3": 386,
+    "data4": 438,
+    "price": 2786,
+    "number": 2563
+  },
+  {
+    "id": 353,
+    "data1": 442,
+    "data2": 421,
+    "data3": 361,
+    "data4": 408,
+    "price": 1385,
+    "number": 2350
+  },
+  {
+    "id": 354,
+    "data1": 354,
+    "data2": 364,
+    "data3": 396,
+    "data4": 413,
+    "price": 1703,
+    "number": 2430
+  },
+  {
+    "id": 355,
+    "data1": 440,
+    "data2": 394,
+    "data3": 387,
+    "data4": 357,
+    "price": 4918,
+    "number": 4265
+  },
+  {
+    "id": 356,
+    "data1": 419,
+    "data2": 430,
+    "data3": 369,
+    "data4": 407,
+    "price": 1992,
+    "number": 2750
+  },
+  {
+    "id": 357,
+    "data1": 427,
+    "data2": 440,
+    "data3": 385,
+    "data4": 452,
+    "price": 2217,
+    "number": 3201
+  },
+  {
+    "id": 358,
+    "data1": 406,
+    "data2": 365,
+    "data3": 406,
+    "data4": 363,
+    "price": 4812,
+    "number": 4602
+  },
+  {
+    "id": 359,
+    "data1": 387,
+    "data2": 367,
+    "data3": 405,
+    "data4": 451,
+    "price": 930,
+    "number": 1612
+  },
+  {
+    "id": 360,
+    "data1": 445,
+    "data2": 457,
+    "data3": 446,
+    "data4": 429,
+    "price": 2232,
+    "number": 2875
+  },
+  {
+    "id": 361,
+    "data1": 370,
+    "data2": 366,
+    "data3": 415,
+    "data4": 459,
+    "price": 981,
+    "number": 362
+  },
+  {
+    "id": 362,
+    "data1": 392,
+    "data2": 379,
+    "data3": 377,
+    "data4": 430,
+    "price": 3140,
+    "number": 3128
+  },
+  {
+    "id": 363,
+    "data1": 396,
+    "data2": 457,
+    "data3": 408,
+    "data4": 371,
+    "price": 5715,
+    "number": 5448
+  },
+  {
+    "id": 364,
+    "data1": 425,
+    "data2": 364,
+    "data3": 423,
+    "data4": 373,
+    "price": 7330,
+    "number": 6922
+  },
+  {
+    "id": 365,
+    "data1": 429,
+    "data2": 378,
+    "data3": 437,
+    "data4": 373,
+    "price": 4940,
+    "number": 5242
+  },
+  {
+    "id": 366,
+    "data1": 414,
+    "data2": 424,
+    "data3": 422,
+    "data4": 423,
+    "price": 10475,
+    "number": 10557
+  },
+  {
+    "id": 367,
+    "data1": 407,
+    "data2": 415,
+    "data3": 370,
+    "data4": 368,
+    "price": 3690,
+    "number": 3844
+  },
+  {
+    "id": 368,
+    "data1": 393,
+    "data2": 466,
+    "data3": 391,
+    "data4": 438,
+    "price": 9396,
+    "number": 9688
+  },
+  {
+    "id": 369,
+    "data1": 438,
+    "data2": 400,
+    "data3": 447,
+    "data4": 461,
+    "price": 3804,
+    "number": 4674
+  },
+  {
+    "id": 370,
+    "data1": 407,
+    "data2": 412,
+    "data3": 401,
+    "data4": 437,
+    "price": 988,
+    "number": 1685
+  },
+  {
+    "id": 371,
+    "data1": 374,
+    "data2": 457,
+    "data3": 471,
+    "data4": 438,
+    "price": 5937,
+    "number": 5595
+  },
+  {
+    "id": 372,
+    "data1": 401,
+    "data2": 405,
+    "data3": 427,
+    "data4": 429,
+    "price": 6762,
+    "number": 5949
+  },
+  {
+    "id": 373,
+    "data1": 389,
+    "data2": 399,
+    "data3": 463,
+    "data4": 411,
+    "price": 814,
+    "number": 1802
+  },
+  {
+    "id": 374,
+    "data1": 409,
+    "data2": 399,
+    "data3": 402,
+    "data4": 471,
+    "price": 2667,
+    "number": 2672
+  },
+  {
+    "id": 375,
+    "data1": 462,
+    "data2": 432,
+    "data3": 454,
+    "data4": 428,
+    "price": 5036,
+    "number": 4267
+  },
+  {
+    "id": 376,
+    "data1": 409,
+    "data2": 435,
+    "data3": 427,
+    "data4": 380,
+    "price": 2236,
+    "number": 3195
+  },
+  {
+    "id": 377,
+    "data1": 386,
+    "data2": 468,
+    "data3": 426,
+    "data4": 453,
+    "price": 4436,
+    "number": 3713
+  },
+  {
+    "id": 378,
+    "data1": 411,
+    "data2": 387,
+    "data3": 469,
+    "data4": 411,
+    "price": 4620,
+    "number": 4611
+  },
+  {
+    "id": 379,
+    "data1": 447,
+    "data2": 409,
+    "data3": 448,
+    "data4": 430,
+    "price": 2132,
+    "number": 1508
+  },
+  {
+    "id": 380,
+    "data1": 428,
+    "data2": 407,
+    "data3": 424,
+    "data4": 432,
+    "price": 7809,
+    "number": 7071
+  },
+  {
+    "id": 381,
+    "data1": 457,
+    "data2": 384,
+    "data3": 479,
+    "data4": 459,
+    "price": 5889,
+    "number": 6705
+  },
+  {
+    "id": 382,
+    "data1": 480,
+    "data2": 436,
+    "data3": 469,
+    "data4": 477,
+    "price": 9600,
+    "number": 10576
+  },
+  {
+    "id": 383,
+    "data1": 439,
+    "data2": 454,
+    "data3": 420,
+    "data4": 477,
+    "price": 2860,
+    "number": 2117
+  },
+  {
+    "id": 384,
+    "data1": 410,
+    "data2": 431,
+    "data3": 386,
+    "data4": 482,
+    "price": 2667,
+    "number": 3456
+  },
+  {
+    "id": 385,
+    "data1": 455,
+    "data2": 388,
+    "data3": 480,
+    "data4": 450,
+    "price": 3812,
+    "number": 3331
+  },
+  {
+    "id": 386,
+    "data1": 459,
+    "data2": 448,
+    "data3": 410,
+    "data4": 432,
+    "price": 1687,
+    "number": 2139
+  },
+  {
+    "id": 387,
+    "data1": 409,
+    "data2": 427,
+    "data3": 446,
+    "data4": 465,
+    "price": 7050,
+    "number": 6868
+  },
+  {
+    "id": 388,
+    "data1": 393,
+    "data2": 416,
+    "data3": 396,
+    "data4": 417,
+    "price": 1806,
+    "number": 1986
+  },
+  {
+    "id": 389,
+    "data1": 479,
+    "data2": 418,
+    "data3": 479,
+    "data4": 454,
+    "price": 6352,
+    "number": 6358
+  },
+  {
+    "id": 390,
+    "data1": 429,
+    "data2": 400,
+    "data3": 435,
+    "data4": 449,
+    "price": 7100,
+    "number": 6654
+  },
+  {
+    "id": 391,
+    "data1": 466,
+    "data2": 472,
+    "data3": 487,
+    "data4": 408,
+    "price": 2734,
+    "number": 1967
+  },
+  {
+    "id": 392,
+    "data1": 398,
+    "data2": 464,
+    "data3": 446,
+    "data4": 459,
+    "price": 5164,
+    "number": 5154
+  },
+  {
+    "id": 393,
+    "data1": 428,
+    "data2": 477,
+    "data3": 458,
+    "data4": 401,
+    "price": 7560,
+    "number": 6652
+  },
+  {
+    "id": 394,
+    "data1": 420,
+    "data2": 460,
+    "data3": 426,
+    "data4": 455,
+    "price": 9180,
+    "number": 8235
+  },
+  {
+    "id": 395,
+    "data1": 487,
+    "data2": 454,
+    "data3": 426,
+    "data4": 405,
+    "price": 4270,
+    "number": 3832
+  },
+  {
+    "id": 396,
+    "data1": 496,
+    "data2": 472,
+    "data3": 410,
+    "data4": 468,
+    "price": 4308,
+    "number": 4882
+  },
+  {
+    "id": 397,
+    "data1": 476,
+    "data2": 490,
+    "data3": 437,
+    "data4": 406,
+    "price": 2278,
+    "number": 2183
+  },
+  {
+    "id": 398,
+    "data1": 463,
+    "data2": 461,
+    "data3": 449,
+    "data4": 416,
+    "price": 2294,
+    "number": 2138
+  },
+  {
+    "id": 399,
+    "data1": 425,
+    "data2": 489,
+    "data3": 463,
+    "data4": 413,
+    "price": 4400,
+    "number": 4391
+  },
+  {
+    "id": 400,
+    "data1": 480,
+    "data2": 464,
+    "data3": 402,
+    "data4": 407,
+    "price": 6285,
+    "number": 6651
+  },
+  {
+    "id": 401,
+    "data1": 498,
+    "data2": 454,
+    "data3": 415,
+    "data4": 406,
+    "price": 5960,
+    "number": 6436
+  },
+  {
+    "id": 402,
+    "data1": 428,
+    "data2": 460,
+    "data3": 499,
+    "data4": 446,
+    "price": 3284,
+    "number": 2326
+  },
+  {
+    "id": 403,
+    "data1": 500,
+    "data2": 416,
+    "data3": 477,
+    "data4": 500,
+    "price": 1851,
+    "number": 2276
+  },
+  {
+    "id": 404,
+    "data1": 486,
+    "data2": 408,
+    "data3": 482,
+    "data4": 475,
+    "price": 3816,
+    "number": 4761
+  },
+  {
+    "id": 405,
+    "data1": 503,
+    "data2": 419,
+    "data3": 420,
+    "data4": 445,
+    "price": 2348,
+    "number": 1791
+  },
+  {
+    "id": 406,
+    "data1": 421,
+    "data2": 411,
+    "data3": 426,
+    "data4": 412,
+    "price": 7428,
+    "number": 7624
+  },
+  {
+    "id": 407,
+    "data1": 432,
+    "data2": 435,
+    "data3": 436,
+    "data4": 444,
+    "price": 1730,
+    "number": 2134
+  },
+  {
+    "id": 408,
+    "data1": 455,
+    "data2": 462,
+    "data3": 409,
+    "data4": 480,
+    "price": 3968,
+    "number": 3744
+  },
+  {
+    "id": 409,
+    "data1": 417,
+    "data2": 490,
+    "data3": 436,
+    "data4": 444,
+    "price": 2805,
+    "number": 3769
+  },
+  {
+    "id": 410,
+    "data1": 504,
+    "data2": 490,
+    "data3": 469,
+    "data4": 495,
+    "price": 7773,
+    "number": 7881
+  },
+  {
+    "id": 411,
+    "data1": 423,
+    "data2": 464,
+    "data3": 488,
+    "data4": 423,
+    "price": 3774,
+    "number": 4491
+  },
+  {
+    "id": 412,
+    "data1": 433,
+    "data2": 465,
+    "data3": 451,
+    "data4": 499,
+    "price": 1461,
+    "number": 1861
+  },
+  {
+    "id": 413,
+    "data1": 482,
+    "data2": 505,
+    "data3": 460,
+    "data4": 464,
+    "price": 2452,
+    "number": 2910
+  },
+  {
+    "id": 414,
+    "data1": 498,
+    "data2": 471,
+    "data3": 459,
+    "data4": 458,
+    "price": 6405,
+    "number": 5454
+  },
+  {
+    "id": 415,
+    "data1": 447,
+    "data2": 481,
+    "data3": 452,
+    "data4": 477,
+    "price": 1886,
+    "number": 1240
+  },
+  {
+    "id": 416,
+    "data1": 471,
+    "data2": 418,
+    "data3": 437,
+    "data4": 488,
+    "price": 3256,
+    "number": 2421
+  },
+  {
+    "id": 417,
+    "data1": 442,
+    "data2": 499,
+    "data3": 437,
+    "data4": 476,
+    "price": 2667,
+    "number": 2508
+  },
+  {
+    "id": 418,
+    "data1": 444,
+    "data2": 514,
+    "data3": 459,
+    "data4": 436,
+    "price": 1997,
+    "number": 1020
+  },
+  {
+    "id": 419,
+    "data1": 464,
+    "data2": 443,
+    "data3": 496,
+    "data4": 425,
+    "price": 7554,
+    "number": 6647
+  },
+  {
+    "id": 420,
+    "data1": 433,
+    "data2": 449,
+    "data3": 459,
+    "data4": 476,
+    "price": 1888,
+    "number": 2370
+  },
+  {
+    "id": 421,
+    "data1": 472,
+    "data2": 460,
+    "data3": 465,
+    "data4": 472,
+    "price": 4916,
+    "number": 4166
+  },
+  {
+    "id": 422,
+    "data1": 491,
+    "data2": 506,
+    "data3": 484,
+    "data4": 443,
+    "price": 2818,
+    "number": 3379
+  },
+  {
+    "id": 423,
+    "data1": 430,
+    "data2": 440,
+    "data3": 494,
+    "data4": 514,
+    "price": 5824,
+    "number": 5474
+  },
+  {
+    "id": 424,
+    "data1": 501,
+    "data2": 436,
+    "data3": 457,
+    "data4": 509,
+    "price": 1128,
+    "number": 193
+  },
+  {
+    "id": 425,
+    "data1": 507,
+    "data2": 457,
+    "data3": 506,
+    "data4": 524,
+    "price": 6306,
+    "number": 6417
+  },
+  {
+    "id": 426,
+    "data1": 524,
+    "data2": 463,
+    "data3": 473,
+    "data4": 481,
+    "price": 5600,
+    "number": 5544
+  },
+  {
+    "id": 427,
+    "data1": 501,
+    "data2": 518,
+    "data3": 523,
+    "data4": 509,
+    "price": 9768,
+    "number": 10326
+  },
+  {
+    "id": 428,
+    "data1": 492,
+    "data2": 458,
+    "data3": 479,
+    "data4": 501,
+    "price": 5432,
+    "number": 6260
+  },
+  {
+    "id": 429,
+    "data1": 458,
+    "data2": 511,
+    "data3": 491,
+    "data4": 464,
+    "price": 5436,
+    "number": 5550
+  },
+  {
+    "id": 430,
+    "data1": 446,
+    "data2": 513,
+    "data3": 450,
+    "data4": 520,
+    "price": 7428,
+    "number": 8188
+  },
+  {
+    "id": 431,
+    "data1": 444,
+    "data2": 488,
+    "data3": 435,
+    "data4": 441,
+    "price": 2232,
+    "number": 1888
+  },
+  {
+    "id": 432,
+    "data1": 486,
+    "data2": 498,
+    "data3": 483,
+    "data4": 464,
+    "price": 2334,
+    "number": 2635
+  },
+  {
+    "id": 433,
+    "data1": 440,
+    "data2": 521,
+    "data3": 482,
+    "data4": 489,
+    "price": 3932,
+    "number": 3584
+  },
+  {
+    "id": 434,
+    "data1": 524,
+    "data2": 516,
+    "data3": 530,
+    "data4": 491,
+    "price": 10032,
+    "number": 10594
+  },
+  {
+    "id": 435,
+    "data1": 521,
+    "data2": 525,
+    "data3": 468,
+    "data4": 438,
+    "price": 1923,
+    "number": 2904
+  },
+  {
+    "id": 436,
+    "data1": 437,
+    "data2": 455,
+    "data3": 457,
+    "data4": 447,
+    "price": 2593,
+    "number": 2825
+  },
+  {
+    "id": 437,
+    "data1": 477,
+    "data2": 454,
+    "data3": 498,
+    "data4": 490,
+    "price": 1790,
+    "number": 2273
+  },
+  {
+    "id": 438,
+    "data1": 485,
+    "data2": 457,
+    "data3": 461,
+    "data4": 532,
+    "price": 2820,
+    "number": 2686
+  },
+  {
+    "id": 439,
+    "data1": 455,
+    "data2": 444,
+    "data3": 507,
+    "data4": 522,
+    "price": 7206,
+    "number": 7620
+  },
+  {
+    "id": 440,
+    "data1": 500,
+    "data2": 444,
+    "data3": 443,
+    "data4": 507,
+    "price": 3027,
+    "number": 2064
+  },
+  {
+    "id": 441,
+    "data1": 487,
+    "data2": 531,
+    "data3": 519,
+    "data4": 443,
+    "price": 1092,
+    "number": 251
+  },
+  {
+    "id": 442,
+    "data1": 471,
+    "data2": 444,
+    "data3": 514,
+    "data4": 512,
+    "price": 3454,
+    "number": 3531
+  },
+  {
+    "id": 443,
+    "data1": 524,
+    "data2": 479,
+    "data3": 541,
+    "data4": 466,
+    "price": 4683,
+    "number": 4724
+  },
+  {
+    "id": 444,
+    "data1": 476,
+    "data2": 531,
+    "data3": 445,
+    "data4": 531,
+    "price": 9189,
+    "number": 10045
+  },
+  {
+    "id": 445,
+    "data1": 479,
+    "data2": 518,
+    "data3": 502,
+    "data4": 530,
+    "price": 2002,
+    "number": 2364
+  },
+  {
+    "id": 446,
+    "data1": 518,
+    "data2": 502,
+    "data3": 512,
+    "data4": 465,
+    "price": 2532,
+    "number": 3156
+  },
+  {
+    "id": 447,
+    "data1": 451,
+    "data2": 511,
+    "data3": 459,
+    "data4": 534,
+    "price": 2852,
+    "number": 3608
+  },
+  {
+    "id": 448,
+    "data1": 483,
+    "data2": 500,
+    "data3": 512,
+    "data4": 536,
+    "price": 3436,
+    "number": 3917
+  },
+  {
+    "id": 449,
+    "data1": 465,
+    "data2": 548,
+    "data3": 508,
+    "data4": 481,
+    "price": 2881,
+    "number": 2704
+  },
+  {
+    "id": 450,
+    "data1": 464,
+    "data2": 515,
+    "data3": 535,
+    "data4": 525,
+    "price": 3398,
+    "number": 4264
+  },
+  {
+    "id": 451,
+    "data1": 548,
+    "data2": 478,
+    "data3": 464,
+    "data4": 475,
+    "price": 9615,
+    "number": 8951
+  },
+  {
+    "id": 452,
+    "data1": 496,
+    "data2": 488,
+    "data3": 552,
+    "data4": 508,
+    "price": 2058,
+    "number": 2264
+  },
+  {
+    "id": 453,
+    "data1": 548,
+    "data2": 458,
+    "data3": 503,
+    "data4": 502,
+    "price": 2777,
+    "number": 3721
+  },
+  {
+    "id": 454,
+    "data1": 525,
+    "data2": 479,
+    "data3": 544,
+    "data4": 486,
+    "price": 2382,
+    "number": 2761
+  },
+  {
+    "id": 455,
+    "data1": 479,
+    "data2": 520,
+    "data3": 551,
+    "data4": 538,
+    "price": 3006,
+    "number": 3441
+  },
+  {
+    "id": 456,
+    "data1": 547,
+    "data2": 553,
+    "data3": 466,
+    "data4": 506,
+    "price": 2481,
+    "number": 1652
+  },
+  {
+    "id": 457,
+    "data1": 502,
+    "data2": 535,
+    "data3": 475,
+    "data4": 550,
+    "price": 6570,
+    "number": 6601
+  },
+  {
+    "id": 458,
+    "data1": 516,
+    "data2": 532,
+    "data3": 537,
+    "data4": 484,
+    "price": 7374,
+    "number": 8084
+  },
+  {
+    "id": 459,
+    "data1": 535,
+    "data2": 483,
+    "data3": 488,
+    "data4": 482,
+    "price": 3015,
+    "number": 3742
+  },
+  {
+    "id": 460,
+    "data1": 541,
+    "data2": 490,
+    "data3": 499,
+    "data4": 471,
+    "price": 2248,
+    "number": 2645
+  },
+  {
+    "id": 461,
+    "data1": 547,
+    "data2": 507,
+    "data3": 515,
+    "data4": 488,
+    "price": 2420,
+    "number": 3318
+  },
+  {
+    "id": 462,
+    "data1": 511,
+    "data2": 462,
+    "data3": 542,
+    "data4": 535,
+    "price": 2172,
+    "number": 1561
+  },
+  {
+    "id": 463,
+    "data1": 558,
+    "data2": 536,
+    "data3": 492,
+    "data4": 467,
+    "price": 2669,
+    "number": 3070
+  },
+  {
+    "id": 464,
+    "data1": 471,
+    "data2": 492,
+    "data3": 530,
+    "data4": 558,
+    "price": 5340,
+    "number": 6260
+  },
+  {
+    "id": 465,
+    "data1": 545,
+    "data2": 538,
+    "data3": 509,
+    "data4": 519,
+    "price": 3862,
+    "number": 3508
+  },
+  {
+    "id": 466,
+    "data1": 475,
+    "data2": 532,
+    "data3": 479,
+    "data4": 508,
+    "price": 2338,
+    "number": 1401
+  },
+  {
+    "id": 467,
+    "data1": 560,
+    "data2": 509,
+    "data3": 468,
+    "data4": 531,
+    "price": 9708,
+    "number": 10015
+  },
+  {
+    "id": 468,
+    "data1": 484,
+    "data2": 543,
+    "data3": 502,
+    "data4": 534,
+    "price": 8576,
+    "number": 9255
+  },
+  {
+    "id": 469,
+    "data1": 484,
+    "data2": 471,
+    "data3": 475,
+    "data4": 496,
+    "price": 5847,
+    "number": 5606
+  },
+  {
+    "id": 470,
+    "data1": 526,
+    "data2": 549,
+    "data3": 523,
+    "data4": 517,
+    "price": 4068,
+    "number": 3519
+  },
+  {
+    "id": 471,
+    "data1": 544,
+    "data2": 471,
+    "data3": 569,
+    "data4": 473,
+    "price": 8259,
+    "number": 8894
+  },
+  {
+    "id": 472,
+    "data1": 497,
+    "data2": 491,
+    "data3": 500,
+    "data4": 557,
+    "price": 2420,
+    "number": 1958
+  },
+  {
+    "id": 473,
+    "data1": 483,
+    "data2": 550,
+    "data3": 534,
+    "data4": 499,
+    "price": 9075,
+    "number": 9347
+  },
+  {
+    "id": 474,
+    "data1": 560,
+    "data2": 555,
+    "data3": 557,
+    "data4": 562,
+    "price": 2162,
+    "number": 2668
+  },
+  {
+    "id": 475,
+    "data1": 515,
+    "data2": 544,
+    "data3": 545,
+    "data4": 520,
+    "price": 1602,
+    "number": 2598
+  },
+  {
+    "id": 476,
+    "data1": 481,
+    "data2": 496,
+    "data3": 567,
+    "data4": 483,
+    "price": 1980,
+    "number": 2419
+  },
+  {
+    "id": 477,
+    "data1": 569,
+    "data2": 509,
+    "data3": 482,
+    "data4": 491,
+    "price": 5883,
+    "number": 5780
+  },
+  {
+    "id": 478,
+    "data1": 478,
+    "data2": 486,
+    "data3": 547,
+    "data4": 571,
+    "price": 5754,
+    "number": 6151
+  },
+  {
+    "id": 479,
+    "data1": 552,
+    "data2": 544,
+    "data3": 541,
+    "data4": 576,
+    "price": 2608,
+    "number": 2224
+  },
+  {
+    "id": 480,
+    "data1": 544,
+    "data2": 556,
+    "data3": 566,
+    "data4": 505,
+    "price": 6472,
+    "number": 6114
+  },
+  {
+    "id": 481,
+    "data1": 564,
+    "data2": 544,
+    "data3": 481,
+    "data4": 563,
+    "price": 5922,
+    "number": 5405
+  },
+  {
+    "id": 482,
+    "data1": 570,
+    "data2": 492,
+    "data3": 539,
+    "data4": 525,
+    "price": 2463,
+    "number": 3030
+  },
+  {
+    "id": 483,
+    "data1": 485,
+    "data2": 524,
+    "data3": 570,
+    "data4": 550,
+    "price": 5798,
+    "number": 5424
+  },
+  {
+    "id": 484,
+    "data1": 503,
+    "data2": 552,
+    "data3": 504,
+    "data4": 581,
+    "price": 5240,
+    "number": 5763
+  },
+  {
+    "id": 485,
+    "data1": 537,
+    "data2": 576,
+    "data3": 564,
+    "data4": 537,
+    "price": 1286,
+    "number": 2123
+  },
+  {
+    "id": 486,
+    "data1": 585,
+    "data2": 520,
+    "data3": 491,
+    "data4": 526,
+    "price": 3532,
+    "number": 4055
+  },
+  {
+    "id": 487,
+    "data1": 526,
+    "data2": 561,
+    "data3": 542,
+    "data4": 491,
+    "price": 14935,
+    "number": 14044
+  },
+  {
+    "id": 488,
+    "data1": 567,
+    "data2": 503,
+    "data3": 536,
+    "data4": 552,
+    "price": 13668,
+    "number": 14650
+  },
+  {
+    "id": 489,
+    "data1": 548,
+    "data2": 532,
+    "data3": 525,
+    "data4": 507,
+    "price": 5156,
+    "number": 4328
+  },
+  {
+    "id": 490,
+    "data1": 497,
+    "data2": 564,
+    "data3": 534,
+    "data4": 508,
+    "price": 2265,
+    "number": 1301
+  },
+  {
+    "id": 491,
+    "data1": 578,
+    "data2": 564,
+    "data3": 547,
+    "data4": 535,
+    "price": 1747,
+    "number": 1483
+  },
+  {
+    "id": 492,
+    "data1": 550,
+    "data2": 530,
+    "data3": 561,
+    "data4": 570,
+    "price": 2723,
+    "number": 2359
+  },
+  {
+    "id": 493,
+    "data1": 539,
+    "data2": 558,
+    "data3": 513,
+    "data4": 504,
+    "price": 1472,
+    "number": 2262
+  },
+  {
+    "id": 494,
+    "data1": 565,
+    "data2": 557,
+    "data3": 547,
+    "data4": 532,
+    "price": 3181,
+    "number": 3297
+  },
+  {
+    "id": 495,
+    "data1": 527,
+    "data2": 546,
+    "data3": 590,
+    "data4": 510,
+    "price": 4924,
+    "number": 4595
+  },
+  {
+    "id": 496,
+    "data1": 544,
+    "data2": 565,
+    "data3": 592,
+    "data4": 552,
+    "price": 5864,
+    "number": 6371
+  },
+  {
+    "id": 497,
+    "data1": 539,
+    "data2": 595,
+    "data3": 529,
+    "data4": 559,
+    "price": 3190,
+    "number": 3333
+  },
+  {
+    "id": 498,
+    "data1": 551,
+    "data2": 529,
+    "data3": 531,
+    "data4": 550,
+    "price": 8745,
+    "number": 9102
+  },
+  {
+    "id": 499,
+    "data1": 543,
+    "data2": 520,
+    "data3": 540,
+    "data4": 520,
+    "price": 2049,
+    "number": 2911
+  },
+  {
+    "id": 500,
+    "data1": 592,
+    "data2": 592,
+    "data3": 537,
+    "data4": 596,
+    "price": 5408,
+    "number": 5481
+  },
+  {
+    "id": 501,
+    "data1": 570,
+    "data2": 560,
+    "data3": 570,
+    "data4": 576,
+    "price": 2292,
+    "number": 2694
+  },
+  {
+    "id": 502,
+    "data1": 525,
+    "data2": 572,
+    "data3": 570,
+    "data4": 564,
+    "price": 3634,
+    "number": 2729
+  },
+  {
+    "id": 503,
+    "data1": 580,
+    "data2": 581,
+    "data3": 515,
+    "data4": 588,
+    "price": 1464,
+    "number": 2209
+  },
+  {
+    "id": 504,
+    "data1": 603,
+    "data2": 508,
+    "data3": 574,
+    "data4": 586,
+    "price": 2727,
+    "number": 3176
+  },
+  {
+    "id": 505,
+    "data1": 509,
+    "data2": 520,
+    "data3": 595,
+    "data4": 567,
+    "price": 3622,
+    "number": 3532
+  },
+  {
+    "id": 506,
+    "data1": 516,
+    "data2": 516,
+    "data3": 509,
+    "data4": 526,
+    "price": 6072,
+    "number": 6333
+  },
+  {
+    "id": 507,
+    "data1": 568,
+    "data2": 578,
+    "data3": 530,
+    "data4": 607,
+    "price": 3462,
+    "number": 3844
+  },
+  {
+    "id": 508,
+    "data1": 543,
+    "data2": 527,
+    "data3": 548,
+    "data4": 591,
+    "price": 3348,
+    "number": 3293
+  },
+  {
+    "id": 509,
+    "data1": 583,
+    "data2": 520,
+    "data3": 591,
+    "data4": 555,
+    "price": 4756,
+    "number": 5476
+  },
+  {
+    "id": 510,
+    "data1": 519,
+    "data2": 523,
+    "data3": 609,
+    "data4": 610,
+    "price": 4192,
+    "number": 4701
+  },
+  {
+    "id": 511,
+    "data1": 555,
+    "data2": 522,
+    "data3": 524,
+    "data4": 511,
+    "price": 16225,
+    "number": 17101
+  },
+  {
+    "id": 512,
+    "data1": 575,
+    "data2": 520,
+    "data3": 557,
+    "data4": 564,
+    "price": 2485,
+    "number": 3368
+  },
+  {
+    "id": 513,
+    "data1": 553,
+    "data2": 606,
+    "data3": 566,
+    "data4": 524,
+    "price": 5108,
+    "number": 4582
+  },
+  {
+    "id": 514,
+    "data1": 595,
+    "data2": 557,
+    "data3": 553,
+    "data4": 576,
+    "price": 6549,
+    "number": 6815
+  },
+  {
+    "id": 515,
+    "data1": 606,
+    "data2": 577,
+    "data3": 553,
+    "data4": 557,
+    "price": 8082,
+    "number": 7734
+  },
+  {
+    "id": 516,
+    "data1": 554,
+    "data2": 599,
+    "data3": 563,
+    "data4": 611,
+    "price": 7575,
+    "number": 6903
+  },
+  {
+    "id": 517,
+    "data1": 612,
+    "data2": 580,
+    "data3": 601,
+    "data4": 553,
+    "price": 2772,
+    "number": 3022
+  },
+  {
+    "id": 518,
+    "data1": 600,
+    "data2": 531,
+    "data3": 583,
+    "data4": 539,
+    "price": 4894,
+    "number": 5115
+  },
+  {
+    "id": 519,
+    "data1": 548,
+    "data2": 543,
+    "data3": 608,
+    "data4": 530,
+    "price": 5315,
+    "number": 4547
+  },
+  {
+    "id": 520,
+    "data1": 604,
+    "data2": 558,
+    "data3": 586,
+    "data4": 595,
+    "price": 2252,
+    "number": 2697
+  },
+  {
+    "id": 521,
+    "data1": 607,
+    "data2": 573,
+    "data3": 593,
+    "data4": 583,
+    "price": 5274,
+    "number": 6009
+  },
+  {
+    "id": 522,
+    "data1": 620,
+    "data2": 587,
+    "data3": 563,
+    "data4": 581,
+    "price": 2856,
+    "number": 2910
+  },
+  {
+    "id": 523,
+    "data1": 535,
+    "data2": 604,
+    "data3": 586,
+    "data4": 524,
+    "price": 5648,
+    "number": 4870
+  },
+  {
+    "id": 524,
+    "data1": 593,
+    "data2": 620,
+    "data3": 590,
+    "data4": 524,
+    "price": 10624,
+    "number": 9641
+  },
+  {
+    "id": 525,
+    "data1": 528,
+    "data2": 574,
+    "data3": 530,
+    "data4": 591,
+    "price": 6348,
+    "number": 6037
+  },
+  {
+    "id": 526,
+    "data1": 592,
+    "data2": 611,
+    "data3": 619,
+    "data4": 617,
+    "price": 4072,
+    "number": 4254
+  },
+  {
+    "id": 527,
+    "data1": 542,
+    "data2": 588,
+    "data3": 579,
+    "data4": 597,
+    "price": 6538,
+    "number": 6736
+  },
+  {
+    "id": 528,
+    "data1": 618,
+    "data2": 547,
+    "data3": 600,
+    "data4": 557,
+    "price": 2924,
+    "number": 3490
+  },
+  {
+    "id": 529,
+    "data1": 570,
+    "data2": 625,
+    "data3": 556,
+    "data4": 566,
+    "price": 5396,
+    "number": 5442
+  },
+  {
+    "id": 530,
+    "data1": 553,
+    "data2": 589,
+    "data3": 572,
+    "data4": 575,
+    "price": 5536,
+    "number": 5433
+  },
+  {
+    "id": 531,
+    "data1": 594,
+    "data2": 559,
+    "data3": 596,
+    "data4": 547,
+    "price": 3284,
+    "number": 3991
+  },
+  {
+    "id": 532,
+    "data1": 584,
+    "data2": 593,
+    "data3": 558,
+    "data4": 601,
+    "price": 1817,
+    "number": 2237
+  },
+  {
+    "id": 533,
+    "data1": 621,
+    "data2": 577,
+    "data3": 571,
+    "data4": 599,
+    "price": 6548,
+    "number": 6897
+  },
+  {
+    "id": 534,
+    "data1": 574,
+    "data2": 549,
+    "data3": 595,
+    "data4": 603,
+    "price": 1076,
+    "number": 1148
+  },
+  {
+    "id": 535,
+    "data1": 574,
+    "data2": 566,
+    "data3": 586,
+    "data4": 545,
+    "price": 5558,
+    "number": 5683
+  },
+  {
+    "id": 536,
+    "data1": 630,
+    "data2": 609,
+    "data3": 594,
+    "data4": 583,
+    "price": 2878,
+    "number": 2543
+  },
+  {
+    "id": 537,
+    "data1": 560,
+    "data2": 540,
+    "data3": 564,
+    "data4": 596,
+    "price": 6730,
+    "number": 5861
+  },
+  {
+    "id": 538,
+    "data1": 556,
+    "data2": 622,
+    "data3": 638,
+    "data4": 616,
+    "price": 7974,
+    "number": 8064
+  },
+  {
+    "id": 539,
+    "data1": 600,
+    "data2": 585,
+    "data3": 628,
+    "data4": 602,
+    "price": 6270,
+    "number": 5549
+  },
+  {
+    "id": 540,
+    "data1": 544,
+    "data2": 630,
+    "data3": 611,
+    "data4": 603,
+    "price": 2902,
+    "number": 3298
+  },
+  {
+    "id": 541,
+    "data1": 595,
+    "data2": 579,
+    "data3": 581,
+    "data4": 583,
+    "price": 5736,
+    "number": 6589
+  },
+  {
+    "id": 542,
+    "data1": 614,
+    "data2": 558,
+    "data3": 589,
+    "data4": 607,
+    "price": 2175,
+    "number": 2931
+  },
+  {
+    "id": 543,
+    "data1": 623,
+    "data2": 557,
+    "data3": 566,
+    "data4": 579,
+    "price": 10644,
+    "number": 11613
+  },
+  {
+    "id": 544,
+    "data1": 644,
+    "data2": 594,
+    "data3": 575,
+    "data4": 614,
+    "price": 3364,
+    "number": 3627
+  },
+  {
+    "id": 545,
+    "data1": 616,
+    "data2": 623,
+    "data3": 608,
+    "data4": 568,
+    "price": 2780,
+    "number": 2936
+  },
+  {
+    "id": 546,
+    "data1": 612,
+    "data2": 575,
+    "data3": 577,
+    "data4": 572,
+    "price": 12008,
+    "number": 11107
+  },
+  {
+    "id": 547,
+    "data1": 629,
+    "data2": 586,
+    "data3": 605,
+    "data4": 563,
+    "price": 10748,
+    "number": 10307
+  },
+  {
+    "id": 548,
+    "data1": 627,
+    "data2": 568,
+    "data3": 630,
+    "data4": 628,
+    "price": 1774,
+    "number": 2339
+  },
+  {
+    "id": 549,
+    "data1": 630,
+    "data2": 560,
+    "data3": 594,
+    "data4": 595,
+    "price": 6992,
+    "number": 6871
+  },
+  {
+    "id": 550,
+    "data1": 571,
+    "data2": 629,
+    "data3": 617,
+    "data4": 600,
+    "price": 13872,
+    "number": 13952
+  },
+  {
+    "id": 551,
+    "data1": 636,
+    "data2": 614,
+    "data3": 558,
+    "data4": 639,
+    "price": 5386,
+    "number": 4485
+  },
+  {
+    "id": 552,
+    "data1": 589,
+    "data2": 575,
+    "data3": 582,
+    "data4": 648,
+    "price": 2750,
+    "number": 2672
+  },
+  {
+    "id": 553,
+    "data1": 653,
+    "data2": 584,
+    "data3": 598,
+    "data4": 643,
+    "price": 6612,
+    "number": 6169
+  },
+  {
+    "id": 554,
+    "data1": 628,
+    "data2": 586,
+    "data3": 594,
+    "data4": 596,
+    "price": 12136,
+    "number": 12348
+  },
+  {
+    "id": 555,
+    "data1": 579,
+    "data2": 625,
+    "data3": 557,
+    "data4": 617,
+    "price": 1649,
+    "number": 992
+  },
+  {
+    "id": 556,
+    "data1": 607,
+    "data2": 632,
+    "data3": 646,
+    "data4": 578,
+    "price": 7046,
+    "number": 7624
+  },
+  {
+    "id": 557,
+    "data1": 577,
+    "data2": 571,
+    "data3": 578,
+    "data4": 600,
+    "price": 5064,
+    "number": 5351
+  },
+  {
+    "id": 558,
+    "data1": 580,
+    "data2": 611,
+    "data3": 610,
+    "data4": 567,
+    "price": 3516,
+    "number": 4390
+  },
+  {
+    "id": 559,
+    "data1": 586,
+    "data2": 648,
+    "data3": 574,
+    "data4": 622,
+    "price": 6264,
+    "number": 5924
+  },
+  {
+    "id": 560,
+    "data1": 630,
+    "data2": 582,
+    "data3": 574,
+    "data4": 580,
+    "price": 13370,
+    "number": 12572
+  },
+  {
+    "id": 561,
+    "data1": 615,
+    "data2": 600,
+    "data3": 568,
+    "data4": 583,
+    "price": 7512,
+    "number": 8021
+  },
+  {
+    "id": 562,
+    "data1": 601,
+    "data2": 608,
+    "data3": 617,
+    "data4": 569,
+    "price": 1663,
+    "number": 1568
+  },
+  {
+    "id": 563,
+    "data1": 625,
+    "data2": 603,
+    "data3": 607,
+    "data4": 653,
+    "price": 6010,
+    "number": 5687
+  },
+  {
+    "id": 564,
+    "data1": 572,
+    "data2": 587,
+    "data3": 632,
+    "data4": 625,
+    "price": 4656,
+    "number": 4214
+  },
+  {
+    "id": 565,
+    "data1": 594,
+    "data2": 619,
+    "data3": 630,
+    "data4": 617,
+    "price": 3356,
+    "number": 3829
+  },
+  {
+    "id": 566,
+    "data1": 653,
+    "data2": 590,
+    "data3": 588,
+    "data4": 580,
+    "price": 3828,
+    "number": 4001
+  },
+  {
+    "id": 567,
+    "data1": 663,
+    "data2": 635,
+    "data3": 613,
+    "data4": 619,
+    "price": 11706,
+    "number": 10883
+  },
+  {
+    "id": 568,
+    "data1": 610,
+    "data2": 660,
+    "data3": 575,
+    "data4": 600,
+    "price": 3386,
+    "number": 3812
+  },
+  {
+    "id": 569,
+    "data1": 578,
+    "data2": 642,
+    "data3": 634,
+    "data4": 667,
+    "price": 6662,
+    "number": 7525
+  },
+  {
+    "id": 570,
+    "data1": 623,
+    "data2": 613,
+    "data3": 632,
+    "data4": 599,
+    "price": 2024,
+    "number": 1084
+  },
+  {
+    "id": 571,
+    "data1": 574,
+    "data2": 667,
+    "data3": 619,
+    "data4": 633,
+    "price": 2601,
+    "number": 3092
+  },
+  {
+    "id": 572,
+    "data1": 590,
+    "data2": 655,
+    "data3": 581,
+    "data4": 636,
+    "price": 5673,
+    "number": 4807
+  },
+  {
+    "id": 573,
+    "data1": 614,
+    "data2": 672,
+    "data3": 624,
+    "data4": 581,
+    "price": 7240,
+    "number": 6364
+  },
+  {
+    "id": 574,
+    "data1": 645,
+    "data2": 592,
+    "data3": 574,
+    "data4": 636,
+    "price": 5642,
+    "number": 5562
+  },
+  {
+    "id": 575,
+    "data1": 616,
+    "data2": 578,
+    "data3": 617,
+    "data4": 604,
+    "price": 1441,
+    "number": 1304
+  },
+  {
+    "id": 576,
+    "data1": 648,
+    "data2": 625,
+    "data3": 589,
+    "data4": 585,
+    "price": 6910,
+    "number": 6420
+  },
+  {
+    "id": 577,
+    "data1": 585,
+    "data2": 584,
+    "data3": 580,
+    "data4": 660,
+    "price": 4692,
+    "number": 5607
+  },
+  {
+    "id": 578,
+    "data1": 618,
+    "data2": 677,
+    "data3": 581,
+    "data4": 647,
+    "price": 3612,
+    "number": 4230
+  },
+  {
+    "id": 579,
+    "data1": 677,
+    "data2": 613,
+    "data3": 678,
+    "data4": 610,
+    "price": 5684,
+    "number": 5561
+  },
+  {
+    "id": 580,
+    "data1": 663,
+    "data2": 652,
+    "data3": 619,
+    "data4": 614,
+    "price": 7700,
+    "number": 7042
+  },
+  {
+    "id": 581,
+    "data1": 654,
+    "data2": 673,
+    "data3": 663,
+    "data4": 661,
+    "price": 6372,
+    "number": 5404
+  },
+  {
+    "id": 582,
+    "data1": 648,
+    "data2": 677,
+    "data3": 610,
+    "data4": 628,
+    "price": 3905,
+    "number": 4076
+  },
+  {
+    "id": 583,
+    "data1": 598,
+    "data2": 652,
+    "data3": 673,
+    "data4": 635,
+    "price": 1428,
+    "number": 2043
+  },
+  {
+    "id": 584,
+    "data1": 600,
+    "data2": 590,
+    "data3": 648,
+    "data4": 648,
+    "price": 13952,
+    "number": 14690
+  },
+  {
+    "id": 585,
+    "data1": 629,
+    "data2": 619,
+    "data3": 654,
+    "data4": 637,
+    "price": 8940,
+    "number": 9250
+  },
+  {
+    "id": 586,
+    "data1": 588,
+    "data2": 621,
+    "data3": 678,
+    "data4": 666,
+    "price": 4080,
+    "number": 3190
+  },
+  {
+    "id": 587,
+    "data1": 639,
+    "data2": 685,
+    "data3": 625,
+    "data4": 673,
+    "price": 2658,
+    "number": 1924
+  },
+  {
+    "id": 588,
+    "data1": 598,
+    "data2": 599,
+    "data3": 668,
+    "data4": 595,
+    "price": 6888,
+    "number": 6470
+  },
+  {
+    "id": 589,
+    "data1": 678,
+    "data2": 605,
+    "data3": 687,
+    "data4": 590,
+    "price": 4418,
+    "number": 4345
+  },
+  {
+    "id": 590,
+    "data1": 679,
+    "data2": 636,
+    "data3": 663,
+    "data4": 657,
+    "price": 4008,
+    "number": 3243
+  },
+  {
+    "id": 591,
+    "data1": 649,
+    "data2": 664,
+    "data3": 664,
+    "data4": 615,
+    "price": 2874,
+    "number": 2009
+  },
+  {
+    "id": 592,
+    "data1": 684,
+    "data2": 673,
+    "data3": 598,
+    "data4": 658,
+    "price": 7772,
+    "number": 7084
+  },
+  {
+    "id": 593,
+    "data1": 596,
+    "data2": 612,
+    "data3": 636,
+    "data4": 678,
+    "price": 10992,
+    "number": 10266
+  },
+  {
+    "id": 594,
+    "data1": 602,
+    "data2": 648,
+    "data3": 652,
+    "data4": 618,
+    "price": 4372,
+    "number": 3802
+  },
+  {
+    "id": 595,
+    "data1": 608,
+    "data2": 622,
+    "data3": 623,
+    "data4": 666,
+    "price": 3796,
+    "number": 3806
+  },
+  {
+    "id": 596,
+    "data1": 625,
+    "data2": 603,
+    "data3": 689,
+    "data4": 647,
+    "price": 7064,
+    "number": 7632
+  },
+  {
+    "id": 597,
+    "data1": 695,
+    "data2": 676,
+    "data3": 641,
+    "data4": 623,
+    "price": 2319,
+    "number": 2161
+  },
+  {
+    "id": 598,
+    "data1": 697,
+    "data2": 609,
+    "data3": 686,
+    "data4": 602,
+    "price": 9472,
+    "number": 9424
+  },
+  {
+    "id": 599,
+    "data1": 656,
+    "data2": 604,
+    "data3": 626,
+    "data4": 610,
+    "price": 3718,
+    "number": 4494
+  },
+  {
+    "id": 600,
+    "data1": 661,
+    "data2": 627,
+    "data3": 611,
+    "data4": 652,
+    "price": 3024,
+    "number": 3420
+  },
+  {
+    "id": 601,
+    "data1": 682,
+    "data2": 658,
+    "data3": 663,
+    "data4": 681,
+    "price": 8084,
+    "number": 8656
+  },
+  {
+    "id": 602,
+    "data1": 665,
+    "data2": 629,
+    "data3": 608,
+    "data4": 646,
+    "price": 1227,
+    "number": 1716
+  },
+  {
+    "id": 603,
+    "data1": 660,
+    "data2": 617,
+    "data3": 623,
+    "data4": 698,
+    "price": 5826,
+    "number": 5227
+  },
+  {
+    "id": 604,
+    "data1": 679,
+    "data2": 618,
+    "data3": 661,
+    "data4": 639,
+    "price": 2546,
+    "number": 3416
+  },
+  {
+    "id": 605,
+    "data1": 615,
+    "data2": 619,
+    "data3": 640,
+    "data4": 609,
+    "price": 8308,
+    "number": 7345
+  },
+  {
+    "id": 606,
+    "data1": 625,
+    "data2": 635,
+    "data3": 675,
+    "data4": 608,
+    "price": 7140,
+    "number": 6910
+  },
+  {
+    "id": 607,
+    "data1": 614,
+    "data2": 690,
+    "data3": 640,
+    "data4": 660,
+    "price": 7654,
+    "number": 8324
+  },
+  {
+    "id": 608,
+    "data1": 685,
+    "data2": 642,
+    "data3": 646,
+    "data4": 693,
+    "price": 6687,
+    "number": 7261
+  },
+  {
+    "id": 609,
+    "data1": 652,
+    "data2": 684,
+    "data3": 644,
+    "data4": 650,
+    "price": 2149,
+    "number": 2823
+  },
+  {
+    "id": 610,
+    "data1": 704,
+    "data2": 689,
+    "data3": 674,
+    "data4": 619,
+    "price": 3337,
+    "number": 4131
+  },
+  {
+    "id": 611,
+    "data1": 706,
+    "data2": 692,
+    "data3": 650,
+    "data4": 614,
+    "price": 9788,
+    "number": 9952
+  },
+  {
+    "id": 612,
+    "data1": 683,
+    "data2": 614,
+    "data3": 616,
+    "data4": 665,
+    "price": 15484,
+    "number": 15385
+  },
+  {
+    "id": 613,
+    "data1": 699,
+    "data2": 633,
+    "data3": 709,
+    "data4": 713,
+    "price": 5484,
+    "number": 4697
+  },
+  {
+    "id": 614,
+    "data1": 681,
+    "data2": 647,
+    "data3": 647,
+    "data4": 709,
+    "price": 3584,
+    "number": 3026
+  },
+  {
+    "id": 615,
+    "data1": 617,
+    "data2": 634,
+    "data3": 666,
+    "data4": 659,
+    "price": 7852,
+    "number": 7881
+  },
+  {
+    "id": 616,
+    "data1": 714,
+    "data2": 668,
+    "data3": 671,
+    "data4": 696,
+    "price": 15012,
+    "number": 15675
+  },
+  {
+    "id": 617,
+    "data1": 717,
+    "data2": 676,
+    "data3": 697,
+    "data4": 671,
+    "price": 2600,
+    "number": 2441
+  },
+  {
+    "id": 618,
+    "data1": 692,
+    "data2": 710,
+    "data3": 701,
+    "data4": 672,
+    "price": 3371,
+    "number": 2928
+  },
+  {
+    "id": 619,
+    "data1": 708,
+    "data2": 660,
+    "data3": 708,
+    "data4": 625,
+    "price": 6948,
+    "number": 7679
+  },
+  {
+    "id": 620,
+    "data1": 696,
+    "data2": 712,
+    "data3": 672,
+    "data4": 692,
+    "price": 1314,
+    "number": 368
+  },
+  {
+    "id": 621,
+    "data1": 698,
+    "data2": 627,
+    "data3": 669,
+    "data4": 632,
+    "price": 6630,
+    "number": 6869
+  },
+  {
+    "id": 622,
+    "data1": 714,
+    "data2": 643,
+    "data3": 679,
+    "data4": 663,
+    "price": 6214,
+    "number": 5298
+  },
+  {
+    "id": 623,
+    "data1": 645,
+    "data2": 677,
+    "data3": 683,
+    "data4": 679,
+    "price": 8332,
+    "number": 9168
+  },
+  {
+    "id": 624,
+    "data1": 690,
+    "data2": 663,
+    "data3": 708,
+    "data4": 712,
+    "price": 4552,
+    "number": 5054
+  },
+  {
+    "id": 625,
+    "data1": 626,
+    "data2": 630,
+    "data3": 650,
+    "data4": 645,
+    "price": 3780,
+    "number": 4175
+  },
+  {
+    "id": 626,
+    "data1": 697,
+    "data2": 695,
+    "data3": 633,
+    "data4": 689,
+    "price": 7316,
+    "number": 7815
+  },
+  {
+    "id": 627,
+    "data1": 698,
+    "data2": 691,
+    "data3": 673,
+    "data4": 673,
+    "price": 5990,
+    "number": 6002
+  },
+  {
+    "id": 628,
+    "data1": 727,
+    "data2": 727,
+    "data3": 647,
+    "data4": 700,
+    "price": 13550,
+    "number": 12981
+  },
+  {
+    "id": 629,
+    "data1": 706,
+    "data2": 650,
+    "data3": 720,
+    "data4": 661,
+    "price": 11286,
+    "number": 12009
+  },
+  {
+    "id": 630,
+    "data1": 683,
+    "data2": 717,
+    "data3": 699,
+    "data4": 649,
+    "price": 9603,
+    "number": 9914
+  },
+  {
+    "id": 631,
+    "data1": 645,
+    "data2": 714,
+    "data3": 726,
+    "data4": 709,
+    "price": 5268,
+    "number": 6067
+  },
+  {
+    "id": 632,
+    "data1": 650,
+    "data2": 686,
+    "data3": 642,
+    "data4": 683,
+    "price": 4454,
+    "number": 3525
+  },
+  {
+    "id": 633,
+    "data1": 682,
+    "data2": 706,
+    "data3": 669,
+    "data4": 682,
+    "price": 4764,
+    "number": 4956
+  },
+  {
+    "id": 634,
+    "data1": 727,
+    "data2": 708,
+    "data3": 700,
+    "data4": 698,
+    "price": 2823,
+    "number": 3369
+  },
+  {
+    "id": 635,
+    "data1": 680,
+    "data2": 649,
+    "data3": 654,
+    "data4": 635,
+    "price": 3074,
+    "number": 2638
+  },
+  {
+    "id": 636,
+    "data1": 636,
+    "data2": 691,
+    "data3": 636,
+    "data4": 665,
+    "price": 4169,
+    "number": 3874
+  },
+  {
+    "id": 637,
+    "data1": 723,
+    "data2": 637,
+    "data3": 670,
+    "data4": 659,
+    "price": 2103,
+    "number": 2714
+  },
+  {
+    "id": 638,
+    "data1": 690,
+    "data2": 643,
+    "data3": 735,
+    "data4": 707,
+    "price": 6084,
+    "number": 7021
+  },
+  {
+    "id": 639,
+    "data1": 657,
+    "data2": 718,
+    "data3": 719,
+    "data4": 695,
+    "price": 7248,
+    "number": 6860
+  },
+  {
+    "id": 640,
+    "data1": 738,
+    "data2": 708,
+    "data3": 711,
+    "data4": 723,
+    "price": 10413,
+    "number": 9602
+  },
+  {
+    "id": 641,
+    "data1": 659,
+    "data2": 681,
+    "data3": 659,
+    "data4": 662,
+    "price": 3482,
+    "number": 3100
+  },
+  {
+    "id": 642,
+    "data1": 718,
+    "data2": 699,
+    "data3": 717,
+    "data4": 700,
+    "price": 3085,
+    "number": 3781
+  },
+  {
+    "id": 643,
+    "data1": 659,
+    "data2": 684,
+    "data3": 686,
+    "data4": 666,
+    "price": 2663,
+    "number": 3072
+  },
+  {
+    "id": 644,
+    "data1": 683,
+    "data2": 743,
+    "data3": 647,
+    "data4": 722,
+    "price": 10443,
+    "number": 10280
+  },
+  {
+    "id": 645,
+    "data1": 741,
+    "data2": 683,
+    "data3": 689,
+    "data4": 702,
+    "price": 17588,
+    "number": 18097
+  },
+  {
+    "id": 646,
+    "data1": 694,
+    "data2": 651,
+    "data3": 659,
+    "data4": 726,
+    "price": 4486,
+    "number": 3618
+  },
+  {
+    "id": 647,
+    "data1": 665,
+    "data2": 665,
+    "data3": 674,
+    "data4": 683,
+    "price": 2553,
+    "number": 2091
+  },
+  {
+    "id": 648,
+    "data1": 673,
+    "data2": 728,
+    "data3": 718,
+    "data4": 668,
+    "price": 3555,
+    "number": 2900
+  },
+  {
+    "id": 649,
+    "data1": 726,
+    "data2": 733,
+    "data3": 731,
+    "data4": 730,
+    "price": 7660,
+    "number": 7622
+  },
+  {
+    "id": 650,
+    "data1": 732,
+    "data2": 727,
+    "data3": 691,
+    "data4": 705,
+    "price": 2017,
+    "number": 2039
+  },
+  {
+    "id": 651,
+    "data1": 671,
+    "data2": 718,
+    "data3": 708,
+    "data4": 731,
+    "price": 7610,
+    "number": 7429
+  },
+  {
+    "id": 652,
+    "data1": 741,
+    "data2": 701,
+    "data3": 715,
+    "data4": 718,
+    "price": 7500,
+    "number": 6571
+  },
+  {
+    "id": 653,
+    "data1": 751,
+    "data2": 740,
+    "data3": 660,
+    "data4": 675,
+    "price": 4482,
+    "number": 3519
+  },
+  {
+    "id": 654,
+    "data1": 711,
+    "data2": 719,
+    "data3": 703,
+    "data4": 707,
+    "price": 8055,
+    "number": 7353
+  },
+  {
+    "id": 655,
+    "data1": 744,
+    "data2": 703,
+    "data3": 754,
+    "data4": 739,
+    "price": 11082,
+    "number": 11904
+  },
+  {
+    "id": 656,
+    "data1": 706,
+    "data2": 699,
+    "data3": 704,
+    "data4": 680,
+    "price": 1840,
+    "number": 1121
+  },
+  {
+    "id": 657,
+    "data1": 697,
+    "data2": 756,
+    "data3": 708,
+    "data4": 736,
+    "price": 19060,
+    "number": 19302
+  },
+  {
+    "id": 658,
+    "data1": 695,
+    "data2": 695,
+    "data3": 675,
+    "data4": 702,
+    "price": 5040,
+    "number": 4279
+  },
+  {
+    "id": 659,
+    "data1": 734,
+    "data2": 693,
+    "data3": 699,
+    "data4": 678,
+    "price": 9102,
+    "number": 8901
+  },
+  {
+    "id": 660,
+    "data1": 693,
+    "data2": 691,
+    "data3": 693,
+    "data4": 675,
+    "price": 1490,
+    "number": 1699
+  },
+  {
+    "id": 661,
+    "data1": 750,
+    "data2": 692,
+    "data3": 692,
+    "data4": 755,
+    "price": 5460,
+    "number": 4590
+  },
+  {
+    "id": 662,
+    "data1": 734,
+    "data2": 707,
+    "data3": 695,
+    "data4": 752,
+    "price": 5604,
+    "number": 4848
+  },
+  {
+    "id": 663,
+    "data1": 714,
+    "data2": 666,
+    "data3": 691,
+    "data4": 738,
+    "price": 3023,
+    "number": 2263
+  },
+  {
+    "id": 664,
+    "data1": 709,
+    "data2": 760,
+    "data3": 689,
+    "data4": 685,
+    "price": 10028,
+    "number": 10175
+  },
+  {
+    "id": 665,
+    "data1": 729,
+    "data2": 724,
+    "data3": 710,
+    "data4": 720,
+    "price": 8806,
+    "number": 9052
+  },
+  {
+    "id": 666,
+    "data1": 754,
+    "data2": 683,
+    "data3": 743,
+    "data4": 721,
+    "price": 4480,
+    "number": 5091
+  },
+  {
+    "id": 667,
+    "data1": 747,
+    "data2": 692,
+    "data3": 720,
+    "data4": 699,
+    "price": 3190,
+    "number": 3106
+  },
+  {
+    "id": 668,
+    "data1": 702,
+    "data2": 676,
+    "data3": 746,
+    "data4": 672,
+    "price": 1514,
+    "number": 1134
+  },
+  {
+    "id": 669,
+    "data1": 685,
+    "data2": 691,
+    "data3": 750,
+    "data4": 731,
+    "price": 3714,
+    "number": 4070
+  },
+  {
+    "id": 670,
+    "data1": 764,
+    "data2": 747,
+    "data3": 741,
+    "data4": 682,
+    "price": 8118,
+    "number": 7591
+  },
+  {
+    "id": 671,
+    "data1": 770,
+    "data2": 745,
+    "data3": 768,
+    "data4": 738,
+    "price": 3815,
+    "number": 3645
+  },
+  {
+    "id": 672,
+    "data1": 718,
+    "data2": 699,
+    "data3": 730,
+    "data4": 683,
+    "price": 9198,
+    "number": 9379
+  },
+  {
+    "id": 673,
+    "data1": 714,
+    "data2": 745,
+    "data3": 726,
+    "data4": 680,
+    "price": 9804,
+    "number": 8942
+  },
+  {
+    "id": 674,
+    "data1": 694,
+    "data2": 674,
+    "data3": 769,
+    "data4": 761,
+    "price": 2221,
+    "number": 3053
+  },
+  {
+    "id": 675,
+    "data1": 775,
+    "data2": 732,
+    "data3": 752,
+    "data4": 717,
+    "price": 2388,
+    "number": 2483
+  },
+  {
+    "id": 676,
+    "data1": 689,
+    "data2": 722,
+    "data3": 696,
+    "data4": 773,
+    "price": 3751,
+    "number": 2859
+  },
+  {
+    "id": 677,
+    "data1": 737,
+    "data2": 754,
+    "data3": 697,
+    "data4": 751,
+    "price": 6162,
+    "number": 6540
+  },
+  {
+    "id": 678,
+    "data1": 688,
+    "data2": 725,
+    "data3": 712,
+    "data4": 777,
+    "price": 4526,
+    "number": 4798
+  },
+  {
+    "id": 679,
+    "data1": 748,
+    "data2": 755,
+    "data3": 690,
+    "data4": 764,
+    "price": 4328,
+    "number": 4765
+  },
+  {
+    "id": 680,
+    "data1": 682,
+    "data2": 760,
+    "data3": 720,
+    "data4": 780,
+    "price": 3314,
+    "number": 3171
+  },
+  {
+    "id": 681,
+    "data1": 690,
+    "data2": 696,
+    "data3": 686,
+    "data4": 706,
+    "price": 13725,
+    "number": 14569
+  },
+  {
+    "id": 682,
+    "data1": 753,
+    "data2": 772,
+    "data3": 687,
+    "data4": 724,
+    "price": 10748,
+    "number": 10595
+  },
+  {
+    "id": 683,
+    "data1": 773,
+    "data2": 713,
+    "data3": 757,
+    "data4": 711,
+    "price": 5348,
+    "number": 4449
+  },
+  {
+    "id": 684,
+    "data1": 744,
+    "data2": 784,
+    "data3": 758,
+    "data4": 733,
+    "price": 1658,
+    "number": 754
+  },
+  {
+    "id": 685,
+    "data1": 754,
+    "data2": 711,
+    "data3": 768,
+    "data4": 709,
+    "price": 5646,
+    "number": 4947
+  },
+  {
+    "id": 686,
+    "data1": 741,
+    "data2": 686,
+    "data3": 764,
+    "data4": 734,
+    "price": 7800,
+    "number": 7212
+  },
+  {
+    "id": 687,
+    "data1": 761,
+    "data2": 704,
+    "data3": 724,
+    "data4": 730,
+    "price": 3459,
+    "number": 2687
+  },
+  {
+    "id": 688,
+    "data1": 711,
+    "data2": 726,
+    "data3": 786,
+    "data4": 764,
+    "price": 7272,
+    "number": 7255
+  },
+  {
+    "id": 689,
+    "data1": 752,
+    "data2": 695,
+    "data3": 757,
+    "data4": 784,
+    "price": 4079,
+    "number": 4047
+  },
+  {
+    "id": 690,
+    "data1": 771,
+    "data2": 697,
+    "data3": 695,
+    "data4": 771,
+    "price": 2420,
+    "number": 3009
+  },
+  {
+    "id": 691,
+    "data1": 729,
+    "data2": 711,
+    "data3": 789,
+    "data4": 730,
+    "price": 7094,
+    "number": 6099
+  },
+  {
+    "id": 692,
+    "data1": 745,
+    "data2": 694,
+    "data3": 757,
+    "data4": 702,
+    "price": 15384,
+    "number": 14945
+  },
+  {
+    "id": 693,
+    "data1": 793,
+    "data2": 705,
+    "data3": 772,
+    "data4": 749,
+    "price": 9056,
+    "number": 8107
+  },
+  {
+    "id": 694,
+    "data1": 743,
+    "data2": 758,
+    "data3": 713,
+    "data4": 741,
+    "price": 8866,
+    "number": 8244
+  },
+  {
+    "id": 695,
+    "data1": 708,
+    "data2": 709,
+    "data3": 695,
+    "data4": 754,
+    "price": 3641,
+    "number": 4048
+  },
+  {
+    "id": 696,
+    "data1": 707,
+    "data2": 736,
+    "data3": 712,
+    "data4": 738,
+    "price": 9657,
+    "number": 9767
+  },
+  {
+    "id": 697,
+    "data1": 712,
+    "data2": 701,
+    "data3": 738,
+    "data4": 719,
+    "price": 3406,
+    "number": 3149
+  },
+  {
+    "id": 698,
+    "data1": 771,
+    "data2": 773,
+    "data3": 745,
+    "data4": 703,
+    "price": 9660,
+    "number": 8795
+  },
+  {
+    "id": 699,
+    "data1": 701,
+    "data2": 771,
+    "data3": 784,
+    "data4": 718,
+    "price": 7040,
+    "number": 6802
+  },
+  {
+    "id": 700,
+    "data1": 755,
+    "data2": 706,
+    "data3": 768,
+    "data4": 749,
+    "price": 4585,
+    "number": 4670
+  },
+  {
+    "id": 701,
+    "data1": 767,
+    "data2": 740,
+    "data3": 707,
+    "data4": 709,
+    "price": 4796,
+    "number": 5236
+  },
+  {
+    "id": 702,
+    "data1": 770,
+    "data2": 779,
+    "data3": 751,
+    "data4": 785,
+    "price": 8176,
+    "number": 8656
+  },
+  {
+    "id": 703,
+    "data1": 764,
+    "data2": 738,
+    "data3": 739,
+    "data4": 777,
+    "price": 12708,
+    "number": 13611
+  },
+  {
+    "id": 704,
+    "data1": 798,
+    "data2": 716,
+    "data3": 708,
+    "data4": 772,
+    "price": 1870,
+    "number": 1868
+  },
+  {
+    "id": 705,
+    "data1": 765,
+    "data2": 707,
+    "data3": 790,
+    "data4": 783,
+    "price": 8355,
+    "number": 8766
+  },
+  {
+    "id": 706,
+    "data1": 784,
+    "data2": 744,
+    "data3": 720,
+    "data4": 760,
+    "price": 12284,
+    "number": 12606
+  },
+  {
+    "id": 707,
+    "data1": 721,
+    "data2": 754,
+    "data3": 794,
+    "data4": 754,
+    "price": 17488,
+    "number": 17475
+  },
+  {
+    "id": 708,
+    "data1": 727,
+    "data2": 737,
+    "data3": 791,
+    "data4": 803,
+    "price": 8020,
+    "number": 8085
+  },
+  {
+    "id": 709,
+    "data1": 709,
+    "data2": 743,
+    "data3": 777,
+    "data4": 799,
+    "price": 4241,
+    "number": 4855
+  },
+  {
+    "id": 710,
+    "data1": 806,
+    "data2": 757,
+    "data3": 757,
+    "data4": 736,
+    "price": 8772,
+    "number": 8034
+  },
+  {
+    "id": 711,
+    "data1": 807,
+    "data2": 723,
+    "data3": 746,
+    "data4": 720,
+    "price": 4698,
+    "number": 4742
+  },
+  {
+    "id": 712,
+    "data1": 787,
+    "data2": 796,
+    "data3": 760,
+    "data4": 712,
+    "price": 9441,
+    "number": 8540
+  },
+  {
+    "id": 713,
+    "data1": 790,
+    "data2": 810,
+    "data3": 722,
+    "data4": 777,
+    "price": 4146,
+    "number": 3487
+  },
+  {
+    "id": 714,
+    "data1": 736,
+    "data2": 722,
+    "data3": 807,
+    "data4": 744,
+    "price": 4140,
+    "number": 3278
+  },
+  {
+    "id": 715,
+    "data1": 778,
+    "data2": 736,
+    "data3": 753,
+    "data4": 718,
+    "price": 3256,
+    "number": 3300
+  },
+  {
+    "id": 716,
+    "data1": 733,
+    "data2": 746,
+    "data3": 780,
+    "data4": 739,
+    "price": 4481,
+    "number": 4976
+  },
+  {
+    "id": 717,
+    "data1": 777,
+    "data2": 814,
+    "data3": 762,
+    "data4": 742,
+    "price": 5532,
+    "number": 4890
+  },
+  {
+    "id": 718,
+    "data1": 765,
+    "data2": 758,
+    "data3": 747,
+    "data4": 749,
+    "price": 4642,
+    "number": 4430
+  },
+  {
+    "id": 719,
+    "data1": 816,
+    "data2": 810,
+    "data3": 779,
+    "data4": 787,
+    "price": 14349,
+    "number": 14879
+  },
+  {
+    "id": 720,
+    "data1": 749,
+    "data2": 761,
+    "data3": 798,
+    "data4": 736,
+    "price": 5170,
+    "number": 4842
+  },
+  {
+    "id": 721,
+    "data1": 770,
+    "data2": 773,
+    "data3": 786,
+    "data4": 736,
+    "price": 1833,
+    "number": 2472
+  },
+  {
+    "id": 722,
+    "data1": 780,
+    "data2": 762,
+    "data3": 803,
+    "data4": 803,
+    "price": 7203,
+    "number": 6400
+  },
+  {
+    "id": 723,
+    "data1": 789,
+    "data2": 745,
+    "data3": 778,
+    "data4": 776,
+    "price": 9896,
+    "number": 9564
+  },
+  {
+    "id": 724,
+    "data1": 783,
+    "data2": 801,
+    "data3": 766,
+    "data4": 756,
+    "price": 1740,
+    "number": 1938
+  },
+  {
+    "id": 725,
+    "data1": 741,
+    "data2": 738,
+    "data3": 807,
+    "data4": 740,
+    "price": 3236,
+    "number": 3176
+  },
+  {
+    "id": 726,
+    "data1": 803,
+    "data2": 797,
+    "data3": 802,
+    "data4": 800,
+    "price": 2046,
+    "number": 2709
+  },
+  {
+    "id": 727,
+    "data1": 824,
+    "data2": 729,
+    "data3": 824,
+    "data4": 803,
+    "price": 9262,
+    "number": 8386
+  },
+  {
+    "id": 728,
+    "data1": 790,
+    "data2": 791,
+    "data3": 745,
+    "data4": 819,
+    "price": 6718,
+    "number": 6131
+  },
+  {
+    "id": 729,
+    "data1": 817,
+    "data2": 790,
+    "data3": 800,
+    "data4": 782,
+    "price": 7302,
+    "number": 6317
+  },
+  {
+    "id": 730,
+    "data1": 738,
+    "data2": 784,
+    "data3": 792,
+    "data4": 823,
+    "price": 9648,
+    "number": 9337
+  },
+  {
+    "id": 731,
+    "data1": 783,
+    "data2": 750,
+    "data3": 776,
+    "data4": 786,
+    "price": 4700,
+    "number": 5669
+  },
+  {
+    "id": 732,
+    "data1": 775,
+    "data2": 746,
+    "data3": 806,
+    "data4": 773,
+    "price": 18936,
+    "number": 19701
+  },
+  {
+    "id": 733,
+    "data1": 813,
+    "data2": 766,
+    "data3": 782,
+    "data4": 830,
+    "price": 3676,
+    "number": 3112
+  },
+  {
+    "id": 734,
+    "data1": 825,
+    "data2": 809,
+    "data3": 779,
+    "data4": 746,
+    "price": 3701,
+    "number": 4275
+  },
+  {
+    "id": 735,
+    "data1": 809,
+    "data2": 790,
+    "data3": 769,
+    "data4": 763,
+    "price": 15916,
+    "number": 16106
+  },
+  {
+    "id": 736,
+    "data1": 756,
+    "data2": 797,
+    "data3": 826,
+    "data4": 750,
+    "price": 4742,
+    "number": 4022
+  },
+  {
+    "id": 737,
+    "data1": 814,
+    "data2": 787,
+    "data3": 799,
+    "data4": 787,
+    "price": 4791,
+    "number": 5319
+  },
+  {
+    "id": 738,
+    "data1": 795,
+    "data2": 742,
+    "data3": 759,
+    "data4": 788,
+    "price": 14272,
+    "number": 14389
+  },
+  {
+    "id": 739,
+    "data1": 821,
+    "data2": 741,
+    "data3": 796,
+    "data4": 757,
+    "price": 7432,
+    "number": 7538
+  },
+  {
+    "id": 740,
+    "data1": 809,
+    "data2": 763,
+    "data3": 752,
+    "data4": 758,
+    "price": 20832,
+    "number": 20329
+  },
+  {
+    "id": 741,
+    "data1": 769,
+    "data2": 741,
+    "data3": 833,
+    "data4": 815,
+    "price": 4144,
+    "number": 3299
+  },
+  {
+    "id": 742,
+    "data1": 769,
+    "data2": 761,
+    "data3": 810,
+    "data4": 769,
+    "price": 11016,
+    "number": 11673
+  },
+  {
+    "id": 743,
+    "data1": 792,
+    "data2": 776,
+    "data3": 835,
+    "data4": 754,
+    "price": 3493,
+    "number": 2863
+  },
+  {
+    "id": 744,
+    "data1": 785,
+    "data2": 757,
+    "data3": 843,
+    "data4": 778,
+    "price": 3616,
+    "number": 4614
+  },
+  {
+    "id": 745,
+    "data1": 809,
+    "data2": 823,
+    "data3": 818,
+    "data4": 819,
+    "price": 4956,
+    "number": 4471
+  },
+  {
+    "id": 746,
+    "data1": 814,
+    "data2": 761,
+    "data3": 837,
+    "data4": 770,
+    "price": 17492,
+    "number": 17972
+  },
+  {
+    "id": 747,
+    "data1": 795,
+    "data2": 769,
+    "data3": 750,
+    "data4": 754,
+    "price": 18764,
+    "number": 18085
+  },
+  {
+    "id": 748,
+    "data1": 776,
+    "data2": 841,
+    "data3": 810,
+    "data4": 772,
+    "price": 8008,
+    "number": 7237
+  },
+  {
+    "id": 749,
+    "data1": 763,
+    "data2": 840,
+    "data3": 840,
+    "data4": 814,
+    "price": 3157,
+    "number": 3097
+  },
+  {
+    "id": 750,
+    "data1": 760,
+    "data2": 750,
+    "data3": 796,
+    "data4": 794,
+    "price": 14960,
+    "number": 15340
+  },
+  {
+    "id": 751,
+    "data1": 793,
+    "data2": 788,
+    "data3": 753,
+    "data4": 814,
+    "price": 2508,
+    "number": 2328
+  },
+  {
+    "id": 752,
+    "data1": 766,
+    "data2": 762,
+    "data3": 789,
+    "data4": 759,
+    "price": 10094,
+    "number": 9307
+  },
+  {
+    "id": 753,
+    "data1": 766,
+    "data2": 848,
+    "data3": 771,
+    "data4": 766,
+    "price": 15015,
+    "number": 14419
+  },
+  {
+    "id": 754,
+    "data1": 787,
+    "data2": 790,
+    "data3": 800,
+    "data4": 799,
+    "price": 6424,
+    "number": 7292
+  },
+  {
+    "id": 755,
+    "data1": 799,
+    "data2": 779,
+    "data3": 770,
+    "data4": 804,
+    "price": 6057,
+    "number": 6350
+  },
+  {
+    "id": 756,
+    "data1": 847,
+    "data2": 828,
+    "data3": 760,
+    "data4": 808,
+    "price": 4668,
+    "number": 4455
+  },
+  {
+    "id": 757,
+    "data1": 850,
+    "data2": 768,
+    "data3": 823,
+    "data4": 813,
+    "price": 8469,
+    "number": 8199
+  },
+  {
+    "id": 758,
+    "data1": 800,
+    "data2": 793,
+    "data3": 787,
+    "data4": 809,
+    "price": 9416,
+    "number": 8917
+  },
+  {
+    "id": 759,
+    "data1": 791,
+    "data2": 853,
+    "data3": 833,
+    "data4": 854,
+    "price": 6696,
+    "number": 7344
+  },
+  {
+    "id": 760,
+    "data1": 788,
+    "data2": 787,
+    "data3": 807,
+    "data4": 830,
+    "price": 4134,
+    "number": 3996
+  },
+  {
+    "id": 761,
+    "data1": 815,
+    "data2": 768,
+    "data3": 807,
+    "data4": 831,
+    "price": 10090,
+    "number": 10090
+  },
+  {
+    "id": 762,
+    "data1": 850,
+    "data2": 766,
+    "data3": 800,
+    "data4": 832,
+    "price": 12603,
+    "number": 13173
+  },
+  {
+    "id": 763,
+    "data1": 839,
+    "data2": 857,
+    "data3": 798,
+    "data4": 842,
+    "price": 2001,
+    "number": 1496
+  },
+  {
+    "id": 764,
+    "data1": 818,
+    "data2": 817,
+    "data3": 837,
+    "data4": 847,
+    "price": 7416,
+    "number": 7766
+  },
+  {
+    "id": 765,
+    "data1": 781,
+    "data2": 786,
+    "data3": 817,
+    "data4": 855,
+    "price": 6906,
+    "number": 5989
+  },
+  {
+    "id": 766,
+    "data1": 779,
+    "data2": 814,
+    "data3": 864,
+    "data4": 793,
+    "price": 14415,
+    "number": 15184
+  },
+  {
+    "id": 767,
+    "data1": 844,
+    "data2": 850,
+    "data3": 801,
+    "data4": 831,
+    "price": 8012,
+    "number": 8116
+  },
+  {
+    "id": 768,
+    "data1": 781,
+    "data2": 856,
+    "data3": 840,
+    "data4": 867,
+    "price": 8516,
+    "number": 9136
+  },
+  {
+    "id": 769,
+    "data1": 813,
+    "data2": 840,
+    "data3": 769,
+    "data4": 809,
+    "price": 8464,
+    "number": 8016
+  },
+  {
+    "id": 770,
+    "data1": 807,
+    "data2": 781,
+    "data3": 815,
+    "data4": 781,
+    "price": 8818,
+    "number": 8126
+  },
+  {
+    "id": 771,
+    "data1": 805,
+    "data2": 853,
+    "data3": 871,
+    "data4": 851,
+    "price": 4802,
+    "number": 4264
+  },
+  {
+    "id": 772,
+    "data1": 801,
+    "data2": 781,
+    "data3": 864,
+    "data4": 861,
+    "price": 18468,
+    "number": 19303
+  },
+  {
+    "id": 773,
+    "data1": 796,
+    "data2": 809,
+    "data3": 866,
+    "data4": 837,
+    "price": 2785,
+    "number": 2268
+  },
+  {
+    "id": 774,
+    "data1": 830,
+    "data2": 843,
+    "data3": 821,
+    "data4": 817,
+    "price": 5582,
+    "number": 5494
+  },
+  {
+    "id": 775,
+    "data1": 802,
+    "data2": 862,
+    "data3": 785,
+    "data4": 862,
+    "price": 8826,
+    "number": 9151
+  },
+  {
+    "id": 776,
+    "data1": 789,
+    "data2": 803,
+    "data3": 804,
+    "data4": 801,
+    "price": 13293,
+    "number": 13011
+  },
+  {
+    "id": 777,
+    "data1": 849,
+    "data2": 796,
+    "data3": 834,
+    "data4": 877,
+    "price": 8000,
+    "number": 8638
+  },
+  {
+    "id": 778,
+    "data1": 828,
+    "data2": 868,
+    "data3": 825,
+    "data4": 789,
+    "price": 4673,
+    "number": 5167
+  },
+  {
+    "id": 779,
+    "data1": 836,
+    "data2": 823,
+    "data3": 831,
+    "data4": 805,
+    "price": 2420,
+    "number": 3381
+  },
+  {
+    "id": 780,
+    "data1": 792,
+    "data2": 863,
+    "data3": 803,
+    "data4": 808,
+    "price": 3904,
+    "number": 3096
+  },
+  {
+    "id": 781,
+    "data1": 852,
+    "data2": 843,
+    "data3": 877,
+    "data4": 847,
+    "price": 2835,
+    "number": 2247
+  },
+  {
+    "id": 782,
+    "data1": 823,
+    "data2": 812,
+    "data3": 842,
+    "data4": 806,
+    "price": 1752,
+    "number": 1048
+  },
+  {
+    "id": 783,
+    "data1": 839,
+    "data2": 823,
+    "data3": 796,
+    "data4": 882,
+    "price": 7425,
+    "number": 8424
+  },
+  {
+    "id": 784,
+    "data1": 838,
+    "data2": 822,
+    "data3": 864,
+    "data4": 853,
+    "price": 1694,
+    "number": 2047
+  },
+  {
+    "id": 785,
+    "data1": 785,
+    "data2": 837,
+    "data3": 837,
+    "data4": 866,
+    "price": 5103,
+    "number": 5972
+  },
+  {
+    "id": 786,
+    "data1": 802,
+    "data2": 880,
+    "data3": 790,
+    "data4": 810,
+    "price": 1922,
+    "number": 1769
+  },
+  {
+    "id": 787,
+    "data1": 865,
+    "data2": 856,
+    "data3": 795,
+    "data4": 801,
+    "price": 5286,
+    "number": 4486
+  },
+  {
+    "id": 788,
+    "data1": 829,
+    "data2": 867,
+    "data3": 854,
+    "data4": 790,
+    "price": 8248,
+    "number": 8392
+  },
+  {
+    "id": 789,
+    "data1": 838,
+    "data2": 839,
+    "data3": 848,
+    "data4": 888,
+    "price": 9912,
+    "number": 10648
+  },
+  {
+    "id": 790,
+    "data1": 801,
+    "data2": 805,
+    "data3": 816,
+    "data4": 807,
+    "price": 18660,
+    "number": 18931
+  },
+  {
+    "id": 791,
+    "data1": 850,
+    "data2": 886,
+    "data3": 801,
+    "data4": 819,
+    "price": 2155,
+    "number": 3146
+  },
+  {
+    "id": 792,
+    "data1": 800,
+    "data2": 885,
+    "data3": 815,
+    "data4": 840,
+    "price": 5067,
+    "number": 5045
+  },
+  {
+    "id": 793,
+    "data1": 809,
+    "data2": 863,
+    "data3": 832,
+    "data4": 871,
+    "price": 19988,
+    "number": 19347
+  },
+  {
+    "id": 794,
+    "data1": 860,
+    "data2": 860,
+    "data3": 851,
+    "data4": 814,
+    "price": 2151,
+    "number": 1448
+  },
+  {
+    "id": 795,
+    "data1": 826,
+    "data2": 893,
+    "data3": 841,
+    "data4": 870,
+    "price": 8042,
+    "number": 8712
+  },
+  {
+    "id": 796,
+    "data1": 891,
+    "data2": 838,
+    "data3": 857,
+    "data4": 867,
+    "price": 3788,
+    "number": 2818
+  },
+  {
+    "id": 797,
+    "data1": 829,
+    "data2": 798,
+    "data3": 806,
+    "data4": 817,
+    "price": 5424,
+    "number": 5315
+  },
+  {
+    "id": 798,
+    "data1": 834,
+    "data2": 805,
+    "data3": 865,
+    "data4": 798,
+    "price": 10600,
+    "number": 10892
+  },
+  {
+    "id": 799,
+    "data1": 855,
+    "data2": 878,
+    "data3": 871,
+    "data4": 802,
+    "price": 6344,
+    "number": 5415
+  },
+  {
+    "id": 800,
+    "data1": 866,
+    "data2": 836,
+    "data3": 833,
+    "data4": 832,
+    "price": 8906,
+    "number": 8264
+  },
+  {
+    "id": 801,
+    "data1": 824,
+    "data2": 801,
+    "data3": 892,
+    "data4": 829,
+    "price": 1642,
+    "number": 1309
+  },
+  {
+    "id": 802,
+    "data1": 874,
+    "data2": 886,
+    "data3": 802,
+    "data4": 890,
+    "price": 6378,
+    "number": 5447
+  },
+  {
+    "id": 803,
+    "data1": 803,
+    "data2": 827,
+    "data3": 850,
+    "data4": 841,
+    "price": 3310,
+    "number": 2346
+  },
+  {
+    "id": 804,
+    "data1": 809,
+    "data2": 875,
+    "data3": 887,
+    "data4": 871,
+    "price": 7912,
+    "number": 7241
+  },
+  {
+    "id": 805,
+    "data1": 861,
+    "data2": 901,
+    "data3": 860,
+    "data4": 878,
+    "price": 9618,
+    "number": 10384
+  },
+  {
+    "id": 806,
+    "data1": 877,
+    "data2": 870,
+    "data3": 842,
+    "data4": 850,
+    "price": 3307,
+    "number": 3230
+  },
+  {
+    "id": 807,
+    "data1": 848,
+    "data2": 807,
+    "data3": 904,
+    "data4": 865,
+    "price": 16260,
+    "number": 16620
+  },
+  {
+    "id": 808,
+    "data1": 884,
+    "data2": 852,
+    "data3": 868,
+    "data4": 825,
+    "price": 5235,
+    "number": 4792
+  },
+  {
+    "id": 809,
+    "data1": 881,
+    "data2": 882,
+    "data3": 872,
+    "data4": 873,
+    "price": 2826,
+    "number": 2413
+  },
+  {
+    "id": 810,
+    "data1": 847,
+    "data2": 875,
+    "data3": 818,
+    "data4": 829,
+    "price": 7428,
+    "number": 7804
+  },
+  {
+    "id": 811,
+    "data1": 841,
+    "data2": 904,
+    "data3": 827,
+    "data4": 836,
+    "price": 4522,
+    "number": 5160
+  },
+  {
+    "id": 812,
+    "data1": 892,
+    "data2": 848,
+    "data3": 899,
+    "data4": 840,
+    "price": 7134,
+    "number": 6599
+  },
+  {
+    "id": 813,
+    "data1": 828,
+    "data2": 909,
+    "data3": 910,
+    "data4": 859,
+    "price": 9202,
+    "number": 9147
+  },
+  {
+    "id": 814,
+    "data1": 897,
+    "data2": 881,
+    "data3": 836,
+    "data4": 823,
+    "price": 9922,
+    "number": 10288
+  },
+  {
+    "id": 815,
+    "data1": 858,
+    "data2": 838,
+    "data3": 857,
+    "data4": 840,
+    "price": 7034,
+    "number": 6241
+  },
+  {
+    "id": 816,
+    "data1": 818,
+    "data2": 846,
+    "data3": 861,
+    "data4": 863,
+    "price": 1851,
+    "number": 901
+  },
+  {
+    "id": 817,
+    "data1": 841,
+    "data2": 883,
+    "data3": 907,
+    "data4": 837,
+    "price": 3494,
+    "number": 2509
+  },
+  {
+    "id": 818,
+    "data1": 899,
+    "data2": 829,
+    "data3": 904,
+    "data4": 839,
+    "price": 10166,
+    "number": 9369
+  },
+  {
+    "id": 819,
+    "data1": 917,
+    "data2": 852,
+    "data3": 842,
+    "data4": 901,
+    "price": 3330,
+    "number": 3676
+  },
+  {
+    "id": 820,
+    "data1": 903,
+    "data2": 858,
+    "data3": 874,
+    "data4": 868,
+    "price": 13835,
+    "number": 13400
+  },
+  {
+    "id": 821,
+    "data1": 909,
+    "data2": 852,
+    "data3": 829,
+    "data4": 863,
+    "price": 4516,
+    "number": 3718
+  },
+  {
+    "id": 822,
+    "data1": 904,
+    "data2": 866,
+    "data3": 855,
+    "data4": 917,
+    "price": 5276,
+    "number": 5310
+  },
+  {
+    "id": 823,
+    "data1": 912,
+    "data2": 860,
+    "data3": 828,
+    "data4": 873,
+    "price": 3978,
+    "number": 3923
+  },
+  {
+    "id": 824,
+    "data1": 867,
+    "data2": 899,
+    "data3": 846,
+    "data4": 909,
+    "price": 13209,
+    "number": 12299
+  },
+  {
+    "id": 825,
+    "data1": 825,
+    "data2": 915,
+    "data3": 877,
+    "data4": 826,
+    "price": 2631,
+    "number": 1996
+  },
+  {
+    "id": 826,
+    "data1": 841,
+    "data2": 831,
+    "data3": 891,
+    "data4": 845,
+    "price": 10671,
+    "number": 11354
+  },
+  {
+    "id": 827,
+    "data1": 912,
+    "data2": 882,
+    "data3": 829,
+    "data4": 910,
+    "price": 5078,
+    "number": 5057
+  },
+  {
+    "id": 828,
+    "data1": 891,
+    "data2": 861,
+    "data3": 888,
+    "data4": 877,
+    "price": 9327,
+    "number": 8499
+  },
+  {
+    "id": 829,
+    "data1": 845,
+    "data2": 912,
+    "data3": 873,
+    "data4": 869,
+    "price": 4036,
+    "number": 3796
+  },
+  {
+    "id": 830,
+    "data1": 915,
+    "data2": 842,
+    "data3": 875,
+    "data4": 832,
+    "price": 5802,
+    "number": 4817
+  },
+  {
+    "id": 831,
+    "data1": 883,
+    "data2": 833,
+    "data3": 861,
+    "data4": 860,
+    "price": 3332,
+    "number": 3715
+  },
+  {
+    "id": 832,
+    "data1": 908,
+    "data2": 895,
+    "data3": 906,
+    "data4": 898,
+    "price": 4484,
+    "number": 5199
+  },
+  {
+    "id": 833,
+    "data1": 888,
+    "data2": 919,
+    "data3": 925,
+    "data4": 911,
+    "price": 4737,
+    "number": 4206
+  },
+  {
+    "id": 834,
+    "data1": 903,
+    "data2": 885,
+    "data3": 909,
+    "data4": 897,
+    "price": 8230,
+    "number": 9056
+  },
+  {
+    "id": 835,
+    "data1": 872,
+    "data2": 918,
+    "data3": 916,
+    "data4": 926,
+    "price": 2127,
+    "number": 2484
+  },
+  {
+    "id": 836,
+    "data1": 872,
+    "data2": 910,
+    "data3": 880,
+    "data4": 920,
+    "price": 4512,
+    "number": 4774
+  },
+  {
+    "id": 837,
+    "data1": 926,
+    "data2": 865,
+    "data3": 869,
+    "data4": 926,
+    "price": 6729,
+    "number": 7096
+  },
+  {
+    "id": 838,
+    "data1": 872,
+    "data2": 902,
+    "data3": 862,
+    "data4": 899,
+    "price": 2502,
+    "number": 2470
+  },
+  {
+    "id": 839,
+    "data1": 925,
+    "data2": 926,
+    "data3": 848,
+    "data4": 886,
+    "price": 5320,
+    "number": 5150
+  },
+  {
+    "id": 840,
+    "data1": 926,
+    "data2": 886,
+    "data3": 929,
+    "data4": 926,
+    "price": 5146,
+    "number": 5983
+  },
+  {
+    "id": 841,
+    "data1": 841,
+    "data2": 898,
+    "data3": 903,
+    "data4": 923,
+    "price": 4532,
+    "number": 5127
+  },
+  {
+    "id": 842,
+    "data1": 885,
+    "data2": 898,
+    "data3": 850,
+    "data4": 903,
+    "price": 9394,
+    "number": 9402
+  },
+  {
+    "id": 843,
+    "data1": 934,
+    "data2": 861,
+    "data3": 861,
+    "data4": 936,
+    "price": 12999,
+    "number": 13093
+  },
+  {
+    "id": 844,
+    "data1": 882,
+    "data2": 901,
+    "data3": 885,
+    "data4": 866,
+    "price": 16362,
+    "number": 16281
+  },
+  {
+    "id": 845,
+    "data1": 919,
+    "data2": 904,
+    "data3": 876,
+    "data4": 889,
+    "price": 30504,
+    "number": 31350
+  },
+  {
+    "id": 846,
+    "data1": 882,
+    "data2": 893,
+    "data3": 867,
+    "data4": 873,
+    "price": 4321,
+    "number": 4537
+  },
+  {
+    "id": 847,
+    "data1": 902,
+    "data2": 894,
+    "data3": 883,
+    "data4": 914,
+    "price": 5229,
+    "number": 5832
+  },
+  {
+    "id": 848,
+    "data1": 942,
+    "data2": 937,
+    "data3": 931,
+    "data4": 896,
+    "price": 9964,
+    "number": 10809
+  },
+  {
+    "id": 849,
+    "data1": 856,
+    "data2": 863,
+    "data3": 899,
+    "data4": 862,
+    "price": 10922,
+    "number": 10560
+  },
+  {
+    "id": 850,
+    "data1": 919,
+    "data2": 900,
+    "data3": 929,
+    "data4": 917,
+    "price": 5904,
+    "number": 6097
+  },
+  {
+    "id": 851,
+    "data1": 882,
+    "data2": 860,
+    "data3": 946,
+    "data4": 914,
+    "price": 10436,
+    "number": 9633
+  },
+  {
+    "id": 852,
+    "data1": 908,
+    "data2": 891,
+    "data3": 915,
+    "data4": 944,
+    "price": 11490,
+    "number": 11820
+  },
+  {
+    "id": 853,
+    "data1": 877,
+    "data2": 863,
+    "data3": 941,
+    "data4": 895,
+    "price": 7652,
+    "number": 7751
+  },
+  {
+    "id": 854,
+    "data1": 891,
+    "data2": 866,
+    "data3": 918,
+    "data4": 884,
+    "price": 15240,
+    "number": 14307
+  },
+  {
+    "id": 855,
+    "data1": 861,
+    "data2": 899,
+    "data3": 888,
+    "data4": 860,
+    "price": 18032,
+    "number": 18101
+  },
+  {
+    "id": 856,
+    "data1": 945,
+    "data2": 947,
+    "data3": 918,
+    "data4": 868,
+    "price": 6338,
+    "number": 6634
+  },
+  {
+    "id": 857,
+    "data1": 920,
+    "data2": 926,
+    "data3": 931,
+    "data4": 892,
+    "price": 16242,
+    "number": 16608
+  },
+  {
+    "id": 858,
+    "data1": 881,
+    "data2": 955,
+    "data3": 863,
+    "data4": 892,
+    "price": 11784,
+    "number": 12260
+  },
+  {
+    "id": 859,
+    "data1": 923,
+    "data2": 883,
+    "data3": 879,
+    "data4": 911,
+    "price": 10545,
+    "number": 10212
+  },
+  {
+    "id": 860,
+    "data1": 900,
+    "data2": 877,
+    "data3": 940,
+    "data4": 957,
+    "price": 4157,
+    "number": 3745
+  },
+  {
+    "id": 861,
+    "data1": 923,
+    "data2": 885,
+    "data3": 899,
+    "data4": 910,
+    "price": 8649,
+    "number": 8317
+  },
+  {
+    "id": 862,
+    "data1": 955,
+    "data2": 918,
+    "data3": 945,
+    "data4": 928,
+    "price": 17580,
+    "number": 17185
+  },
+  {
+    "id": 863,
+    "data1": 925,
+    "data2": 911,
+    "data3": 877,
+    "data4": 869,
+    "price": 11080,
+    "number": 10144
+  },
+  {
+    "id": 864,
+    "data1": 865,
+    "data2": 886,
+    "data3": 932,
+    "data4": 937,
+    "price": 21472,
+    "number": 21659
+  },
+  {
+    "id": 865,
+    "data1": 917,
+    "data2": 907,
+    "data3": 908,
+    "data4": 902,
+    "price": 15729,
+    "number": 15177
+  },
+  {
+    "id": 866,
+    "data1": 932,
+    "data2": 925,
+    "data3": 925,
+    "data4": 929,
+    "price": 9867,
+    "number": 9793
+  },
+  {
+    "id": 867,
+    "data1": 923,
+    "data2": 929,
+    "data3": 930,
+    "data4": 965,
+    "price": 4542,
+    "number": 3916
+  },
+  {
+    "id": 868,
+    "data1": 924,
+    "data2": 879,
+    "data3": 875,
+    "data4": 955,
+    "price": 21684,
+    "number": 21054
+  },
+  {
+    "id": 869,
+    "data1": 930,
+    "data2": 910,
+    "data3": 947,
+    "data4": 914,
+    "price": 10172,
+    "number": 10606
+  },
+  {
+    "id": 870,
+    "data1": 891,
+    "data2": 920,
+    "data3": 936,
+    "data4": 897,
+    "price": 7010,
+    "number": 6504
+  },
+  {
+    "id": 871,
+    "data1": 920,
+    "data2": 930,
+    "data3": 946,
+    "data4": 965,
+    "price": 15312,
+    "number": 14645
+  },
+  {
+    "id": 872,
+    "data1": 969,
+    "data2": 919,
+    "data3": 880,
+    "data4": 913,
+    "price": 3574,
+    "number": 3519
+  },
+  {
+    "id": 873,
+    "data1": 904,
+    "data2": 879,
+    "data3": 937,
+    "data4": 933,
+    "price": 3688,
+    "number": 3008
+  },
+  {
+    "id": 874,
+    "data1": 973,
+    "data2": 885,
+    "data3": 894,
+    "data4": 924,
+    "price": 17574,
+    "number": 17414
+  },
+  {
+    "id": 875,
+    "data1": 938,
+    "data2": 902,
+    "data3": 915,
+    "data4": 933,
+    "price": 2429,
+    "number": 2350
+  },
+  {
+    "id": 876,
+    "data1": 944,
+    "data2": 929,
+    "data3": 877,
+    "data4": 940,
+    "price": 22712,
+    "number": 22073
+  },
+  {
+    "id": 877,
+    "data1": 888,
+    "data2": 965,
+    "data3": 908,
+    "data4": 952,
+    "price": 6534,
+    "number": 6524
+  },
+  {
+    "id": 878,
+    "data1": 945,
+    "data2": 897,
+    "data3": 908,
+    "data4": 969,
+    "price": 8944,
+    "number": 8993
+  },
+  {
+    "id": 879,
+    "data1": 893,
+    "data2": 887,
+    "data3": 896,
+    "data4": 970,
+    "price": 8250,
+    "number": 7492
+  },
+  {
+    "id": 880,
+    "data1": 900,
+    "data2": 901,
+    "data3": 893,
+    "data4": 978,
+    "price": 2989,
+    "number": 2567
+  },
+  {
+    "id": 881,
+    "data1": 953,
+    "data2": 908,
+    "data3": 942,
+    "data4": 894,
+    "price": 6948,
+    "number": 7466
+  },
+  {
+    "id": 882,
+    "data1": 926,
+    "data2": 952,
+    "data3": 949,
+    "data4": 935,
+    "price": 18820,
+    "number": 19340
+  },
+  {
+    "id": 883,
+    "data1": 983,
+    "data2": 941,
+    "data3": 886,
+    "data4": 945,
+    "price": 5013,
+    "number": 5990
+  },
+  {
+    "id": 884,
+    "data1": 887,
+    "data2": 954,
+    "data3": 959,
+    "data4": 978,
+    "price": 11742,
+    "number": 11821
+  },
+  {
+    "id": 885,
+    "data1": 977,
+    "data2": 965,
+    "data3": 953,
+    "data4": 886,
+    "price": 5583,
+    "number": 6004
+  },
+  {
+    "id": 886,
+    "data1": 910,
+    "data2": 920,
+    "data3": 902,
+    "data4": 960,
+    "price": 18108,
+    "number": 17166
+  },
+  {
+    "id": 887,
+    "data1": 933,
+    "data2": 961,
+    "data3": 951,
+    "data4": 973,
+    "price": 7516,
+    "number": 8102
+  },
+  {
+    "id": 888,
+    "data1": 979,
+    "data2": 980,
+    "data3": 946,
+    "data4": 976,
+    "price": 4280,
+    "number": 4199
+  },
+  {
+    "id": 889,
+    "data1": 890,
+    "data2": 922,
+    "data3": 948,
+    "data4": 902,
+    "price": 11174,
+    "number": 10663
+  },
+  {
+    "id": 890,
+    "data1": 984,
+    "data2": 909,
+    "data3": 943,
+    "data4": 910,
+    "price": 6486,
+    "number": 6437
+  },
+  {
+    "id": 891,
+    "data1": 988,
+    "data2": 967,
+    "data3": 990,
+    "data4": 899,
+    "price": 12404,
+    "number": 11770
+  },
+  {
+    "id": 892,
+    "data1": 933,
+    "data2": 930,
+    "data3": 941,
+    "data4": 897,
+    "price": 5009,
+    "number": 5456
+  },
+  {
+    "id": 893,
+    "data1": 898,
+    "data2": 956,
+    "data3": 952,
+    "data4": 924,
+    "price": 8872,
+    "number": 8525
+  },
+  {
+    "id": 894,
+    "data1": 981,
+    "data2": 899,
+    "data3": 898,
+    "data4": 902,
+    "price": 6710,
+    "number": 6200
+  },
+  {
+    "id": 895,
+    "data1": 915,
+    "data2": 988,
+    "data3": 959,
+    "data4": 975,
+    "price": 8086,
+    "number": 7254
+  },
+  {
+    "id": 896,
+    "data1": 951,
+    "data2": 899,
+    "data3": 987,
+    "data4": 949,
+    "price": 5816,
+    "number": 6770
+  },
+  {
+    "id": 897,
+    "data1": 918,
+    "data2": 994,
+    "data3": 977,
+    "data4": 963,
+    "price": 16371,
+    "number": 16285
+  },
+  {
+    "id": 898,
+    "data1": 926,
+    "data2": 961,
+    "data3": 914,
+    "data4": 931,
+    "price": 3685,
+    "number": 3260
+  },
+  {
+    "id": 899,
+    "data1": 972,
+    "data2": 917,
+    "data3": 946,
+    "data4": 983,
+    "price": 2627,
+    "number": 3166
+  },
+  {
+    "id": 900,
+    "data1": 919,
+    "data2": 972,
+    "data3": 978,
+    "data4": 987,
+    "price": 7740,
+    "number": 7430
+  },
+  {
+    "id": 901,
+    "data1": 965,
+    "data2": 972,
+    "data3": 957,
+    "data4": 999,
+    "price": 5180,
+    "number": 6141
+  },
+  {
+    "id": 902,
+    "data1": 937,
+    "data2": 1001,
+    "data3": 942,
+    "data4": 982,
+    "price": 6984,
+    "number": 6157
+  },
+  {
+    "id": 903,
+    "data1": 922,
+    "data2": 965,
+    "data3": 988,
+    "data4": 916,
+    "price": 10194,
+    "number": 9351
+  },
+  {
+    "id": 904,
+    "data1": 917,
+    "data2": 977,
+    "data3": 924,
+    "data4": 975,
+    "price": 11844,
+    "number": 11320
+  },
+  {
+    "id": 905,
+    "data1": 973,
+    "data2": 908,
+    "data3": 972,
+    "data4": 986,
+    "price": 6732,
+    "number": 6382
+  },
+  {
+    "id": 906,
+    "data1": 906,
+    "data2": 908,
+    "data3": 937,
+    "data4": 989,
+    "price": 3704,
+    "number": 4049
+  },
+  {
+    "id": 907,
+    "data1": 954,
+    "data2": 980,
+    "data3": 1007,
+    "data4": 962,
+    "price": 3906,
+    "number": 4518
+  },
+  {
+    "id": 908,
+    "data1": 919,
+    "data2": 920,
+    "data3": 982,
+    "data4": 960,
+    "price": 5577,
+    "number": 5057
+  },
+  {
+    "id": 909,
+    "data1": 969,
+    "data2": 1003,
+    "data3": 953,
+    "data4": 987,
+    "price": 4841,
+    "number": 5045
+  },
+  {
+    "id": 910,
+    "data1": 953,
+    "data2": 957,
+    "data3": 916,
+    "data4": 999,
+    "price": 5640,
+    "number": 6142
+  },
+  {
+    "id": 911,
+    "data1": 946,
+    "data2": 989,
+    "data3": 1009,
+    "data4": 920,
+    "price": 11282,
+    "number": 10489
+  },
+  {
+    "id": 912,
+    "data1": 912,
+    "data2": 940,
+    "data3": 941,
+    "data4": 944,
+    "price": 12760,
+    "number": 12710
+  },
+  {
+    "id": 913,
+    "data1": 1011,
+    "data2": 965,
+    "data3": 989,
+    "data4": 954,
+    "price": 2193,
+    "number": 2940
+  },
+  {
+    "id": 914,
+    "data1": 941,
+    "data2": 991,
+    "data3": 1004,
+    "data4": 962,
+    "price": 5977,
+    "number": 5310
+  },
+  {
+    "id": 915,
+    "data1": 959,
+    "data2": 952,
+    "data3": 1010,
+    "data4": 978,
+    "price": 6898,
+    "number": 7074
+  },
+  {
+    "id": 916,
+    "data1": 942,
+    "data2": 954,
+    "data3": 928,
+    "data4": 984,
+    "price": 10928,
+    "number": 10227
+  },
+  {
+    "id": 917,
+    "data1": 959,
+    "data2": 930,
+    "data3": 918,
+    "data4": 980,
+    "price": 3637,
+    "number": 3774
+  },
+  {
+    "id": 918,
+    "data1": 991,
+    "data2": 963,
+    "data3": 944,
+    "data4": 1008,
+    "price": 6915,
+    "number": 6870
+  },
+  {
+    "id": 919,
+    "data1": 988,
+    "data2": 994,
+    "data3": 1017,
+    "data4": 985,
+    "price": 2791,
+    "number": 3640
+  },
+  {
+    "id": 920,
+    "data1": 992,
+    "data2": 951,
+    "data3": 953,
+    "data4": 997,
+    "price": 3150,
+    "number": 4059
+  },
+  {
+    "id": 921,
+    "data1": 983,
+    "data2": 973,
+    "data3": 1001,
+    "data4": 969,
+    "price": 6324,
+    "number": 5343
+  },
+  {
+    "id": 922,
+    "data1": 977,
+    "data2": 995,
+    "data3": 927,
+    "data4": 950,
+    "price": 6962,
+    "number": 7627
+  },
+  {
+    "id": 923,
+    "data1": 1023,
+    "data2": 982,
+    "data3": 965,
+    "data4": 1014,
+    "price": 10448,
+    "number": 10704
+  },
+  {
+    "id": 924,
+    "data1": 1005,
+    "data2": 967,
+    "data3": 928,
+    "data4": 953,
+    "price": 16122,
+    "number": 16188
+  },
+  {
+    "id": 925,
+    "data1": 980,
+    "data2": 1014,
+    "data3": 955,
+    "data4": 948,
+    "price": 8144,
+    "number": 7386
+  },
+  {
+    "id": 926,
+    "data1": 932,
+    "data2": 1003,
+    "data3": 1023,
+    "data4": 991,
+    "price": 4090,
+    "number": 4240
+  },
+  {
+    "id": 927,
+    "data1": 960,
+    "data2": 1019,
+    "data3": 1025,
+    "data4": 1026,
+    "price": 7908,
+    "number": 8722
+  },
+  {
+    "id": 928,
+    "data1": 1004,
+    "data2": 959,
+    "data3": 938,
+    "data4": 1009,
+    "price": 23184,
+    "number": 23241
+  },
+  {
+    "id": 929,
+    "data1": 948,
+    "data2": 987,
+    "data3": 1001,
+    "data4": 931,
+    "price": 19080,
+    "number": 18587
+  },
+  {
+    "id": 930,
+    "data1": 985,
+    "data2": 999,
+    "data3": 1030,
+    "data4": 938,
+    "price": 15369,
+    "number": 16148
+  },
+  {
+    "id": 931,
+    "data1": 967,
+    "data2": 961,
+    "data3": 991,
+    "data4": 1011,
+    "price": 2963,
+    "number": 3380
+  },
+  {
+    "id": 932,
+    "data1": 983,
+    "data2": 1025,
+    "data3": 1000,
+    "data4": 968,
+    "price": 2922,
+    "number": 3079
+  },
+  {
+    "id": 933,
+    "data1": 1013,
+    "data2": 974,
+    "data3": 1032,
+    "data4": 993,
+    "price": 6011,
+    "number": 6527
+  },
+  {
+    "id": 934,
+    "data1": 956,
+    "data2": 993,
+    "data3": 1026,
+    "data4": 983,
+    "price": 19443,
+    "number": 20438
+  },
+  {
+    "id": 935,
+    "data1": 972,
+    "data2": 1022,
+    "data3": 969,
+    "data4": 957,
+    "price": 14001,
+    "number": 14836
+  },
+  {
+    "id": 936,
+    "data1": 942,
+    "data2": 953,
+    "data3": 1021,
+    "data4": 986,
+    "price": 9834,
+    "number": 9019
+  },
+  {
+    "id": 937,
+    "data1": 1008,
+    "data2": 1034,
+    "data3": 991,
+    "data4": 942,
+    "price": 8781,
+    "number": 8126
+  },
+  {
+    "id": 938,
+    "data1": 1026,
+    "data2": 941,
+    "data3": 968,
+    "data4": 958,
+    "price": 13054,
+    "number": 12670
+  },
+  {
+    "id": 939,
+    "data1": 945,
+    "data2": 969,
+    "data3": 979,
+    "data4": 977,
+    "price": 16671,
+    "number": 16687
+  },
+  {
+    "id": 940,
+    "data1": 1014,
+    "data2": 949,
+    "data3": 1036,
+    "data4": 1003,
+    "price": 11922,
+    "number": 11796
+  },
+  {
+    "id": 941,
+    "data1": 1024,
+    "data2": 1029,
+    "data3": 994,
+    "data4": 965,
+    "price": 2617,
+    "number": 1814
+  },
+  {
+    "id": 942,
+    "data1": 955,
+    "data2": 1008,
+    "data3": 1029,
+    "data4": 965,
+    "price": 3739,
+    "number": 2769
+  },
+  {
+    "id": 943,
+    "data1": 1016,
+    "data2": 980,
+    "data3": 977,
+    "data4": 975,
+    "price": 16104,
+    "number": 15328
+  },
+  {
+    "id": 944,
+    "data1": 962,
+    "data2": 953,
+    "data3": 982,
+    "data4": 1033,
+    "price": 10808,
+    "number": 11110
+  },
+  {
+    "id": 945,
+    "data1": 1040,
+    "data2": 968,
+    "data3": 1041,
+    "data4": 978,
+    "price": 13600,
+    "number": 13837
+  },
+  {
+    "id": 946,
+    "data1": 994,
+    "data2": 1029,
+    "data3": 1027,
+    "data4": 973,
+    "price": 5664,
+    "number": 5728
+  },
+  {
+    "id": 947,
+    "data1": 963,
+    "data2": 1021,
+    "data3": 976,
+    "data4": 1041,
+    "price": 3187,
+    "number": 2871
+  },
+  {
+    "id": 948,
+    "data1": 1007,
+    "data2": 981,
+    "data3": 975,
+    "data4": 962,
+    "price": 6295,
+    "number": 5912
+  },
+  {
+    "id": 949,
+    "data1": 991,
+    "data2": 1045,
+    "data3": 1036,
+    "data4": 964,
+    "price": 9840,
+    "number": 8905
+  },
+  {
+    "id": 950,
+    "data1": 955,
+    "data2": 1046,
+    "data3": 965,
+    "data4": 1029,
+    "price": 8295,
+    "number": 7732
+  },
+  {
+    "id": 951,
+    "data1": 967,
+    "data2": 979,
+    "data3": 1009,
+    "data4": 1047,
+    "price": 15939,
+    "number": 16327
+  },
+  {
+    "id": 952,
+    "data1": 993,
+    "data2": 958,
+    "data3": 1016,
+    "data4": 997,
+    "price": 2099,
+    "number": 2424
+  },
+  {
+    "id": 953,
+    "data1": 1046,
+    "data2": 964,
+    "data3": 1034,
+    "data4": 1034,
+    "price": 2638,
+    "number": 3521
+  },
+  {
+    "id": 954,
+    "data1": 959,
+    "data2": 974,
+    "data3": 1026,
+    "data4": 1046,
+    "price": 14919,
+    "number": 14770
+  },
+  {
+    "id": 955,
+    "data1": 970,
+    "data2": 1040,
+    "data3": 966,
+    "data4": 967,
+    "price": 9154,
+    "number": 8369
+  },
+  {
+    "id": 956,
+    "data1": 989,
+    "data2": 1048,
+    "data3": 1019,
+    "data4": 988,
+    "price": 10540,
+    "number": 10605
+  },
+  {
+    "id": 957,
+    "data1": 1049,
+    "data2": 1007,
+    "data3": 1039,
+    "data4": 988,
+    "price": 8704,
+    "number": 9673
+  },
+  {
+    "id": 958,
+    "data1": 1042,
+    "data2": 1012,
+    "data3": 1043,
+    "data4": 960,
+    "price": 21516,
+    "number": 22381
+  },
+  {
+    "id": 959,
+    "data1": 1034,
+    "data2": 1023,
+    "data3": 991,
+    "data4": 1057,
+    "price": 25748,
+    "number": 25535
+  },
+  {
+    "id": 960,
+    "data1": 1039,
+    "data2": 984,
+    "data3": 960,
+    "data4": 1033,
+    "price": 12076,
+    "number": 12819
+  },
+  {
+    "id": 961,
+    "data1": 965,
+    "data2": 1016,
+    "data3": 981,
+    "data4": 988,
+    "price": 5242,
+    "number": 5732
+  },
+  {
+    "id": 962,
+    "data1": 969,
+    "data2": 1038,
+    "data3": 1024,
+    "data4": 1052,
+    "price": 3710,
+    "number": 3747
+  },
+  {
+    "id": 963,
+    "data1": 1041,
+    "data2": 1009,
+    "data3": 1052,
+    "data4": 1012,
+    "price": 13408,
+    "number": 12459
+  },
+  {
+    "id": 964,
+    "data1": 1058,
+    "data2": 967,
+    "data3": 1009,
+    "data4": 992,
+    "price": 33858,
+    "number": 33293
+  },
+  {
+    "id": 965,
+    "data1": 1023,
+    "data2": 982,
+    "data3": 1000,
+    "data4": 1046,
+    "price": 6366,
+    "number": 7242
+  },
+  {
+    "id": 966,
+    "data1": 1024,
+    "data2": 984,
+    "data3": 1060,
+    "data4": 1048,
+    "price": 4747,
+    "number": 5001
+  },
+  {
+    "id": 967,
+    "data1": 992,
+    "data2": 997,
+    "data3": 996,
+    "data4": 1006,
+    "price": 13116,
+    "number": 13686
+  },
+  {
+    "id": 968,
+    "data1": 1050,
+    "data2": 1023,
+    "data3": 972,
+    "data4": 994,
+    "price": 3741,
+    "number": 3629
+  },
+  {
+    "id": 969,
+    "data1": 979,
+    "data2": 1015,
+    "data3": 1061,
+    "data4": 1027,
+    "price": 26820,
+    "number": 26079
+  },
+  {
+    "id": 970,
+    "data1": 975,
+    "data2": 1055,
+    "data3": 1001,
+    "data4": 1064,
+    "price": 4521,
+    "number": 5401
+  },
+  {
+    "id": 971,
+    "data1": 1029,
+    "data2": 1009,
+    "data3": 971,
+    "data4": 1029,
+    "price": 7356,
+    "number": 7004
+  },
+  {
+    "id": 972,
+    "data1": 1022,
+    "data2": 1001,
+    "data3": 1021,
+    "data4": 1007,
+    "price": 12592,
+    "number": 13483
+  },
+  {
+    "id": 973,
+    "data1": 1069,
+    "data2": 1045,
+    "data3": 992,
+    "data4": 1037,
+    "price": 14757,
+    "number": 15550
+  },
+  {
+    "id": 974,
+    "data1": 988,
+    "data2": 985,
+    "data3": 997,
+    "data4": 1002,
+    "price": 2039,
+    "number": 1863
+  },
+  {
+    "id": 975,
+    "data1": 1009,
+    "data2": 1052,
+    "data3": 1063,
+    "data4": 1024,
+    "price": 3978,
+    "number": 4385
+  },
+  {
+    "id": 976,
+    "data1": 1046,
+    "data2": 983,
+    "data3": 1018,
+    "data4": 1042,
+    "price": 15428,
+    "number": 15377
+  },
+  {
+    "id": 977,
+    "data1": 992,
+    "data2": 993,
+    "data3": 1044,
+    "data4": 1059,
+    "price": 12496,
+    "number": 11616
+  },
+  {
+    "id": 978,
+    "data1": 993,
+    "data2": 994,
+    "data3": 1006,
+    "data4": 1058,
+    "price": 7952,
+    "number": 7162
+  },
+  {
+    "id": 979,
+    "data1": 1063,
+    "data2": 999,
+    "data3": 1069,
+    "data4": 1045,
+    "price": 9048,
+    "number": 9056
+  },
+  {
+    "id": 980,
+    "data1": 1055,
+    "data2": 1069,
+    "data3": 1015,
+    "data4": 1021,
+    "price": 8974,
+    "number": 9070
+  },
+  {
+    "id": 981,
+    "data1": 996,
+    "data2": 1047,
+    "data3": 1067,
+    "data4": 1015,
+    "price": 12318,
+    "number": 12544
+  },
+  {
+    "id": 982,
+    "data1": 1037,
+    "data2": 1053,
+    "data3": 1080,
+    "data4": 1063,
+    "price": 13008,
+    "number": 12077
+  },
+  {
+    "id": 983,
+    "data1": 1069,
+    "data2": 998,
+    "data3": 1015,
+    "data4": 1047,
+    "price": 8244,
+    "number": 7344
+  },
+  {
+    "id": 984,
+    "data1": 1063,
+    "data2": 1039,
+    "data3": 1055,
+    "data4": 1049,
+    "price": 7508,
+    "number": 7542
+  },
+  {
+    "id": 985,
+    "data1": 1058,
+    "data2": 1077,
+    "data3": 1054,
+    "data4": 1022,
+    "price": 6244,
+    "number": 6300
+  },
+  {
+    "id": 986,
+    "data1": 1035,
+    "data2": 1066,
+    "data3": 1083,
+    "data4": 1059,
+    "price": 8332,
+    "number": 8781
+  },
+  {
+    "id": 987,
+    "data1": 1033,
+    "data2": 1008,
+    "data3": 990,
+    "data4": 1050,
+    "price": 2838,
+    "number": 2348
+  },
+  {
+    "id": 988,
+    "data1": 1008,
+    "data2": 1040,
+    "data3": 1030,
+    "data4": 1071,
+    "price": 9236,
+    "number": 9813
+  },
+  {
+    "id": 989,
+    "data1": 1070,
+    "data2": 1051,
+    "data3": 1008,
+    "data4": 1015,
+    "price": 5088,
+    "number": 4989
+  },
+  {
+    "id": 990,
+    "data1": 1036,
+    "data2": 1071,
+    "data3": 1064,
+    "data4": 1055,
+    "price": 7090,
+    "number": 7112
+  },
+  {
+    "id": 991,
+    "data1": 1089,
+    "data2": 1015,
+    "data3": 1043,
+    "data4": 1091,
+    "price": 12648,
+    "number": 13228
+  },
+  {
+    "id": 992,
+    "data1": 1074,
+    "data2": 1011,
+    "data3": 999,
+    "data4": 1036,
+    "price": 13828,
+    "number": 13940
+  },
+  {
+    "id": 993,
+    "data1": 1085,
+    "data2": 1048,
+    "data3": 994,
+    "data4": 1015,
+    "price": 6703,
+    "number": 7239
+  },
+  {
+    "id": 994,
+    "data1": 1057,
+    "data2": 1052,
+    "data3": 1074,
+    "data4": 1064,
+    "price": 7464,
+    "number": 8227
+  },
+  {
+    "id": 995,
+    "data1": 1059,
+    "data2": 1074,
+    "data3": 1067,
+    "data4": 1011,
+    "price": 7234,
+    "number": 6419
+  },
+  {
+    "id": 996,
+    "data1": 1072,
+    "data2": 1086,
+    "data3": 1056,
+    "data4": 1080,
+    "price": 11334,
+    "number": 10995
+  },
+  {
+    "id": 997,
+    "data1": 1026,
+    "data2": 1051,
+    "data3": 1088,
+    "data4": 1035,
+    "price": 3184,
+    "number": 2957
+  },
+  {
+    "id": 998,
+    "data1": 1029,
+    "data2": 1084,
+    "data3": 1015,
+    "data4": 1046,
+    "price": 7758,
+    "number": 8364
+  },
+  {
+    "id": 999,
+    "data1": 1057,
+    "data2": 1010,
+    "data3": 1039,
+    "data4": 1055,
+    "price": 19635,
+    "number": 20057
+  },
+  {
+    "id": 1000,
+    "data1": 1081,
+    "data2": 1030,
+    "data3": 1001,
+    "data4": 1091,
+    "price": 6968,
+    "number": 6332
+  }
+]
