@@ -13,8 +13,8 @@
 <style>
     body {
         /*background-color: lightgray;*/
-        /*background-color: #FFFFFF;*/
-        background-color: #DDDDDD;
+        background-color: #FFFFFF;
+        /*background-color: #DDDDDD;*/
         /*overflow: hidden;*/
     }
 
@@ -37,7 +37,8 @@
 
     .div2 {
         margin: 0.1px;
-        background-color: #EEEFFF;
+        /*background-color: #EEEFFF;*/
+        background-color: #FFFFFF;
         z-index: 100;
         width: 100%;
         height: 480px;
@@ -81,15 +82,16 @@
     <br>
     <!--    <br>-->
     <div class="row">
-        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-2 div1">
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 div1">
             <div class="div2" id="d"></div>
-        </div>
-        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-5 div1">
-            <div class="div2" id="e"></div>
         </div>
         <div class="col-xs-12 col-sm-6 col-md-4 col-lg-5 div1">
             <div class="div2" id="f"></div>
         </div>
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 div1">
+            <div class="div2" id="e"></div>
+        </div>
+
         <!--        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 div1">-->
         <!--            <div class="div2" id="c"></div>-->
         <!--        </div>-->
@@ -335,7 +337,7 @@
                         axisLine: {
                             lineStyle: {
                                 width: 2,
-                                color: '#FFFFFF'
+                                color: '#000'
                             }
                         },
                     }
@@ -427,25 +429,26 @@
                 ],
                 yAxis: [
                     {
-
                         type: 'value',
                         axisLine: {
                             lineStyle: {
                                 // color: '#CECECE'
-                                color: '#FFF'
+                                color: '#000'
                             }
                         }
                     }
                 ],
                 series: [
                     {
+                        showSymbol: true,
+                        // symbol: 'none',
                         name: '商品',
                         type: 'line',
-                        symbol: 'none',
                         smooth: 0.2,
                         // color: ['#66AEDE'],
-                        color: '#1AE694',
-                        show: false,
+                        // color: '#1AE694',
+                        color: 'lightblue',
+                        show: true,
                         data: listy
                     }
                 ]
@@ -517,16 +520,17 @@
                         type: 'value',
                         axisLine: {
                             lineStyle: {
-                                color: '#CECECE'
+                                color: '#000'
                             }
                         }
                     }
                 ],
                 series: [
                     {
+                        showSymbol: true,
+                        // symbol: 'none',
                         name: '商品',
                         type: 'line',
-                        symbol: 'none',
                         smooth: 0.2,
                         // color: ['#66AEDE'],
                         // color: '#1AE694',
@@ -603,16 +607,17 @@
                         type: 'value',
                         axisLine: {
                             lineStyle: {
-                                color: '#CECECE'
+                                color: '#000'
                             }
                         }
                     }
                 ],
                 series: [
                     {
+                        showSymbol: true,
+                        // symbol: 'none',
                         name: '商品',
                         type: 'line',
-                        symbol: 'none',
                         smooth: 0.2,
                         // color: ['#66AEDE'],
                         // color: '#1AE694',
@@ -689,19 +694,21 @@
                         type: 'value',
                         axisLine: {
                             lineStyle: {
-                                color: '#CECECE'
+                                color: '#000'
                             }
                         }
                     }
                 ],
                 series: [
                     {
+                        showSymbol: true,
+                        // symbol: 'none',
                         name: '商品',
                         type: 'line',
-                        symbol: 'none',
                         smooth: 0.2,
                         // color: ['#66AEDE'],
-                        color: '#1AE694',
+                        // color: '#1AE694',
+                        color: 'lightblue',
                         show: false,
                         data: listy
                     }

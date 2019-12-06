@@ -321,8 +321,8 @@
                 y: 'top',                  // 垂直安放位置，默认为全图顶端，可选为：
                                            // 'top' ¦ 'bottom' ¦ 'center'
                                            // ¦ {number}（y坐标，单位px）
-                backgroundColor: 'rgba(122,122,255,0.8)',
-                borderColor: '#1AE694',       // 图例边框颜色
+                backgroundColor: 'rgba(122,122,255,0.1)',
+                borderColor: '#DDDFFF',       // 图例边框颜色
                 borderWidth: 1,            // 图例边框线宽，单位px，默认为0（无边框）
                 padding: 5,                // 图例内边距，单位px，默认各方向内边距为5，
                                            // 接受数组分别设定上右下左边距，同css
@@ -331,7 +331,7 @@
                 itemWidth: 20,             // 图例图形宽度
                 itemHeight: 14,            // 图例图形高度
                 textStyle: {
-                    color: '#333'          // 图例文字颜色
+                    color: '#000'          // 图例文字颜色
                 },
 
                 width: worldMapContainer.style.width
@@ -378,16 +378,16 @@
                     color: '#1AE694',
                     data: listy
                 },
-                // {
-                //     showSymbol: true,
-                //     name: '22',
-                //     type: 'line',
-                //     // symbol: 'none',
-                //     smooth: 0.2,
-                //     // color: ['#66AEDE'],
-                //     color: '#00FF99',
-                //     data: listz
-                // }
+                {
+                    showSymbol: true,
+                    name: '22',
+                    type: 'line',
+                    // symbol: 'none',
+                    smooth: 0.2,
+                    // color: ['#66AEDE'],
+                    color: '#FA1A9F',
+                    data: listz
+                }
             ]
         };
         setInterval(function () {
