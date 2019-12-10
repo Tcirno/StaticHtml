@@ -11,11 +11,25 @@
 
 </head>
 <style>
+    html {
+        /*62.5用于实现rem的值为10px*/
+        /*原rem的值为16px*/
+        /*font-size: 62.5%;*/
+
+    }
+
     body {
         /*background-color: lightgray;*/
-        background-color: #FFFFFF;
-        /*background-color: #DDDDDD;*/
+        /*background-color: #FFFFFF;*/
+        background-color: #f8f9fc;
         /*overflow: hidden;*/
+    }
+
+    .div_d {
+        height: 32rem;
+        -moz-box-shadow: 0 0 10px #646c9a;
+        -webkit-box-shadow: 0 0 10px #646c9a;
+        box-shadow: 0 0 10px #646c9a;
     }
 
     .div1 {
@@ -23,7 +37,8 @@
         /*background-color: transparent;*/
         /*border: 1px solid #000;*/
         width: 100%;
-        height: 500px;
+        /*height: 500px;*/
+        height: 32rem;
         z-index: 80;
         margin-top: 0rem;
 
@@ -45,28 +60,37 @@
         z-index: 100;
         width: 100%;
         /*origin:480*/
-        height: 470px;
+        /*height: 470px;*/
+        height: 30rem;
         /*background-color: grey;*/
         /*-moz-box-shadow:0 0 10px #06c;*/
         /*-webkit-box-shadow:0 0 10px #06c;*/
         /*box-shadow:0 0 10px #06c;*/
 
-        -moz-box-shadow: 0 0 10px #646c9a;
-        -webkit-box-shadow: 0 0 10px #646c9a;
-        box-shadow: 0 0 10px #646c9a;
+        /*-moz-box-shadow: 0 0 10px #646c9a;*/
+        /*-webkit-box-shadow: 0 0 10px #646c9a;*/
+        /*box-shadow: 0 0 10px #646c9a;*/
     }
 
-    .divt {
+    .div_t {
         margin-top: 0.8rem;
         /*margin-bottom: -0.3rem;*/
         width: 100%;
-        min-height: 20px;
+        /*min-height: 20px;*/
+        height: 2rem;
         z-index: 80;
-        font-size: 200%;
+        font-size: 2rem;
         color: #010230;
         font-style: normal;
         font-family: 楷体;
         background-color: lightblue;
+    }
+
+    h3 {
+        margin-top: 0.88rem;
+        font-family: 仿宋;
+        font-size: 1.44rem;
+        margin-bottom: 0rem;
     }
 </style>
 <body>
@@ -77,51 +101,65 @@
 <!--单一折线 单一折线 饼图g 饼图f-->
 
 <div class="container-fluid">
+    <h3>第一行的数据</h3>
     <div class="row">
         <!--        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 div1">-->
         <!--            <div class="div2" id="container"></div>-->
         <!--        </div>-->
         <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 div1">
-            <div class="divt">
-                <h6 style="top: 0rem;">双折线图测试</h6>
-            </div>
-            <div class="div2" id="a">
-                <h5 style="z-index: 150">2333333</h5>
+            <div class="div_d">
+                <div class="div_t">
+                    <h6 style="top: 0rem;">双折线图测试</h6>
+                </div>
+                <div class="div2" id="a">
+                    <h5 style="z-index: 150">2333333</h5>
+                </div>
             </div>
         </div>
         <div class="col-xs-12 col-sm-6 col-md-4 col-lg-5 div1">
-            <div class="divt">
-                <h6 style="top: 0rem;">双折线图测试</h6>
+            <div class="div_d">
+                <div class="div_t">
+                    <h6 style="top: 0rem;">双折线图测试</h6>
+                </div>
+                <div class="div2" id="b"></div>
             </div>
-            <div class="div2" id="b"></div>
         </div>
         <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 div1">
-            <div class="divt">
-                <h6 style="top: 0rem;">双折线图测试</h6>
+            <div class="div_d">
+                <div class="div_t">
+                    <h6 style="top: 0rem;">双折线图测试</h6>
+                </div>
+                <div class="div2" id="g"></div>
             </div>
-            <div class="div2" id="g"></div>
         </div>
     </div>
-        <br>
+    <!--        <br>-->
     <!--    <br>-->
+    <h3>第二行的数据</h3>
     <div class="row">
         <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 div1">
-            <div class="divt">
-                <h6 style="top: 0rem;">双折线图测试</h6>
+            <div class="div_d">
+                <div class="div_t">
+                    <h6 style="top: 0rem;">双折线图测试</h6>
+                </div>
+                <div class="div2" id="d"></div>
             </div>
-            <div class="div2" id="d"></div>
         </div>
         <div class="col-xs-12 col-sm-6 col-md-4 col-lg-5 div1">
-            <div class="divt">
-                <h6 style="top: 0rem;">双折线图测试</h6>
+            <div class="div_d">
+                <div class="div_t">
+                    <h6 style="top: 0rem;">双折线图测试</h6>
+                </div>
+                <div class="div2" id="f"></div>
             </div>
-            <div class="div2" id="f"></div>
         </div>
         <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 div1">
-            <div class="divt">
-                <h6 style="top: 0rem;">双折线图测试</h6>
+            <div class="div_d">
+                <div class="div_t">
+                    <h6 style="top: 0rem;">双折线图测试</h6>
+                </div>
+                <div class="div2" id="e"></div>
             </div>
-            <div class="div2" id="e"></div>
         </div>
 
         <!--        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 div1">-->
