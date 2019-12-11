@@ -73,24 +73,35 @@
     }
 
     .div_t {
-        margin-top: 0.8rem;
+        /*margin-top: 0.8rem;*/
+        border-bottom: 1px solid #e3e6f0;
+        border-radius: calc(.35rem - 1px) calc(.35rem - 1px) 0 0;
+        /*padding-top: 0.8rem!important;*/
+        /*padding-bottom: 0.8rem!important;*/
+        padding: .75rem .25rem;
+        margin-bottom: 0;
+        background-color: #f8f9fc;
+        border-bottom: 1px solid #e3e6f0;
         /*margin-bottom: -0.3rem;*/
         width: 100%;
         /*min-height: 20px;*/
         height: 2rem;
         z-index: 80;
-        font-size: 2rem;
+        font-size: 1rem;
         color: #010230;
         font-style: normal;
         font-family: 楷体;
-        background-color: lightblue;
+        /*background-color: lightblue;*/
+    }
+
+    .div_t h6 {
     }
 
     h3 {
         margin-top: 0.88rem;
         font-family: 仿宋;
         font-size: 1.44rem;
-        margin-bottom: 0rem;
+        /*margin-bottom: 0rem;*/
     }
 </style>
 <body>
@@ -109,7 +120,7 @@
         <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 div1">
             <div class="div_d">
                 <div class="div_t">
-                    <h6 style="top: 0rem;">双折线图测试</h6>
+                    <h6 class="m-0 font-weight-bold text-primary">双折线图测试</h6>
                 </div>
                 <div class="div2" id="a">
                     <h5 style="z-index: 150">2333333</h5>
