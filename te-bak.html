@@ -1,0 +1,899 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>test</title>
+
+    <script src="https://cdn.bootcss.com/echarts/4.4.0-rc.1/echarts-en.common.js"></script>
+    <script src="https://cdn.staticfile.org/jquery/3.2.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/4.3.1/css/bootstrap.min.css">
+    <script src="https://cdn.staticfile.org/twitter-bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+</head>
+<style>
+    html {
+        /*62.5用于实现rem的值为10px*/
+        /*原rem的值为16px*/
+        /*font-size: 62.5%;*/
+
+    }
+
+    body {
+        /*background-color: lightgray;*/
+        /*background-color: #FFFFFF;*/
+        background-color: #f8f9fc;
+        /*overflow: hidden;*/
+    }
+
+    .div_d {
+        height: 32rem;
+        -moz-box-shadow: 0 0 10px #646c9a;
+        -webkit-box-shadow: 0 0 10px #646c9a;
+        box-shadow: 0 0 10px #646c9a;
+    }
+
+    .div1 {
+        /*background-color: lightgray;*/
+        /*background-color: transparent;*/
+        /*border: 1px solid #000;*/
+        width: 100%;
+        /*height: 500px;*/
+        height: 32rem;
+        z-index: 80;
+        margin-top: 0rem;
+
+
+        /*width: 500px;*/
+        /*height: 500px;*/
+        /*!*内部居中专用*!*/
+        /*display: flex;*/
+        /*justify-content: center;*/
+        /*align-items: center;*/
+
+        /*background-color: red;*/
+    }
+
+    .div2 {
+        margin: 0.1px;
+        /*background-color: #EEEFFF;*/
+        background-color: #FFFFFF;
+        z-index: 100;
+        width: 100%;
+        /*origin:480*/
+        /*height: 470px;*/
+        height: 30rem;
+        /*background-color: grey;*/
+        /*-moz-box-shadow:0 0 10px #06c;*/
+        /*-webkit-box-shadow:0 0 10px #06c;*/
+        /*box-shadow:0 0 10px #06c;*/
+
+        /*-moz-box-shadow: 0 0 10px #646c9a;*/
+        /*-webkit-box-shadow: 0 0 10px #646c9a;*/
+        /*box-shadow: 0 0 10px #646c9a;*/
+    }
+
+    .div_t {
+        /*margin-top: 0.8rem;*/
+        border-bottom: 1px solid #e3e6f0;
+        border-radius: calc(.35rem - 1px) calc(.35rem - 1px) 0 0;
+        /*padding-top: 0.8rem!important;*/
+        /*padding-bottom: 0.8rem!important;*/
+        padding: .75rem .25rem;
+        margin-bottom: 0;
+        background-color: #f8f9fc;
+        border-bottom: 1px solid #e3e6f0;
+        color: #4e73df !important;
+        /*margin-bottom: -0.3rem;*/
+        width: 100%;
+        /*min-height: 20px;*/
+        height: 2rem;
+        z-index: 80;
+        font-size: 1rem;
+        /*color: #010230;*/
+        font-style: normal;
+        font-family: 楷体;
+        /*background-color: lightblue;*/
+    }
+
+    .div_t h6 {
+    }
+
+    .tit {
+        height: 4.375rem;
+        width: 100%;
+        text-align: center;
+        background-color: #FFFFFF;
+        padding: 0 0 0 0;
+        margin: 0 0 0 0;
+
+        float: left;
+        line-height: 3.75rem; /*让黄色div中的文字内容垂直居中*/
+        /*position: absolute;*/
+        /*top:50%;*/
+        /*margin-top: -50px;*/
+        /*margin-left: 200px;*/
+
+        -moz-box-shadow: 0 0 10px #646c9a;
+        color: #b3b7ce;
+        -webkit-box-shadow: 0 0 10px #646c9a;
+        box-shadow: 0 0 10px #646c9a;
+    }
+
+    h3 {
+        margin-top: 0.88rem;
+        font-family: 仿宋;
+        font-size: 1.44rem;
+        /*margin-bottom: 0rem;*/
+    }
+</style>
+<body>
+<!--container==x-->
+<!--x a b e-->
+<!--可动折线 双折线 单一折线 单一折线-->
+<!--d g c f -->
+<!--单一折线 单一折线 饼图g 饼图f-->
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col tit"><p>11223ss</p></div>
+    </div>
+    <h3>第一行的数据</h3>
+    <div class="row">
+        <!--        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 div1">-->
+        <!--            <div class="div2" id="container"></div>-->
+        <!--        </div>-->
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 div1">
+            <div class="div_d">
+                <div class="div_t">
+                    <!--                    <h6 class="m-0 font-weight-bold text-primary">双折线图测试</h6>-->
+                    <h6>双折线图测试</h6>
+                </div>
+                <div class="div2" id="a">
+                    <h5 style="z-index: 150">2333333</h5>
+                </div>
+            </div>
+        </div>
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-5 div1">
+            <div class="div_d">
+                <div class="div_t">
+                    <h6 style="top: 0rem;">双折线图测试</h6>
+                </div>
+                <div class="div2" id="b"></div>
+            </div>
+        </div>
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 div1">
+            <div class="div_d">
+                <div class="div_t">
+                    <h6 style="top: 0rem;">双折线图测试</h6>
+                </div>
+                <div class="div2" id="g"></div>
+            </div>
+        </div>
+    </div>
+    <!--        <br>-->
+    <!--    <br>-->
+    <h3>第二行的数据</h3>
+    <div class="row">
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 div1">
+            <div class="div_d">
+                <div class="div_t">
+                    <h6 style="top: 0rem;">双折线图测试</h6>
+                </div>
+                <div class="div2" id="d"></div>
+            </div>
+        </div>
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-5 div1">
+            <div class="div_d">
+                <div class="div_t">
+                    <h6 style="top: 0rem;">双折线图测试</h6>
+                </div>
+                <div class="div2" id="f"></div>
+            </div>
+        </div>
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 div1">
+            <div class="div_d">
+                <div class="div_t">
+                    <h6 style="top: 0rem;">双折线图测试</h6>
+                </div>
+                <div class="div2" id="e"></div>
+            </div>
+        </div>
+
+        <!--        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 div1">-->
+        <!--            <div class="div2" id="c"></div>-->
+        <!--        </div>-->
+
+    </div>
+</div>
+<!--这是可动折线图-->
+<!--container-->
+<script type="text/javascript">
+    var dom = document.getElementById("container");
+    var myChart = echarts.init(dom);
+
+    option = null;
+    $.get('src/lineout6.json', function (data) {
+        var n = 150;
+
+        listx6 = [];
+        listy6 = [];
+        for (var i = 0; i < 150; i++) {
+            listx6.push(data[i].id);
+            listy6.push(data[i].price);
+            n = i;
+        }
+        option = {
+            title: {
+                text: '单次读取json数据动态少量显示'
+            },
+            tooltip: {
+                trigger: 'axis',
+            },
+            // backgroundColor: "#000",
+
+            xAxis: [
+                {
+                    show: false,
+                    axisLabel: {
+                        rotate: 30,
+                        interval: 0
+                    },
+                    axisLine: {
+                        lineStyle: {
+                            // color: '#CECECE'
+                            color: '#FFF999'
+                        }
+                    },
+                    type: 'category',
+                    // boundaryGap: false,
+                    boundaryGap: [0, '100%'],
+                    data: listx6
+                }
+            ],
+
+            yAxis: {
+                type: 'value',
+                // color:'#1AE694',
+                boundaryGap: [0, '100%'],
+                axisLine: {
+                    lineStyle: {
+                        // color: '#CECECE'
+                        color: '#FFF'
+                    }
+                },
+                splitLine: {
+                    show: false
+                }
+            },
+            series: [{
+                name: '模拟数据',
+                type: 'line',
+                showSymbol: false,
+                hoverAnimation: false,
+                data: listy6
+            }]
+        };
+
+        setInterval(function () {
+
+            for (var i = 0; i < 1; i++) {
+                listx6.shift();
+                listx6.push(data[n].id);
+                listy6.shift();
+                listy6.push(data[n].price);
+                n++;
+                // window.alert(n)
+                // window.alert(data[i].value)
+            }
+            myChart.setOption({xAxis: [{data: listx6}], series: [{data: listy6}]});
+        }, 1000);
+
+        if (option && typeof option === "object") {
+            myChart.setOption(option, true);
+        }
+    })
+</script>
+<!--f 饼-->
+<script>
+    var emid = 'f';
+    var worldMapContainer = document.getElementById(emid);
+
+    var resizeWorldMapContainer = function () {
+        worldMapContainer.style.width = document.getElementById(emid).offsetWidth + 'px';
+    };
+    var myChartf = echarts.init(worldMapContainer);
+
+    var listxf = [];
+    var listyf = [];
+    var num = 100;
+    setInterval(function () {
+        resizeWorldMapContainer();
+        $.get('src/pieout1.json', function (data) {
+            optionf = {
+                title: {
+                    text: '某站点用户访问来源',
+                    subtext: '纯属虚构',
+                    x: 'center'
+                },
+                tooltip: {
+                    trigger: 'item',
+                    formatter: "{a} <br/>{b} : {c} ({d}%)"
+                },
+                legend: {
+                    orient: 'vertical',
+                    left: 'left',
+                    data: ['直接访问', '邮件营销', '联盟广告', '视频广告', '搜索引擎']
+                },
+                series: [
+                    {
+                        name: '访问来源',
+                        type: 'pie',
+                        radius: '55%',
+                        center: ['50%', '60%'],
+                        data: [
+                            {value: data[82].data1, name: '直接访问'},
+                            {value: data[82].data2, name: '邮件营销'},
+                            {value: data[82].data3, name: '联盟广告'},
+                            {value: data[82].data4, name: '视频广告'},
+                            {value: data[82].data5, name: '搜索引擎'}
+                        ],
+                        itemStyle: {
+                            emphasis: {
+                                shadowBlur: 10,
+                                shadowOffsetX: 0,
+                                shadowColor: 'rgba(0, 0, 0, 0.5)'
+                            }
+                        }
+                    }
+                ]
+            };
+            myChartf.setOption(optionf);
+            window.onresize = function () {
+                //重置容器高宽
+                resizeWorldMapContainer();
+                myChartf.resize();
+            };
+        });
+    }, 1000);
+</script>
+<!--a-->
+<script>
+
+    // id=a使用的js
+    var emid = 'a';
+    var worldMapContainer = document.getElementById(emid);
+
+    var resizeWorldMapContainer = function () {
+        worldMapContainer.style.width = document.getElementById("a").offsetWidth + 'px';
+    };
+    var myChartOne = echarts.init(worldMapContainer);
+
+    var listx = [];
+    var listy = [];
+    var listz = [];
+    // var num = 2333;
+    setInterval(function () {
+        resizeWorldMapContainer();
+        $.get('src/lineout1.json', function (data) {
+
+            listx = [];
+            listy = [];
+            listz = [];
+            num = 50;
+            for (var i = 0; i <= num - 1; i++) {
+                listx.push(data[i].id);
+                listy.push(data[i].price);
+                listz.push(data[i].number);
+            }
+
+            var option1 = {
+                backgroundColor: '',
+                tooltip: {
+                    trigger: 'axis'
+                },
+                legend: {
+                    // data: ['充值', '消费'],
+                    data: ['商品', '22'],
+
+                    orient: 'horizontal',      // 布局方式，默认为水平布局，可选为：
+                    // 'horizontal' ¦ 'vertical'
+                    x: 'center',               // 水平安放位置，默认为全图居中，可选为：
+                                               // 'center' ¦ 'left' ¦ 'right'
+                                               // ¦ {number}（x坐标，单位px）
+                    y: 'top',                  // 垂直安放位置，默认为全图顶端，可选为：
+                                               // 'top' ¦ 'bottom' ¦ 'center'
+                                               // ¦ {number}（y坐标，单位px）
+                    backgroundColor: 'rgba(122,122,255,0.8)',
+                    borderColor: '#1AE694',       // 图例边框颜色
+                    borderWidth: 1,            // 图例边框线宽，单位px，默认为0（无边框）
+                    padding: 5,                // 图例内边距，单位px，默认各方向内边距为5，
+                                               // 接受数组分别设定上右下左边距，同css
+                    itemGap: 50,               // 各个item之间的间隔，单位px，默认为10，
+                                               // 横向布局时为水平间隔，纵向布局时为纵向间隔
+                    itemWidth: 20,             // 图例图形宽度
+                    itemHeight: 14,            // 图例图形高度
+                    textStyle: {
+                        color: '#333'          // 图例文字颜色
+                    },
+
+                    width: worldMapContainer.style.width
+                },
+                calculable: true,
+                xAxis: [
+                    {
+                        show: false,
+                        axisLabel: {
+                            rotate: 30,
+                            interval: 0
+                        },
+                        axisLine: {
+                            lineStyle: {
+                                // color: '#CECECE'
+                                color: '#FFF999'
+                            }
+                        },
+                        type: 'category',
+                        boundaryGap: false,
+                        data: listx
+                    }
+                ],
+                yAxis: [
+                    {
+                        show: true,
+                        type: 'value',
+                        axisLine: {
+                            lineStyle: {
+                                width: 2,
+                                color: '#000'
+                            }
+                        },
+                    }
+                ],
+                series: [
+                    {
+                        showSymbol: true,
+                        name: '商品',
+                        type: 'line',
+                        // symbol: 'none',
+                        smooth: 0.2,
+                        // color: ['#66AEDE'],
+                        color: '#1186A1',
+                        data: listy
+                    },
+                    {
+                        showSymbol: true,
+                        name: '22',
+                        type: 'line',
+                        // symbol: 'none',
+                        smooth: 0.2,
+                        // color: ['#66AEDE'],
+                        color: '#00AACD',
+                        data: listz
+                    }
+                ]
+            };
+            myChartOne.setOption(option1);
+            window.onresize = function () {
+                //重置容器高宽
+                resizeWorldMapContainer();
+                myChartOne.resize();
+            };
+        });
+    }, 1000);
+
+</script>
+<!--b-->
+<script>
+    var emid = 'b';
+    var worldMapContainer = document.getElementById(emid);
+
+    var resizeWorldMapContainer = function () {
+        worldMapContainer.style.width = document.getElementById(emid).offsetWidth + 'px';
+    };
+    myChart2 = echarts.init(worldMapContainer);
+
+    var listx = [];
+    var listy = [];
+    var num = 100;
+    setInterval(function () {
+        resizeWorldMapContainer();
+        $.get('src/lineout2.json', function (data) {
+            listx = [];
+            listy = [];
+            for (var i = 0; i <= num - 1; i++) {
+                listx.push(data[i].id);
+                listy.push(data[i].price);
+            }
+
+            var option2 = {
+                backgroundColor: '',
+                tooltip: {
+                    trigger: 'axis'
+                },
+                legend: {
+                    // data: ['充值', '消费'],
+                    data: ['商品'],
+                    width: worldMapContainer.style.width
+                },
+                calculable: true,
+
+                xAxis: [
+                    {
+                        axisLabel: {
+                            rotate: 30,
+                            interval: 0
+                        },
+                        axisLine: {
+                            lineStyle: {
+                                color: '#CECECE'
+                            }
+                        },
+                        type: 'category',
+                        boundaryGap: false,
+                        show: false,
+                        data: listx
+                    }
+                ],
+                yAxis: [
+                    {
+                        type: 'value',
+                        axisLine: {
+                            lineStyle: {
+                                // color: '#CECECE'
+                                color: '#000'
+                            }
+                        }
+                    }
+                ],
+                series: [
+                    {
+                        showSymbol: true,
+                        // symbol: 'none',
+                        name: '商品',
+                        type: 'line',
+                        smooth: 0.2,
+                        // color: ['#66AEDE'],
+                        // color: '#1AE694',
+                        color: 'lightblue',
+                        show: true,
+                        data: listy
+                    }
+                ]
+            };
+            myChart2.setOption(option2);
+            window.onresize = function () {
+                //重置容器高宽
+                resizeWorldMapContainer();
+                myChart2.resize();
+            };
+        })
+    }, 1000);
+</script>
+<!--c-->
+<script>
+    var emid = 'c';
+    var worldMapContainer = document.getElementById(emid);
+
+    var resizeWorldMapContainer = function () {
+        worldMapContainer.style.width = document.getElementById(emid).offsetWidth + 'px';
+    };
+    var myChart3 = echarts.init(worldMapContainer);
+
+    var listx = [];
+    var listy = [];
+    var num = 100;
+    setInterval(function () {
+        resizeWorldMapContainer();
+        $.get('src/lineout3.json', function (data) {
+            listx = [];
+            listy = [];
+            for (var i = 0; i <= num - 1; i++) {
+                listx.push(data[i].id);
+                listy.push(data[i].price);
+            }
+
+            var option3 = {
+                backgroundColor: '',
+                tooltip: {
+                    trigger: 'axis'
+                },
+                legend: {
+                    // data: ['充值', '消费'],
+                    data: ['商品'],
+                    width: worldMapContainer.style.width
+                },
+                calculable: true,
+
+                xAxis: [
+                    {
+                        axisLabel: {
+                            rotate: 30,
+                            interval: 0
+                        },
+                        axisLine: {
+                            lineStyle: {
+                                color: '#CECECE'
+                            }
+                        },
+                        type: 'category',
+                        boundaryGap: false,
+                        show: false,
+                        data: listx
+                    }
+                ],
+                yAxis: [
+                    {
+
+                        type: 'value',
+                        axisLine: {
+                            lineStyle: {
+                                color: '#000'
+                            }
+                        }
+                    }
+                ],
+                series: [
+                    {
+                        showSymbol: true,
+                        // symbol: 'none',
+                        name: '商品',
+                        type: 'line',
+                        smooth: 0.2,
+                        // color: ['#66AEDE'],
+                        // color: '#1AE694',
+                        color: '#2e59d9',
+                        show: false,
+                        data: listy
+                    }
+                ]
+            };
+            myChart3.setOption(option3);
+            window.onresize = function () {
+                //重置容器高宽
+                resizeWorldMapContainer();
+                myChart3.resize();
+            };
+        })
+    }, 1000);
+</script>
+<!--d-->
+<script>
+    var emid = 'd';
+    var worldMapContainer = document.getElementById(emid);
+
+    var resizeWorldMapContainer = function () {
+        worldMapContainer.style.width = document.getElementById(emid).offsetWidth + 'px';
+    };
+    var myChart4 = echarts.init(worldMapContainer);
+
+    var listx = [];
+    var listy = [];
+    var num = 100;
+    setInterval(function () {
+        resizeWorldMapContainer();
+        $.get('src/lineout4.json', function (data) {
+            listx = [];
+            listy = [];
+            for (var i = 0; i <= num - 1; i++) {
+                listx.push(data[i].id);
+                listy.push(data[i].price);
+            }
+
+            var option4 = {
+                backgroundColor: '',
+                tooltip: {
+                    trigger: 'axis'
+                },
+                legend: {
+                    // data: ['充值', '消费'],
+                    data: ['商品'],
+                    width: worldMapContainer.style.width
+                },
+                calculable: true,
+
+                xAxis: [
+                    {
+                        axisLabel: {
+                            rotate: 30,
+                            interval: 0
+                        },
+                        axisLine: {
+                            lineStyle: {
+                                color: '#CECECE'
+                            }
+                        },
+                        type: 'category',
+                        boundaryGap: false,
+                        show: false,
+                        data: listx
+                    }
+                ],
+                yAxis: [
+                    {
+
+                        type: 'value',
+                        axisLine: {
+                            lineStyle: {
+                                color: '#000'
+                            }
+                        }
+                    }
+                ],
+                series: [
+                    {
+                        showSymbol: true,
+                        // symbol: 'none',
+                        name: '商品',
+                        type: 'line',
+                        smooth: 0.2,
+                        // color: ['#66AEDE'],
+                        // color: '#1AE694',
+                        color: '#2e59d9',
+                        show: false,
+                        data: listy
+                    }
+                ]
+            };
+            myChart4.setOption(option4);
+            window.onresize = function () {
+                //重置容器高宽
+                resizeWorldMapContainer();
+                myChart4.resize();
+            };
+        })
+    }, 1000);
+</script>
+<!--e-->
+<script>
+    var emid = 'e';
+    var worldMapContainer = document.getElementById(emid);
+
+    var resizeWorldMapContainer = function () {
+        worldMapContainer.style.width = document.getElementById(emid).offsetWidth + 'px';
+    };
+    var myChart5 = echarts.init(worldMapContainer);
+
+    var listx = [];
+    var listy = [];
+    var num = 100;
+    setInterval(function () {
+        resizeWorldMapContainer();
+        $.get('src/lineout5.json', function (data) {
+            listx = [];
+            listy = [];
+            for (var i = 0; i <= num - 1; i++) {
+                listx.push(data[i].id);
+                listy.push(data[i].price);
+            }
+
+            var option5 = {
+                backgroundColor: '',
+                tooltip: {
+                    trigger: 'axis'
+                },
+                legend: {
+                    // data: ['充值', '消费'],
+                    data: ['商品'],
+                    width: worldMapContainer.style.width
+                },
+                calculable: true,
+
+                xAxis: [
+                    {
+                        axisLabel: {
+                            rotate: 30,
+                            interval: 0
+                        },
+                        axisLine: {
+                            lineStyle: {
+                                color: '#CECECE'
+                            }
+                        },
+                        type: 'category',
+                        boundaryGap: false,
+                        show: false,
+                        data: listx
+                    }
+                ],
+                yAxis: [
+                    {
+
+                        type: 'value',
+                        axisLine: {
+                            lineStyle: {
+                                color: '#000'
+                            }
+                        }
+                    }
+                ],
+                series: [
+                    {
+                        showSymbol: true,
+                        // symbol: 'none',
+                        name: '商品',
+                        type: 'line',
+                        smooth: 0.2,
+                        // color: ['#66AEDE'],
+                        // color: '#1AE694',
+                        color: 'lightblue',
+                        show: false,
+                        data: listy
+                    }
+                ]
+            };
+            myChart5.setOption(option5);
+            window.onresize = function () {
+                //重置容器高宽
+                resizeWorldMapContainer();
+                myChart5.resize();
+            };
+        })
+    }, 1000);
+</script>
+
+<!--尝试异步g-->
+<!--g 饼-->
+<script>
+    var emid = 'g';
+    var worldMapContainer = document.getElementById(emid);
+
+    var resizeWorldMapContainer = function () {
+        worldMapContainer.style.width = document.getElementById(emid).offsetWidth + 'px';
+    };
+    var myChart7 = echarts.init(worldMapContainer);
+
+    var listx = [];
+    var listy = [];
+    var num = 100;
+    setInterval(function () {
+        resizeWorldMapContainer();
+        $.get('src/pieout2.json', function (data) {
+            option7 = {
+                title: {
+                    text: '某站点用户访问来源',
+                    subtext: '纯属虚构',
+                    x: 'center'
+                },
+                tooltip: {
+                    trigger: 'item',
+                    formatter: "{a} <br/>{b} : {c} ({d}%)"
+                },
+                legend: {
+                    orient: 'vertical',
+                    left: 'left',
+                    data: ['直接访问', '邮件营销', '联盟广告', '视频广告', '搜索引擎']
+                },
+                series: [
+                    {
+                        name: '访问来源',
+                        type: 'pie',
+                        radius: '55%',
+                        center: ['50%', '60%'],
+                        data: [
+                            {value: data[82].data1, name: '直接访问'},
+                            {value: data[82].data2, name: '邮件营销'},
+                            {value: data[82].data3, name: '联盟广告'},
+                            {value: data[82].data4, name: '视频广告'},
+                            {value: data[82].data5, name: '搜索引擎'}
+                        ],
+                        itemStyle: {
+                            emphasis: {
+                                shadowBlur: 10,
+                                shadowOffsetX: 0,
+                                shadowColor: 'rgba(0, 0, 0, 0.5)'
+                            }
+                        }
+                    }
+                ]
+            };
+            myChart7.setOption(option7);
+            window.onresize = function () {
+                //重置容器高宽
+                resizeWorldMapContainer();
+                myChart7.resize();
+            };
+        });
+    }, 1000);
+</script>
+</body>
+</html>
