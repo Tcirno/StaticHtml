@@ -32,6 +32,7 @@
         /*-webkit-box-shadow: 0 0 10px #888888;*/
         box-shadow: 0 .15rem 1.75rem 0 rgba(58, 59, 69, .17) !important;
         border-left: .216rem solid #4e73df;
+
         /*box-shadow: 0 0 0.68rem 0.1rem #888888;*/
 
         /*-moz-box-shadow: 0 0 10px #646c9a;*/
@@ -64,13 +65,15 @@
 
     .div2 {
         margin: 0;
+        text-align: right !important;
         /*background-color: #EEEFFF;*/
         background-color: #FFFFFF;
         z-index: 100;
         width: 100%;
+        height: 30rem;
         /*origin:480*/
         /*height: 470px;*/
-        height: 30rem;
+
         /*background-color: grey;*/
         /*-moz-box-shadow:0 0 10px #06c;*/
         /*-webkit-box-shadow:0 0 10px #06c;*/
@@ -162,14 +165,14 @@
                 </div>
             </div>
         </div>
-<!--        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-5 div1">-->
-<!--            <div class="div_d">-->
-<!--                <div class="div_t">-->
-<!--                    <h6 style="top: 0rem;">双折线图测试</h6>-->
-<!--                </div>-->
-<!--                <div class="div2" id="b"></div>-->
-<!--            </div>-->
-<!--        </div>-->
+        <!--        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-5 div1">-->
+        <!--            <div class="div_d">-->
+        <!--                <div class="div_t">-->
+        <!--                    <h6 style="top: 0rem;">双折线图测试</h6>-->
+        <!--                </div>-->
+        <!--                <div class="div2" id="b"></div>-->
+        <!--            </div>-->
+        <!--        </div>-->
         <div class="col-xs-12 col-sm-6 col-md-4 col-lg-7 div1">
             <div class="div_d" style="border-left: .216rem solid lightgreen;">
                 <div class="div_t">
@@ -192,7 +195,7 @@
             </div>
         </div>
         <div class="col-xs-12 col-sm-6 col-md-4 col-lg-5 div1">
-            <div class="div_d"  style="border-left: .216rem solid lightsalmon;">
+            <div class="div_d" style="border-left: .216rem solid lightsalmon;">
                 <div class="div_t">
                     <h6 style="top: 0rem;">双折线图测试</h6>
                 </div>
@@ -868,6 +871,8 @@
                     formatter: "{a} <br/>{b} : {c} ({d}%)"
                 },
                 legend: {
+                    x: 'right',
+                    y: 'center',
                     orient: 'vertical',
                     left: 'left',
                     data: ['直接访问', '邮件营销', '联盟广告', '视频广告', '搜索引擎']
